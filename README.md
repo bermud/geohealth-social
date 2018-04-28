@@ -23,7 +23,7 @@ We will:
 
 **Schedule:**
 
-- May 1 - kickoff Project
-- May 8 - data sources, API keys, setup server, base map, logic code for the analysis
+- May 1 - Kickoff Project
+- May 8 - Data sources, API keys, setup server, base map, logic code for the analysis
 - May 15 - Interim presentation
-- May 22 - final project
+- May 22 - Presentation
