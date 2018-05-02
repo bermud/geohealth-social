@@ -1,0 +1,1 @@
+Create in this folder script related to parse twitter data
