@@ -19,7 +19,7 @@ We will:
 - Database/server support - Jack and Mark 
 - Visualization - Hunt and Akin
 - Data - Xiu xiu
-- Analytics - Neftali and Sara
+- Analytics - Nephtali and Sara
 
 **Schedule:**
 
