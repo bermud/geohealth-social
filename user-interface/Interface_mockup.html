@@ -65,21 +65,15 @@ var baseLayers = {
     "Streets": streets
 };
 
-<!-- tutorial data for layer control panel -->
-var cities = L.layerGroup();
-	L.marker([39.61, -105.02]).bindPopup('This is Littleton, CO.').addTo(cities),
-	L.marker([39.74, -104.99]).bindPopup('This is Denver, CO.').addTo(cities),
-	L.marker([39.73, -104.8]).bindPopup('This is Aurora, CO.').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('This is Golden, CO.').addTo(cities);
 
 
 var map = L.map('map', {
 		center: [38.922778, -76.628333],
 		zoom: 8,
-		layers: [grayscale, cities]
+		layers: [grayscale]
 	});
 	
-/* COMMENT OUT THIS PART WHILE I FIGURE OUT THE REST
+
 var opiates_MarkerOptions = {
     radius: 10,
     fillColor: "#ff0000",
@@ -89,6 +83,7 @@ var opiates_MarkerOptions = {
     fillOpacity: 0.6
 };
 
+/* COMMENT OUT THIS PART WHILE I FIGURE OUT THE REST
 var narcan_MarkerOptions = {
     radius: 10,
     fillColor: "#0000ff",
@@ -107,11 +102,6 @@ var overdose_MarkerOptions = {
     fillOpacity: 0.6
 };
 
-opiatesTweetsLayer = L.geoJson(mark_tweets, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, opiates_MarkerOptions);
-    }, onEachFeature: onEachFeature
-});
 
 narcanTweetsLayer = L.geoJson(sarah_tweets, {
     pointToLayer: function (feature, latlng) {
@@ -128,8 +118,14 @@ overdoseTweetsLayer = L.geoJson(hunt_tweets, {
 var tweets = L.layerGroup([opiatesTweetsLayer, narcanTweetsLayer, overdoseTweetsLayer]);
 */
 
+opiatesTweetsLayer = L.geoJson(myTweets, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, opiates_MarkerOptions);
+    }, onEachFeature: onEachFeature
+});
+
 var overlays = {
-	"Cities": cities
+	"Opiates Tweets" : opiatesTweetsLayer
 };
 
 
