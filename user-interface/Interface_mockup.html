@@ -13,7 +13,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 	
 	<script src="midtermNew.json" type="text/javascript"></script>
-
+	<script src="md_counties.geojson" type="text/javascript"></script>
 
 
 	<style>
@@ -74,6 +74,14 @@ var map = L.map('map', {
 	});
 	
 
+var countystyle = {
+	fillColor: "#0000ff",
+	color: "#33cc33",
+	weight: 3,
+	opacity: 0.8,
+	fillopacity: 0.4
+	};
+	
 var opiates_MarkerOptions = {
     radius: 10,
     fillColor: "#ff0000",
@@ -124,6 +132,11 @@ opiatesTweetsLayer = L.geoJson(myTweets, {
     }, onEachFeature: onEachFeature
 });
 
+
+countiesLayer = L.geoJson(counties);
+countypolyCollection = L.polygon(countiesLayer);
+		
+	
 var overlays = {
 	"Opiates Tweets" : opiatesTweetsLayer
 };
