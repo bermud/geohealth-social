@@ -30,7 +30,7 @@ t = twitter.Twitter(auth=auth)
 
 ## search all tweets with keywords
 word = "opioid, opiod crisis, narcan, overdose"
-t2 = t.search.tweets(q=%23opioidcrisis%2C%20OR%20%23opioid%2C%20OR%20%23narcan%2C%20OR%20%23overdoes%20near%3A"maryland"%20within%3A15mi&src=typd,count=100)
+t2 = t.search.tweets(q=near%3A"maryland"%20within%3A15mi&src=typd)
 print ("print 100 last tweets containing the text "+ word)
 print (json.dumps(t2, indent=4, sort_keys=True))
 
