@@ -132,10 +132,6 @@ opiatesTweetsLayer = L.geoJson(myTweets, {
     }, onEachFeature: onEachFeature
 });
 
-
-countiesLayer = L.geoJson(counties);
-countypolyCollection = L.polygon(countiesLayer);
-		
 	
 var overlays = {
 	"Opiates Tweets" : opiatesTweetsLayer
