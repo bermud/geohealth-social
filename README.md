@@ -27,3 +27,6 @@ We will:
 - May 8 - Data sources, API keys, setup server, base map, logic code for the analysis
 - May 15 - Interim presentation
 - May 22 - Presentation
+
+**Beta Website**
+http://54.159.0.89/Interface_mockup_with_poly.html
