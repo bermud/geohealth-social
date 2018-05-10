@@ -1,1 +1,1 @@
-plase in this folder the javascript code for the visualization
+place in this folder the javascript code for the visualization
