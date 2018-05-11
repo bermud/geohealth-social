@@ -1,0 +1,2158 @@
+{
+    "search_metadata": {
+        "completed_in": 0.108, 
+        "count": 15, 
+        "max_id": 995004789250576384, 
+        "max_id_str": "995004789250576384", 
+        "next_results": "?max_id=994844446444457983&q=%28need%20OR%20want%20OR%20needing%20OR%20wanting%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20pain%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "query": "%28need+OR+want+OR+needing+OR+wanting%29+AND+%28Greenies+OR+dillies+OR+painkiller+OR+painkillers+OR+pain+OR+killers+OR+pills+OR+smack+OR+skag%29%26geocode%3A38.708889%2C-76.335%2C50km", 
+        "refresh_url": "?since_id=995004789250576384&q=%28need%20OR%20want%20OR%20needing%20OR%20wanting%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20pain%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 18:16:42 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2742018267, 
+                        "id_str": "2742018267", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                        "screen_name": "czarna_mala"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 995004789250576384, 
+            "id_str": "995004789250576384", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:23:31 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/p3QjeQuTuN"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 17, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994946104356671488, 
+                "id_str": "994946104356671488", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 44675, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1608, 
+                    "following": false, 
+                    "friends_count": 2064, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2742018267, 
+                    "id_str": "2742018267", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "pl", 
+                    "listed_count": 11, 
+                    "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                    "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_link_color": "91D2FA", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "czarna_mala", 
+                    "statuses_count": 37994, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @czarna_mala: I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is someone wh\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Apr 18 15:09:43 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Moonwalker \ud83c\udf19\nTinista \ud83d\udc9c\nRuggerista \ud83d\udc9c\nJorgista \ud83d\udc9c", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 3615, 
+                "follow_request_sent": false, 
+                "followers_count": 104, 
+                "following": false, 
+                "friends_count": 213, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 854351238036676608, 
+                "id_str": "854351238036676608", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "pl", 
+                "listed_count": 0, 
+                "location": "", 
+                "name": "Fuck the Press, Michael is the Best! \ud83c\udf19\ud83d\udc9c", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/854351238036676608/1522670144", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/980777623382122498/3QzS6bNP_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/980777623382122498/3QzS6bNP_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Ruggmylove_17", 
+                "statuses_count": 4556, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 18:09:48 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2742018267, 
+                        "id_str": "2742018267", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                        "screen_name": "czarna_mala"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 995003051860733952, 
+            "id_str": "995003051860733952", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:23:31 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/p3QjeQuTuN"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 17, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994946104356671488, 
+                "id_str": "994946104356671488", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 44675, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1608, 
+                    "following": false, 
+                    "friends_count": 2064, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2742018267, 
+                    "id_str": "2742018267", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "pl", 
+                    "listed_count": 11, 
+                    "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                    "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_link_color": "91D2FA", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "czarna_mala", 
+                    "statuses_count": 37994, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @czarna_mala: I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is someone wh\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Oct 25 01:46:53 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "I Love and Respect MJ and everything he stood for. I am a mom of 5, and grama of 5. I am simply Grama Sassy! (That's what my grandbabies call me anyways .)\ud83d\ude0e\u270c", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4564, 
+                "follow_request_sent": false, 
+                "followers_count": 71, 
+                "following": false, 
+                "friends_count": 236, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 923002894051430400, 
+                "id_str": "923002894051430400", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "", 
+                "name": "Lisa", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/923002894051430400/1525649223", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/984176929753452545/rlesLOLU_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/984176929753452545/rlesLOLU_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Lisa60157686", 
+                "statuses_count": 4193, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 17:06:37 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994987149240893440", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/XcJhdCslNK"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994987149240893440, 
+            "id_str": "994987149240893440", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "I stopped channeling my empathic abilities into absorbing people's pain and instead started using it to see into ot\u2026 https://t.co/XcJhdCslNK", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed May 01 18:44:34 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u2728\u2728Hair & Beauty & Magic \u2728\u2728 Personal account: stories politics metaphysics scifi cats \ud83d\udc9a Creator of @kikibabemagic \ud83d\udc7d Booking: kikibabemagic@gmail.com", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "kikibabemagic.com/shop", 
+                                "expanded_url": "http://kikibabemagic.com/shop", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/emnmbNZt0T"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 29523, 
+                "follow_request_sent": false, 
+                "followers_count": 1115, 
+                "following": false, 
+                "friends_count": 657, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1395277728, 
+                "id_str": "1395277728", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 36, 
+                "location": "California, USA", 
+                "name": "\u6850\u5b50 \u83ca\u6c60", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153415028/YgK6NS_-.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153415028/YgK6NS_-.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395277728/1522258062", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/980995892378419200/_o-mjiu7_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/980995892378419200/_o-mjiu7_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "kirikokikuchi", 
+                "statuses_count": 20008, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/emnmbNZt0T", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 16:05:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994971785454997508", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/Ndpg1Ryg7Q"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994971785454997508, 
+            "id_str": "994971785454997508", 
+            "in_reply_to_screen_name": "barmb17123", 
+            "in_reply_to_status_id": 994970938268499968, 
+            "in_reply_to_status_id_str": "994970938268499968", 
+            "in_reply_to_user_id": 3780915614, 
+            "in_reply_to_user_id_str": "3780915614", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "We want adequate medical research into gun violence, marijuana medical research for Americans suffering from neurol\u2026 https://t.co/Ndpg1Ryg7Q", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Oct 04 12:15:52 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Mom to two pound puppies, avid quilter, crocheter, writer and ACTIVE RESISTER.  No DM please", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 44208, 
+                "follow_request_sent": false, 
+                "followers_count": 620, 
+                "following": false, 
+                "friends_count": 555, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 3780915614, 
+                "id_str": "3780915614", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "California, USA", 
+                "name": "Barbara PROUD Democrat", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3780915614/1522075634", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/978282018638249984/-Y6c9HOo_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/978282018638249984/-Y6c9HOo_normal.jpg", 
+                "profile_link_color": "91D2FA", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "barmb17123", 
+                "statuses_count": 18210, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 15:39:39 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2742018267, 
+                        "id_str": "2742018267", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                        "screen_name": "czarna_mala"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994965264159522816, 
+            "id_str": "994965264159522816", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:23:31 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/p3QjeQuTuN"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 17, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994946104356671488, 
+                "id_str": "994946104356671488", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 44675, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1608, 
+                    "following": false, 
+                    "friends_count": 2064, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2742018267, 
+                    "id_str": "2742018267", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "pl", 
+                    "listed_count": 11, 
+                    "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                    "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_link_color": "91D2FA", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "czarna_mala", 
+                    "statuses_count": 37994, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @czarna_mala: I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is someone wh\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Dec 15 13:55:36 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\u00c8very \u0110ay \u00cavery \u0160ingle \u013bife", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 35796, 
+                "follow_request_sent": false, 
+                "followers_count": 603, 
+                "following": false, 
+                "friends_count": 363, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 941668064793202689, 
+                "id_str": "941668064793202689", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "INDIA.sivakasi ", 
+                "name": "\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/941668064793202689/1513346814", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993007668666163200/PK443yLo_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993007668666163200/PK443yLo_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Pandiselvaraj13", 
+                "statuses_count": 32711, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 15:16:19 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2742018267, 
+                        "id_str": "2742018267", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                        "screen_name": "czarna_mala"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994959395048992769, 
+            "id_str": "994959395048992769", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:23:31 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/p3QjeQuTuN"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 17, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994946104356671488, 
+                "id_str": "994946104356671488", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 44675, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1608, 
+                    "following": false, 
+                    "friends_count": 2064, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2742018267, 
+                    "id_str": "2742018267", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "pl", 
+                    "listed_count": 11, 
+                    "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                    "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_link_color": "91D2FA", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "czarna_mala", 
+                    "statuses_count": 37994, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @czarna_mala: I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is someone wh\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 13 18:53:26 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "I love Michael Jackson||Thanks for the follow||You're welcome if I just followed you||No direct message please||", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4252, 
+                "follow_request_sent": false, 
+                "followers_count": 337, 
+                "following": false, 
+                "friends_count": 139, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 841361575973810176, 
+                "id_str": "841361575973810176", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "", 
+                "name": "Peter Pan", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/841361575973810176/1511808157", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/962715242315767808/ls6kLhKn_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/962715242315767808/ls6kLhKn_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "mjisasweetheart", 
+                "statuses_count": 4079, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:26:08 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2742018267, 
+                        "id_str": "2742018267", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                        "screen_name": "czarna_mala"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994946765970444288, 
+            "id_str": "994946765970444288", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:23:31 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/p3QjeQuTuN"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 17, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994946104356671488, 
+                "id_str": "994946104356671488", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 44675, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1608, 
+                    "following": false, 
+                    "friends_count": 2064, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2742018267, 
+                    "id_str": "2742018267", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "pl", 
+                    "listed_count": 11, 
+                    "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                    "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_link_color": "91D2FA", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "czarna_mala", 
+                    "statuses_count": 37994, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @czarna_mala: I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is someone wh\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 44675, 
+                "follow_request_sent": false, 
+                "followers_count": 1608, 
+                "following": false, 
+                "friends_count": 2064, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2742018267, 
+                "id_str": "2742018267", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "pl", 
+                "listed_count": 11, 
+                "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                "profile_link_color": "91D2FA", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "czarna_mala", 
+                "statuses_count": 37994, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:24:11 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2742018267, 
+                        "id_str": "2742018267", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                        "screen_name": "czarna_mala"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994946272544124928, 
+            "id_str": "994946272544124928", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:23:31 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/p3QjeQuTuN"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 17, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994946104356671488, 
+                "id_str": "994946104356671488", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 44675, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1608, 
+                    "following": false, 
+                    "friends_count": 2064, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2742018267, 
+                    "id_str": "2742018267", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "pl", 
+                    "listed_count": 11, 
+                    "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                    "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                    "profile_link_color": "91D2FA", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "czarna_mala", 
+                    "statuses_count": 37994, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @czarna_mala: I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is someone wh\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Jun 23 06:21:49 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Loyal to #MichaelJackson #Forever /Graphics Editor /Believer /True Friendships /Michael's Angel Of Peace/ MJ Fam 48/ Counting /40 + only for my new followers \ud83c\udf39", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/channel/UCEgim\u2026", 
+                                "expanded_url": "https://www.youtube.com/channel/UCEgimmcxEspXFG28pLa8ZDg", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Npn4ixjWL2"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 253368, 
+                "follow_request_sent": false, 
+                "followers_count": 1549, 
+                "following": false, 
+                "friends_count": 1174, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2583445254, 
+                "id_str": "2583445254", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 71, 
+                "location": "\ud83c\udde8\ud83c\udde6\ud83d\udd4aSNG/ MJ Fam Accoun\ud83d\udd4a\ud83c\udde8\ud83c\udde6", 
+                "name": "Diamond's Heart_ 2018\ud83c\udf37\ud83c\udde8\ud83c\udde6\ud83c\udf37", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2583445254/1522641019", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991454406511034373/i1nolL9t_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991454406511034373/i1nolL9t_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ItsDiamondMarie", 
+                "statuses_count": 22197, 
+                "time_zone": "Atlantic Time (Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/Npn4ixjWL2", 
+                "utc_offset": -10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:23:31 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994946104356671488", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/p3QjeQuTuN"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 17, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994946104356671488, 
+            "id_str": "994946104356671488", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "I do not know if friends are staying or if there is love, if I can count on you to talk about pain, if there is som\u2026 https://t.co/p3QjeQuTuN", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Aug 13 20:17:57 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "@Laliespos @mariannmartinez\ud83c\udde6\ud83c\uddf7\ud83d\udc51KING OF POP\ud83d\udc51 ''AMAZING AND UNIQUE FAVOURITE BIGGEST AND BEST ARTIST GREAT FAN LOVE YOU FOREVER I MISS YOU ''@MichaelJackson", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 44675, 
+                "follow_request_sent": false, 
+                "followers_count": 1608, 
+                "following": false, 
+                "friends_count": 2064, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2742018267, 
+                "id_str": "2742018267", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "pl", 
+                "listed_count": 11, 
+                "location": "California, USA\ud83c\uddfa\ud83c\uddf8", 
+                "name": "Michell.BellaM.J\ud83c\udf0e\ud83d\uddfd", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742018267/1516798581", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/946011589005766656/VmJ6It91_normal.jpg", 
+                "profile_link_color": "91D2FA", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "czarna_mala", 
+                "statuses_count": 37994, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:17:55 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994944696903331841", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/ovRqQYHTAQ"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 284278132, 
+                        "id_str": "284278132", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Morgan Housel", 
+                        "screen_name": "morganhousel"
+                    }, 
+                    {
+                        "id": 2457147852, 
+                        "id_str": "2457147852", 
+                        "indices": [
+                            14, 
+                            29
+                        ], 
+                        "name": "Fervent Finance", 
+                        "screen_name": "ferventfinance"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994944696903331841, 
+            "id_str": "994944696903331841", 
+            "in_reply_to_screen_name": "morganhousel", 
+            "in_reply_to_status_id": 994943859791745024, 
+            "in_reply_to_status_id_str": "994943859791745024", 
+            "in_reply_to_user_id": 284278132, 
+            "in_reply_to_user_id_str": "284278132", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@morganhousel @ferventfinance No one likes to hear its partially their fault or what theyre doing is harmful. They\u2026 https://t.co/ovRqQYHTAQ", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Apr 28 05:40:59 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "All your theta are belong to us. 4x short tuition costs, long 3x Dad.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 9954, 
+                "follow_request_sent": false, 
+                "followers_count": 240, 
+                "following": false, 
+                "friends_count": 460, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 3215802131, 
+                "id_str": "3215802131", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 12, 
+                "location": "California, USA", 
+                "name": "Zaphod", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/878324384544374785/SVijWYPj_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/878324384544374785/SVijWYPj_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "MinvstrD", 
+                "statuses_count": 4268, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:05:36 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 1911823716, 
+                        "id_str": "1911823716", 
+                        "indices": [
+                            3, 
+                            17
+                        ], 
+                        "name": "\u2b50\ufe0f Li Da God \u2744\ufe0f", 
+                        "screen_name": "LiStarChillin"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994941598482956288, 
+            "id_str": "994941598482956288", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 13:54:49 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994938882365054976", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/SE1TF25QLs"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 1, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994938882365054976, 
+                "id_str": "994938882365054976", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Why dont yall females put in yall bio \u201cdont go smack at me\u201d cause yall only interested in what yall interested in .\u2026 https://t.co/SE1TF25QLs", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Sep 27 18:04:17 +0000 2013", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "\u2b50\ufe0f \u30b9\u30bf\u30fc\u30c1\u30ea\u30f3 \ud83e\udd88\u2744\ufe0fBOOKING:marshallithegod@gmail.com", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "spnr.la/5tumrRsb", 
+                                    "expanded_url": "http://spnr.la/5tumrRsb", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/0KFNidxskS"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5682, 
+                    "follow_request_sent": false, 
+                    "followers_count": 377, 
+                    "following": false, 
+                    "friends_count": 170, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 1911823716, 
+                    "id_str": "1911823716", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 1, 
+                    "location": "Landover, MD", 
+                    "name": "\u2b50\ufe0f Li Da God \u2744\ufe0f", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911823716/1510858703", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "LiStarChillin", 
+                    "statuses_count": 17514, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/0KFNidxskS", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @LiStarChillin: Why dont yall females put in yall bio \u201cdont go smack at me\u201d cause yall only interested in what yall interested in .....\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Apr 25 17:48:09 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "22 Years Young - Official Producer of SKULLBOYZ ENT - For Beats or Business: itzz1UP@gmail.com #GloryToGod \u2620\ufe0f#SKULLZ\u2620\ufe0f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4837, 
+                "follow_request_sent": false, 
+                "followers_count": 855, 
+                "following": false, 
+                "friends_count": 613, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 287789841, 
+                "id_str": "287789841", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 8, 
+                "location": "", 
+                "name": "#SKULLZ", 
+                "notifications": false, 
+                "profile_background_color": "0099B9", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520966413716971520/yZABGSxo.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520966413716971520/yZABGSxo.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/287789841/1517642417", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/992034108208484352/pz4RKjO7_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/992034108208484352/pz4RKjO7_normal.jpg", 
+                "profile_link_color": "0099B9", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "95E8EC", 
+                "profile_text_color": "3C3940", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "iTz1UP", 
+                "statuses_count": 40929, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 13:54:49 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994938882365054976", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/SE1TF25QLs"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994938882365054976, 
+            "id_str": "994938882365054976", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Why dont yall females put in yall bio \u201cdont go smack at me\u201d cause yall only interested in what yall interested in .\u2026 https://t.co/SE1TF25QLs", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Sep 27 18:04:17 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u2b50\ufe0f \u30b9\u30bf\u30fc\u30c1\u30ea\u30f3 \ud83e\udd88\u2744\ufe0fBOOKING:marshallithegod@gmail.com", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "spnr.la/5tumrRsb", 
+                                "expanded_url": "http://spnr.la/5tumrRsb", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/0KFNidxskS"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5682, 
+                "follow_request_sent": false, 
+                "followers_count": 377, 
+                "following": false, 
+                "friends_count": 170, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 1911823716, 
+                "id_str": "1911823716", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Landover, MD", 
+                "name": "\u2b50\ufe0f Li Da God \u2744\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911823716/1510858703", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LiStarChillin", 
+                "statuses_count": 17514, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/0KFNidxskS", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 11:12:20 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994897991680094208", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/LNJyQ1LC7j"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994897991680094208, 
+            "id_str": "994897991680094208", 
+            "in_reply_to_screen_name": "gripsoo", 
+            "in_reply_to_status_id": 994897020002414593, 
+            "in_reply_to_status_id_str": "994897020002414593", 
+            "in_reply_to_user_id": 798067734122639361, 
+            "in_reply_to_user_id_str": "798067734122639361", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "ok this one doesn't need an introduction to know how dumb it is, the rapid succession between singles, triples, and\u2026 https://t.co/LNJyQ1LC7j", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Nov 14 07:39:10 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "rank #900 osu! player // @_sinfulsinner \u2661", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "osu.ppy.sh/u/4829231", 
+                                "expanded_url": "https://osu.ppy.sh/u/4829231", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/1g1UqwHTYM"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10367, 
+                "follow_request_sent": false, 
+                "followers_count": 170, 
+                "following": false, 
+                "friends_count": 331, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 798067734122639361, 
+                "id_str": "798067734122639361", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "death grips", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/798067734122639361/1523265137", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/986348461099368448/Lugm--Pi_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/986348461099368448/Lugm--Pi_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "gripsoo", 
+                "statuses_count": 5360, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/1g1UqwHTYM", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 10:50:23 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994892470319271936", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/uV3P8lgqqE"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1915033663, 
+                        "id_str": "1915033663", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "David Hogg", 
+                        "screen_name": "davidhogg111"
+                    }, 
+                    {
+                        "id": 806947201775583232, 
+                        "id_str": "806947201775583232", 
+                        "indices": [
+                            14, 
+                            23
+                        ], 
+                        "name": "timwe592", 
+                        "screen_name": "timwe592"
+                    }, 
+                    {
+                        "id": 146569971, 
+                        "id_str": "146569971", 
+                        "indices": [
+                            24, 
+                            31
+                        ], 
+                        "name": "CDC", 
+                        "screen_name": "CDCgov"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994892470319271936, 
+            "id_str": "994892470319271936", 
+            "in_reply_to_screen_name": "davidhogg111", 
+            "in_reply_to_status_id": 994885180681867266, 
+            "in_reply_to_status_id_str": "994885180681867266", 
+            "in_reply_to_user_id": 1915033663, 
+            "in_reply_to_user_id_str": "1915033663", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@davidhogg111 @timwe592 @CDCgov Oh really and what are you trying to do just ban certain \u201cbad guns\u201d killers do not\u2026 https://t.co/uV3P8lgqqE", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri May 11 09:52:30 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 8, 
+                "follow_request_sent": false, 
+                "followers_count": 22, 
+                "following": false, 
+                "friends_count": 67, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 994877902926827522, 
+                "id_str": "994877902926827522", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "@levmynamout2", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994878665430392833/yxxQghqa_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994878665430392833/yxxQghqa_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "nc_lucas", 
+                "statuses_count": 16, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 07:39:34 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994844446444457984", 
+                        "indices": [
+                            120, 
+                            143
+                        ], 
+                        "url": "https://t.co/JEZRsbaVSJ"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 712862341717737473, 
+                        "id_str": "712862341717737473", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "fumbling towards melancholy SPNPITT", 
+                        "screen_name": "SaltAndSlowBurn"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994844446444457984, 
+            "id_str": "994844446444457984", 
+            "in_reply_to_screen_name": "SaltAndSlowBurn", 
+            "in_reply_to_status_id": 994828598145179651, 
+            "in_reply_to_status_id_str": "994828598145179651", 
+            "in_reply_to_user_id": 712862341717737473, 
+            "in_reply_to_user_id_str": "712862341717737473", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@SaltAndSlowBurn I\u2019m on pain meds too. I\u2019m bone on bone &amp; need a total knee replacement. I\u2019ve run low a few times,\u2026 https://t.co/JEZRsbaVSJ", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Oct 02 22:57:25 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "SPN FAN \u2022 Dean/Jensen all day long \u2022 Fan of Danneel and Kids \u2022 Cast \u2022 TFW \u2022 Nonshipper \u2022 Positive \u2022 Open \u2022 Interested \u2022 #SPNFamily", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13665, 
+                "follow_request_sent": false, 
+                "followers_count": 56, 
+                "following": false, 
+                "friends_count": 46, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 79309957, 
+                "id_str": "79309957", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "DeanPossessed", 
+                "notifications": false, 
+                "profile_background_color": "352726", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/79309957/1524452801", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/979880568346132480/VoTrtkJI_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/979880568346132480/VoTrtkJI_normal.jpg", 
+                "profile_link_color": "D02B55", 
+                "profile_sidebar_border_color": "829D5E", 
+                "profile_sidebar_fill_color": "99CC33", 
+                "profile_text_color": "3E4415", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "KarynHilton", 
+                "statuses_count": 2949, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "search_metadata": {
+        "completed_in": 0.089, 
+        "count": 15, 
+        "max_id": 992595651971112961, 
+        "max_id_str": "992595651971112961", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal%29+AND+%28Oxys+OR+OxyCotton+OR+oxy+OR+roxies+OR+roxys+OR+oxycotin+OR+lortab+OR+tabbers+OR+Hydros+OR+Perc+OR+Percs+OR+Ercs%29%26geocode%3A38.708889%2C-76.335%2C50km", 
+        "refresh_url": "?since_id=992595651971112961&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%29%20AND%20%28Oxys%20OR%20OxyCotton%20OR%20oxy%20OR%20roxies%20OR%20roxys%20OR%20oxycotin%20OR%20lortab%20OR%20tabbers%20OR%20Hydros%20OR%20Perc%20OR%20Percs%20OR%20Ercs%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat May 05 02:43:39 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/992595651971112961", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/GDeDYujV8M"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992595651971112961, 
+            "id_str": "992595651971112961", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Couldn\u2019t geek out enough to ask the man for a pic with me but I had the opportunity to spend the day adjudicating s\u2026 https://t.co/GDeDYujV8M", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Mar 22 17:37:38 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Drummer. Orchestral Percussionist/Timpanist. Educator.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 212, 
+                "follow_request_sent": false, 
+                "followers_count": 29, 
+                "following": false, 
+                "friends_count": 93, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 844603990444654592, 
+                "id_str": "844603990444654592", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Joey", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/844603990444654592/1494373365", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/877708215848280066/JyBFeIMB_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/877708215848280066/JyBFeIMB_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "percJoeyhz", 
+                "statuses_count": 43, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+    ]
+}

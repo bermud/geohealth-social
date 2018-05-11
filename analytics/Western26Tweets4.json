@@ -1,0 +1,13 @@
+{
+    "search_metadata": {
+        "completed_in": 0.06, 
+        "count": 15, 
+        "max_id": 995007854993010688, 
+        "max_id_str": "995007854993010688", 
+        "query": "%28too+OR+many+OR+two+OR+three+OR+double+OR+much+OR+overdose+OR+crash+OR+strong+OR+max%29+AND+%28Greenies+OR+dillies+OR+painkiller+OR+painkillers+OR+killers+OR+pills+OR+smack+OR+skag%29%26geocode%3A39.4689151%2C-77.4500538%2C26km", 
+        "refresh_url": "?since_id=995007854993010688&q=%28too%20OR%20many%20OR%20two%20OR%20three%20OR%20double%20OR%20much%20OR%20overdose%20OR%20crash%20OR%20strong%20OR%20max%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A39.4689151%2C-77.4500538%2C26km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": []
+}

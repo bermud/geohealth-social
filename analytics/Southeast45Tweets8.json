@@ -1,0 +1,230 @@
+{
+    "search_metadata": {
+        "completed_in": 0.082, 
+        "count": 15, 
+        "max_id": 993935804438282240, 
+        "max_id_str": "993935804438282240", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal%29+AND+%28Greenies+OR+dillies+OR+painkiller+OR+painkillers+OR+pain+OR+killers+OR+pills+OR+smack+OR+skag%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=993935804438282240&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20pain%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 19:28:56 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993935804438282240, 
+            "id_str": "993935804438282240", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.71412, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.431613
+                            ], 
+                            [
+                                -75.71412, 
+                                38.431613
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Salisbury, MD", 
+                "id": "00caf39d503a84e9", 
+                "name": "Salisbury", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/00caf39d503a84e9.json"
+            }, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Mother Nature is running behind but I\u2019ve been feeling her pain and these damn bumps are coming in. Bring your ass on \ud83d\ude21", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Mar 31 02:12:23 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 299, 
+                "follow_request_sent": false, 
+                "followers_count": 853, 
+                "following": false, 
+                "friends_count": 1073, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 27789115, 
+                "id_str": "27789115", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "", 
+                "name": "Boo Gotti \u2122", 
+                "notifications": false, 
+                "profile_background_color": "2ADE1D", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000104639575/fcb176ec5ea8e8478cf3b9bd1f98b5e6.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000104639575/fcb176ec5ea8e8478cf3b9bd1f98b5e6.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/27789115/1420407172", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/884618218719019009/PWf6ImE3_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/884618218719019009/PWf6ImE3_normal.jpg", 
+                "profile_link_color": "B40B43", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "F6FFD1", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SlimSoGnarly", 
+                "statuses_count": 97840, 
+                "time_zone": "Alaska", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -28800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat May 05 02:50:55 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/992597478905204738", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/QmmVZza8v9"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 855545600867266562, 
+                        "id_str": "855545600867266562", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "Love Like JESUS", 
+                        "screen_name": "_LoveLike_JESUS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992597478905204738, 
+            "id_str": "992597478905204738", 
+            "in_reply_to_screen_name": "_LoveLike_JESUS", 
+            "in_reply_to_status_id": 992587935164792832, 
+            "in_reply_to_status_id_str": "992587935164792832", 
+            "in_reply_to_user_id": 855545600867266562, 
+            "in_reply_to_user_id_str": "855545600867266562", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+            "text": "@_LoveLike_JESUS I find Peace in the knowledge,that beyond all pain,and suffrage,awaits the Glory Of God. Bring on\u2026 https://t.co/QmmVZza8v9", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Apr 28 16:39:44 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Born in The Philippines Islands, lived in many different countries due to Parent's Diplomatic Career,educated in the American educational system.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13367, 
+                "follow_request_sent": false, 
+                "followers_count": 2870, 
+                "following": false, 
+                "friends_count": 4987, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 857997771218894849, 
+                "id_str": "857997771218894849", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 7, 
+                "location": "Salisbury, MD", 
+                "name": "Regidor Delarosa", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/857997771218894849/1506823894", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "RegidorDelaros3", 
+                "statuses_count": 30647, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }
+    ]
+}

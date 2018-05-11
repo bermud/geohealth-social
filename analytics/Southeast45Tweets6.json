@@ -1,0 +1,514 @@
+{
+    "search_metadata": {
+        "completed_in": 0.273, 
+        "count": 15, 
+        "max_id": 994130509591662592, 
+        "max_id_str": "994130509591662592", 
+        "query": "%28enough+OR+pop+OR+popping+OR+another+OR+popped%29+AND+%28Greenies+OR+dillies+OR+painkiller+OR+painkillers+OR+pain+OR+killers+OR+pills+OR+smack+OR+skag%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=994130509591662592&q=%28enough%20OR%20pop%20OR%20popping%20OR%20another%20OR%20popped%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20pain%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 08:22:38 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994130509591662592", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/14FPZVV0Du"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1616703829, 
+                        "id_str": "1616703829", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Endo Warriors", 
+                        "screen_name": "EndoWarriors"
+                    }
+                ]
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994130509591662592, 
+            "id_str": "994130509591662592", 
+            "in_reply_to_screen_name": "EndoWarriors", 
+            "in_reply_to_status_id": 994041971076403202, 
+            "in_reply_to_status_id_str": "994041971076403202", 
+            "in_reply_to_user_id": 1616703829, 
+            "in_reply_to_user_id_str": "1616703829", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@EndoWarriors For Insurance to actually cover specialists!!!!  Most people with endometriosis cannot afford the tre\u2026 https://t.co/14FPZVV0Du", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jan 04 02:10:07 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Handcrafted #CBD Body Care Products. \ud83c\udf43Natural Relief for everyday aches & pains, #chronicpain, & #chronicillnesses. Created by a woman with #endometriosis. \ud83d\udc9b", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "alnibodycare.com", 
+                                "expanded_url": "http://www.alnibodycare.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Y5C71SyeJC"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 312, 
+                "follow_request_sent": false, 
+                "followers_count": 155, 
+                "following": false, 
+                "friends_count": 813, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 948738282220695552, 
+                "id_str": "948738282220695552", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Salisbury, MD", 
+                "name": "Alni CBD Body Care", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/948738282220695552/1515032387", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993676158364540930/kkOJRYKf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993676158364540930/kkOJRYKf_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "alnicbd", 
+                "statuses_count": 375, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/Y5C71SyeJC", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 03 23:59:05 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/992191847102631936", 
+                        "indices": [
+                            121, 
+                            144
+                        ], 
+                        "url": "https://t.co/Si0bjz8T6Y"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 319939901, 
+                        "id_str": "319939901", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "Ed Darrell", 
+                        "screen_name": "EdDarrell"
+                    }, 
+                    {
+                        "id": 941689475956117504, 
+                        "id_str": "941689475956117504", 
+                        "indices": [
+                            11, 
+                            26
+                        ], 
+                        "name": "Power The Future", 
+                        "screen_name": "powerthefuture"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992191847102631936, 
+            "id_str": "992191847102631936", 
+            "in_reply_to_screen_name": "EdDarrell", 
+            "in_reply_to_status_id": 992054770113368065, 
+            "in_reply_to_status_id_str": "992054770113368065", 
+            "in_reply_to_user_id": 319939901, 
+            "in_reply_to_user_id_str": "319939901", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.091333, 
+                                38.32431
+                            ], 
+                            [
+                                -75.04914, 
+                                38.32431
+                            ], 
+                            [
+                                -75.04914, 
+                                38.451299
+                            ], 
+                            [
+                                -75.091333, 
+                                38.451299
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Ocean City, MD", 
+                "id": "759c5982d28a7b07", 
+                "name": "Ocean City", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/759c5982d28a7b07.json"
+            }, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@EdDarrell @powerthefuture Because the PP was 98% doing abortions &amp; no one was sick! Only in their heads! As you ar\u2026 https://t.co/Si0bjz8T6Y", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Feb 09 04:11:09 +0000 2012", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Patriot wife mother Artist OC fan love Trump & USA!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 15931, 
+                "follow_request_sent": false, 
+                "followers_count": 934, 
+                "following": false, 
+                "friends_count": 1071, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 487222556, 
+                "id_str": "487222556", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 27, 
+                "location": "Maryland, USA", 
+                "name": "Carol Darling", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/920688737364869120/QgguRSwm_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/920688737364869120/QgguRSwm_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SissyScullen", 
+                "statuses_count": 25904, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 20:11:16 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/991772128847507456", 
+                        "indices": [
+                            120, 
+                            143
+                        ], 
+                        "url": "https://t.co/NZWR9RK1Zp"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991772128847507456, 
+            "id_str": "991772128847507456", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Contacted my doctor for a sedative to help me through tomorrow's MRI. I'm claustrophobic &amp; I can't wear my BAHA in\u2026 https://t.co/NZWR9RK1Zp", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Jul 24 14:45:47 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I do banjo stuff. \n\nSometimes I do guitar stuff.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "frailingbanjo.com", 
+                                "expanded_url": "http://frailingbanjo.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/GjjtmmKv8h"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 159, 
+                "follow_request_sent": false, 
+                "followers_count": 855, 
+                "following": false, 
+                "friends_count": 529, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 1617930092, 
+                "id_str": "1617930092", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 5, 
+                "location": "Crisfield, MD", 
+                "name": "Patrick Costello", 
+                "notifications": false, 
+                "profile_background_color": "94D487", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623457833267298305/V6asZAXw.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623457833267298305/V6asZAXw.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617930092/1520178844", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/971431308441288704/VSBhOZEJ_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/971431308441288704/VSBhOZEJ_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Dobro33H", 
+                "statuses_count": 4977, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/GjjtmmKv8h", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 15:26:55 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/991700570967887872", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/i97dAZQwsv"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 6, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991700570967887872, 
+            "id_str": "991700570967887872", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.71412, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.431613
+                            ], 
+                            [
+                                -75.71412, 
+                                38.431613
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Salisbury, MD", 
+                "id": "00caf39d503a84e9", 
+                "name": "Salisbury", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/00caf39d503a84e9.json"
+            }, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "On another note, I paid good money and sobbed from the pain to have my tattoo lasered off and the ink is now darker\u2026 https://t.co/i97dAZQwsv", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Feb 12 17:14:18 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u2022jennavieve\u2022 let the ocean worry about being blue. find bliss // stay awhile. God is good \u271d Salisbury University Masters Program \u201819.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "downunderwanderlust.wordpress.com", 
+                                "expanded_url": "http://downunderwanderlust.wordpress.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/3fepHSewEy"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 4103, 
+                "follow_request_sent": false, 
+                "followers_count": 722, 
+                "following": false, 
+                "friends_count": 548, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 251204327, 
+                "id_str": "251204327", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "Maryland | Sydney, Australia", 
+                "name": "Jenna Haines", 
+                "notifications": false, 
+                "profile_background_color": "B88907", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/276196705/collage.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/276196705/collage.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/251204327/1525916746", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/970864554212319232/_akj5Z1O_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/970864554212319232/_akj5Z1O_normal.jpg", 
+                "profile_link_color": "B88907", 
+                "profile_sidebar_border_color": "050400", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "B88907", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "hennajaines", 
+                "statuses_count": 72394, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/3fepHSewEy", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }
+    ]
+}

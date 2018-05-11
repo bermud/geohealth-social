@@ -1,0 +1,511 @@
+{
+    "search_metadata": {
+        "completed_in": 0.108, 
+        "count": 15, 
+        "max_id": 994130509591662592, 
+        "max_id_str": "994130509591662592", 
+        "query": "%28need+OR+want+OR+needing+OR+wanting%29+AND+%28Greenies+OR+dillies+OR+painkiller+OR+painkillers+OR+pain+OR+killers+OR+pills+OR+smack+OR+skag%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=994130509591662592&q=%28need%20OR%20want%20OR%20needing%20OR%20wanting%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20pain%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 08:22:38 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994130509591662592", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/14FPZVV0Du"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1616703829, 
+                        "id_str": "1616703829", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Endo Warriors", 
+                        "screen_name": "EndoWarriors"
+                    }
+                ]
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994130509591662592, 
+            "id_str": "994130509591662592", 
+            "in_reply_to_screen_name": "EndoWarriors", 
+            "in_reply_to_status_id": 994041971076403202, 
+            "in_reply_to_status_id_str": "994041971076403202", 
+            "in_reply_to_user_id": 1616703829, 
+            "in_reply_to_user_id_str": "1616703829", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@EndoWarriors For Insurance to actually cover specialists!!!!  Most people with endometriosis cannot afford the tre\u2026 https://t.co/14FPZVV0Du", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jan 04 02:10:07 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Handcrafted #CBD Body Care Products. \ud83c\udf43Natural Relief for everyday aches & pains, #chronicpain, & #chronicillnesses. Created by a woman with #endometriosis. \ud83d\udc9b", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "alnibodycare.com", 
+                                "expanded_url": "http://www.alnibodycare.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Y5C71SyeJC"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 312, 
+                "follow_request_sent": false, 
+                "followers_count": 155, 
+                "following": false, 
+                "friends_count": 813, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 948738282220695552, 
+                "id_str": "948738282220695552", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Salisbury, MD", 
+                "name": "Alni CBD Body Care", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/948738282220695552/1515032387", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993676158364540930/kkOJRYKf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993676158364540930/kkOJRYKf_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "alnicbd", 
+                "statuses_count": 375, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/Y5C71SyeJC", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 16:20:27 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993888371050274821", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/byrq93B86f"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 4190630967, 
+                        "id_str": "4190630967", 
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "name": "gwynnfly", 
+                        "screen_name": "gwynnfly"
+                    }, 
+                    {
+                        "id": 241400800, 
+                        "id_str": "241400800", 
+                        "indices": [
+                            10, 
+                            26
+                        ], 
+                        "name": "\u2764\ufe0f Allison Berkowitz \u2764\ufe0f", 
+                        "screen_name": "SocialWorkItOut"
+                    }, 
+                    {
+                        "id": 850080079661150210, 
+                        "id_str": "850080079661150210", 
+                        "indices": [
+                            27, 
+                            40
+                        ], 
+                        "name": "Allison Galbraith", 
+                        "screen_name": "AllisonforMD"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993888371050274821, 
+            "id_str": "993888371050274821", 
+            "in_reply_to_screen_name": "gwynnfly", 
+            "in_reply_to_status_id": 993870073931751424, 
+            "in_reply_to_status_id_str": "993870073931751424", 
+            "in_reply_to_user_id": 4190630967, 
+            "in_reply_to_user_id_str": "4190630967", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@gwynnfly @SocialWorkItOut @AllisonforMD Regarding your son - that is an example of overprescribing. For acute pain\u2026 https://t.co/byrq93B86f", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 07 19:50:22 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Salisbury University Social Work Prof|Naloxone/Narcan-Substance Misuse-Harm Reduction|Lover of IndyCars|Own views. Intentional in follows ask same of followers.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1335, 
+                "follow_request_sent": false, 
+                "followers_count": 135, 
+                "following": false, 
+                "friends_count": 118, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 248815547, 
+                "id_str": "248815547", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Salisbury, MD", 
+                "name": "Aaron Willis", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/248815547/1502853782", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1248319046/DSCN5439_2_normal.JPG", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248319046/DSCN5439_2_normal.JPG", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "aaroncwillis", 
+                "statuses_count": 7099, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 03 23:59:05 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/992191847102631936", 
+                        "indices": [
+                            121, 
+                            144
+                        ], 
+                        "url": "https://t.co/Si0bjz8T6Y"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 319939901, 
+                        "id_str": "319939901", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "Ed Darrell", 
+                        "screen_name": "EdDarrell"
+                    }, 
+                    {
+                        "id": 941689475956117504, 
+                        "id_str": "941689475956117504", 
+                        "indices": [
+                            11, 
+                            26
+                        ], 
+                        "name": "Power The Future", 
+                        "screen_name": "powerthefuture"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992191847102631936, 
+            "id_str": "992191847102631936", 
+            "in_reply_to_screen_name": "EdDarrell", 
+            "in_reply_to_status_id": 992054770113368065, 
+            "in_reply_to_status_id_str": "992054770113368065", 
+            "in_reply_to_user_id": 319939901, 
+            "in_reply_to_user_id_str": "319939901", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.091333, 
+                                38.32431
+                            ], 
+                            [
+                                -75.04914, 
+                                38.32431
+                            ], 
+                            [
+                                -75.04914, 
+                                38.451299
+                            ], 
+                            [
+                                -75.091333, 
+                                38.451299
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Ocean City, MD", 
+                "id": "759c5982d28a7b07", 
+                "name": "Ocean City", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/759c5982d28a7b07.json"
+            }, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@EdDarrell @powerthefuture Because the PP was 98% doing abortions &amp; no one was sick! Only in their heads! As you ar\u2026 https://t.co/Si0bjz8T6Y", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Feb 09 04:11:09 +0000 2012", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Patriot wife mother Artist OC fan love Trump & USA!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 15931, 
+                "follow_request_sent": false, 
+                "followers_count": 934, 
+                "following": false, 
+                "friends_count": 1071, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 487222556, 
+                "id_str": "487222556", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 27, 
+                "location": "Maryland, USA", 
+                "name": "Carol Darling", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/920688737364869120/QgguRSwm_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/920688737364869120/QgguRSwm_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SissyScullen", 
+                "statuses_count": 25904, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 03 17:37:19 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "statnews.com/2018/04/24/med\u2026", 
+                        "expanded_url": "https://www.statnews.com/2018/04/24/medical-school-teaching-pain-medical-marijuana/", 
+                        "indices": [
+                            84, 
+                            107
+                        ], 
+                        "url": "https://t.co/kEQ9R7r2Y7"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 3290364847, 
+                        "id_str": "3290364847", 
+                        "indices": [
+                            112, 
+                            121
+                        ], 
+                        "name": "STAT", 
+                        "screen_name": "statnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992095774853885952, 
+            "id_str": "992095774853885952", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Med schools need to get with the times on medical marijuana, chronic pain, and more https://t.co/kEQ9R7r2Y7 via @statnews", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jul 14 16:17:30 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\ud83c\udf41Cannabis Activist\ud83c\udf41", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/channel/UC5sa7\u2026", 
+                                "expanded_url": "https://www.youtube.com/channel/UC5sa7btEcFL1XpLsXNESRyA?view_as=subscriber", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/CpzW8vO1tb"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1055, 
+                "follow_request_sent": false, 
+                "followers_count": 697, 
+                "following": false, 
+                "friends_count": 1588, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 56737651, 
+                "id_str": "56737651", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "Salisbury, MD", 
+                "name": "Lady Furnish", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/56737651/1518138566", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/958045064021786624/9uhQ1s8Y_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/958045064021786624/9uhQ1s8Y_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Ladyfurnish", 
+                "statuses_count": 3382, 
+                "time_zone": "Mountain Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/CpzW8vO1tb", 
+                "utc_offset": -21600, 
+                "verified": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "search_metadata": {
+        "completed_in": 0.055, 
+        "count": 15, 
+        "max_id": 994837337464066049, 
+        "max_id_str": "994837337464066049", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal%29+AND+%28Oxys+OR+OxyCotton+OR+oxy+OR+roxies+OR+roxys+OR+oxycotin+OR+lortab+OR+tabbers+OR+Hydros+OR+Perc+OR+Percs+OR+Ercs%29%26geocode%3A39.283333%2C-76.616667%2C50km", 
+        "refresh_url": "?since_id=994837337464066049&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%29%20AND%20%28Oxys%20OR%20OxyCotton%20OR%20oxy%20OR%20roxies%20OR%20roxys%20OR%20oxycotin%20OR%20lortab%20OR%20tabbers%20OR%20Hydros%20OR%20Perc%20OR%20Percs%20OR%20Ercs%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 07:11:19 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "youtube.com/attribution_li\u2026", 
+                        "expanded_url": "https://www.youtube.com/attribution_link?a=97ArmI18LIo&u=%2Fwatch%3Fv%3DoxY-Juxwcgk%26feature%3Dshare", 
+                        "indices": [
+                            46, 
+                            69
+                        ], 
+                        "url": "https://t.co/8BqFuLChnW"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994837337464066049, 
+            "id_str": "994837337464066049", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+            "text": "Call 1-800-597-1052 HP printer support Number https://t.co/8BqFuLChnW", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Feb 06 09:17:32 +0000 2014", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Win Md pro  make your computer error free. It offers browser cleaner, files cleaner, and app cleaner, which make your computer work like a new one once again.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "winmdpro.com", 
+                                "expanded_url": "http://winmdpro.com/", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/8pH7QxUHpb"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 0, 
+                "follow_request_sent": false, 
+                "followers_count": 172, 
+                "following": false, 
+                "friends_count": 118, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2330009233, 
+                "id_str": "2330009233", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Essex", 
+                "name": "winmdpro", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2330009233/1409059212", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/431366714610032640/h6MPJuce_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/431366714610032640/h6MPJuce_normal.png", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "winmdpro", 
+                "statuses_count": 417, 
+                "time_zone": "Chennai", 
+                "translator_type": "none", 
+                "url": "http://t.co/8pH7QxUHpb", 
+                "utc_offset": 19800, 
+                "verified": false
+            }
+        }
+    ]
+}

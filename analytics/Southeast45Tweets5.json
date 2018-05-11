@@ -1,0 +1,13 @@
+{
+    "search_metadata": {
+        "completed_in": 0.028, 
+        "count": 15, 
+        "max_id": 995011392498384896, 
+        "max_id_str": "995011392498384896", 
+        "query": "%28enough+OR+pop+OR+popping+OR+another+OR+popped%29+AND+%28Oxys+OR+OxyCotton+OR+oxy+OR+roxies+OR+roxys+OR+oxycotin+OR+lortab+OR+tabbers+OR+Hydros+OR+Perc+OR+Percs+OR+Ercs%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=995011392498384896&q=%28enough%20OR%20pop%20OR%20popping%20OR%20another%20OR%20popped%29%20AND%20%28Oxys%20OR%20OxyCotton%20OR%20oxy%20OR%20roxies%20OR%20roxys%20OR%20oxycotin%20OR%20lortab%20OR%20tabbers%20OR%20Hydros%20OR%20Perc%20OR%20Percs%20OR%20Ercs%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": []
+}

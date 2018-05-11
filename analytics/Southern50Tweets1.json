@@ -1,0 +1,2652 @@
+{
+    "search_metadata": {
+        "completed_in": 0.082, 
+        "count": 15, 
+        "max_id": 994761128252096512, 
+        "max_id_str": "994761128252096512", 
+        "next_results": "?max_id=993892864030662655&q=%28need%20OR%20want%20OR%20needing%20OR%20wanting%29%20AND%20%28Oxys%20OR%20OxyCotton%20OR%20oxy%20OR%20roxies%20OR%20roxys%20OR%20oxycotin%20OR%20lortab%20OR%20tabbers%20OR%20Hydros%20OR%20Perc%20OR%20Percs%20OR%20Ercs%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "query": "%28need+OR+want+OR+needing+OR+wanting%29+AND+%28Oxys+OR+OxyCotton+OR+oxy+OR+roxies+OR+roxys+OR+oxycotin+OR+lortab+OR+tabbers+OR+Hydros+OR+Perc+OR+Percs+OR+Ercs%29%26geocode%3A38.708889%2C-76.335%2C50km", 
+        "refresh_url": "?since_id=994761128252096512&q=%28need%20OR%20want%20OR%20needing%20OR%20wanting%29%20AND%20%28Oxys%20OR%20OxyCotton%20OR%20oxy%20OR%20roxies%20OR%20roxys%20OR%20oxycotin%20OR%20lortab%20OR%20tabbers%20OR%20Hydros%20OR%20Perc%20OR%20Percs%20OR%20Ercs%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 02:08:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994761128252096512, 
+            "id_str": "994761128252096512", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "in need of perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Aug 02 01:48:28 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "THE HEALER\u26d1 snap/ig:@lildohk", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "soundcloud.com/lildohk", 
+                                "expanded_url": "http://soundcloud.com/lildohk", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/pOwcIXgF55"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 873, 
+                "follow_request_sent": false, 
+                "followers_count": 171, 
+                "following": false, 
+                "friends_count": 119, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 3303752346, 
+                "id_str": "3303752346", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "400DOHK \u2625", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3303752346/1524592599", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994453479937589248/ju6-9Hp6_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994453479937589248/ju6-9Hp6_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LilDohk", 
+                "statuses_count": 922, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/pOwcIXgF55", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 18:39:23 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994648108897366020, 
+            "id_str": "994648108897366020", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jun 29 13:03:20 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Lifestyler.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "beatstars.com/thankyouwilson", 
+                                "expanded_url": "https://www.beatstars.com/thankyouwilson", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Xl0TGZkNUm"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 14496, 
+                "follow_request_sent": false, 
+                "followers_count": 683, 
+                "following": false, 
+                "friends_count": 361, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 160912087, 
+                "id_str": "160912087", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 11, 
+                "location": "Chicago", 
+                "name": "Wilson666", 
+                "notifications": false, 
+                "profile_background_color": "1A1B1F", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581121683/8etueomjeanr5sk4otl4.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581121683/8etueomjeanr5sk4otl4.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/160912087/1509897999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/950162516277104641/VT_5UV67_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/950162516277104641/VT_5UV67_normal.jpg", 
+                "profile_link_color": "DD2E44", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ThankYouWilson", 
+                "statuses_count": 23516, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/Xl0TGZkNUm", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 11:44:03 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994543588322267136, 
+            "id_str": "994543588322267136", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun May 30 07:28:27 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Self-aware piece of shit.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "releasetheswarm.com/dieyoung", 
+                                "expanded_url": "http://www.releasetheswarm.com/dieyoung", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/yCAP5o5C4L"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 2178, 
+                "follow_request_sent": false, 
+                "followers_count": 343, 
+                "following": false, 
+                "friends_count": 373, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 149798761, 
+                "id_str": "149798761", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 8, 
+                "location": "", 
+                "name": "DIEYOUNG", 
+                "notifications": false, 
+                "profile_background_color": "1A1B1F", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/149798761/1438275132", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/836471739118845952/UaeSYewH_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/836471739118845952/UaeSYewH_normal.jpg", 
+                "profile_link_color": "2FC2EF", 
+                "profile_sidebar_border_color": "181A1E", 
+                "profile_sidebar_fill_color": "252429", 
+                "profile_text_color": "666666", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "GNUOYEID", 
+                "statuses_count": 11971, 
+                "time_zone": "Central Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/yCAP5o5C4L", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 08:48:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994499420107325440", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/nHEdehZVI0"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1694715510, 
+                        "id_str": "1694715510", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Tim Hayward", 
+                        "screen_name": "Tim_Hayward_"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994499420107325440, 
+            "id_str": "994499420107325440", 
+            "in_reply_to_screen_name": "Tim_Hayward_", 
+            "in_reply_to_status_id": 994315269228163073, 
+            "in_reply_to_status_id_str": "994315269228163073", 
+            "in_reply_to_user_id": 1694715510, 
+            "in_reply_to_user_id_str": "1694715510", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@Tim_Hayward_ Corbin should talk this guy to leave labor party. Points r clear War is bad and volunteers who are pa\u2026 https://t.co/nHEdehZVI0", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Oct 19 22:27:02 +0000 2012", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "peace and justice doc -- lover of pesto, hippie guacamole, popcorn with yeast Guardian of Araceli and All Who Struggle for Life and a Better World", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ochealth4all.org", 
+                                "expanded_url": "http://www.ochealth4all.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/9k4aBbBrO1"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1407, 
+                "follow_request_sent": false, 
+                "followers_count": 54, 
+                "following": false, 
+                "friends_count": 333, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 891971509, 
+                "id_str": "891971509", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "California USA", 
+                "name": "Hank Duke", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/892464338690162688/dsSY1SfH_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/892464338690162688/dsSY1SfH_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "HankDukeJr", 
+                "statuses_count": 3666, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/9k4aBbBrO1", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 19:12:39 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994294090912096257", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/6XjVEvVSYP"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 991842511541817345, 
+                        "id_str": "991842511541817345", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "The Chosen One", 
+                        "screen_name": "dan04889926"
+                    }, 
+                    {
+                        "id": 336107640, 
+                        "id_str": "336107640", 
+                        "indices": [
+                            13, 
+                            22
+                        ], 
+                        "name": "Jack Cook", 
+                        "screen_name": "JSCookJr"
+                    }, 
+                    {
+                        "id": 381678556, 
+                        "id_str": "381678556", 
+                        "indices": [
+                            23, 
+                            35
+                        ], 
+                        "name": "Johnny (Joey) Jones", 
+                        "screen_name": "Johnny_Joey"
+                    }, 
+                    {
+                        "id": 78408666, 
+                        "id_str": "78408666", 
+                        "indices": [
+                            36, 
+                            51
+                        ], 
+                        "name": "Veterans Affairs", 
+                        "screen_name": "DeptVetAffairs"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994294090912096257, 
+            "id_str": "994294090912096257", 
+            "in_reply_to_screen_name": "dan04889926", 
+            "in_reply_to_status_id": 994288446763126784, 
+            "in_reply_to_status_id_str": "994288446763126784", 
+            "in_reply_to_user_id": 991842511541817345, 
+            "in_reply_to_user_id_str": "991842511541817345", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@dan04889926 @JSCookJr @Johnny_Joey @DeptVetAffairs We need better options that control pain. We see patients that\u2026 https://t.co/6XjVEvVSYP", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jul 02 20:45:06 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Licensed Private Investigator. P.I. Services Serving California since 2007", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 18917, 
+                "follow_request_sent": false, 
+                "followers_count": 2499, 
+                "following": false, 
+                "friends_count": 3337, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 53181989, 
+                "id_str": "53181989", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "California, USA", 
+                "name": "Private Investigator", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830370125/b636df7e7d93eba56e1c19007e8a4471.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830370125/b636df7e7d93eba56e1c19007e8a4471.jpeg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53181989/1524626732", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/988982379858423808/5QsGy4CV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/988982379858423808/5QsGy4CV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "profile_text_color": "663B12", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "TheSecretsSafe", 
+                "statuses_count": 7262, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 06:47:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994106564167503872, 
+            "id_str": "994106564167503872", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Aug 25 00:59:11 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "i cannot die because this my universe \ud83d\udda4", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 12546, 
+                "follow_request_sent": false, 
+                "followers_count": 311, 
+                "following": false, 
+                "friends_count": 461, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 3331978934, 
+                "id_str": "3331978934", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "Dallas, TX", 
+                "name": "chvpv.", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3331978934/1525138571", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/989196445738852353/Vjw0MSmm_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/989196445738852353/Vjw0MSmm_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Chapatheindigo", 
+                "statuses_count": 20278, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 01:42:27 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994029801596997639, 
+            "id_str": "994029801596997639", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Apr 10 01:15:19 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "@davidshawty my brody @6lvssoms", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 10300, 
+                "follow_request_sent": false, 
+                "followers_count": 310, 
+                "following": false, 
+                "friends_count": 444, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 718970580612071424, 
+                "id_str": "718970580612071424", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Somewhere ", 
+                "name": "ueonsjrm", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/718970580612071424/1525822785", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993998918525554688/XT9IlUS7_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993998918525554688/XT9IlUS7_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ueonsjrm", 
+                "statuses_count": 8078, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 01:40:22 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994029277422141441, 
+            "id_str": "994029277422141441", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Aug 04 01:29:34 +0000 2014", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Don't give up on your dreams nigga, it's fuck the world \ud83d\udc95 #WorkingOnDying", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 24476, 
+                "follow_request_sent": false, 
+                "followers_count": 406, 
+                "following": false, 
+                "friends_count": 258, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2705344184, 
+                "id_str": "2705344184", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Los Angeles, CA", 
+                "name": "#FREE03 Danny \u2661", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2705344184/1513037976", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/972919799721353216/uDHlabCn_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/972919799721353216/uDHlabCn_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "idontknowdanny", 
+                "statuses_count": 14677, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 00:22:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994009693952540672, 
+            "id_str": "994009693952540672", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Jan 24 14:45:14 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Time is money,  ian got no free time", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 11537, 
+                "follow_request_sent": false, 
+                "followers_count": 121, 
+                "following": false, 
+                "friends_count": 40, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2994708198, 
+                "id_str": "2994708198", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "", 
+                "name": "K!LL B!LL m\u00f8\ud83e\udd2c", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2994708198/1524526510", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/988148385734709249/oMxkLUXD_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/988148385734709249/oMxkLUXD_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "thursd_y", 
+                "statuses_count": 311, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 18:52:04 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993926525429927937, 
+            "id_str": "993926525429927937", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Aug 14 16:28:40 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "21. If you want I can style you.\ud83d\udc81\ud83c\udffe\u200d\u2642\ufe0f\u2728 \ud83d\udea7 dwst.96* \ud83d\udea7 SANDAS", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "damnsonhowyoudothat.com", 
+                                "expanded_url": "https://damnsonhowyoudothat.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/cKk9mYIojd"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 20515, 
+                "follow_request_sent": false, 
+                "followers_count": 1019, 
+                "following": false, 
+                "friends_count": 718, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 65673127, 
+                "id_str": "65673127", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 9, 
+                "location": "Iowa, USA", 
+                "name": "Blue Tac Shotty\ud83d\udeab\ud83e\udde2", 
+                "notifications": false, 
+                "profile_background_color": "4E59A3", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477895693822996480/nZTXaVSX.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477895693822996480/nZTXaVSX.png", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/65673127/1522864846", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991482771729154048/_47tt-Pc_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991482771729154048/_47tt-Pc_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "516BED", 
+                "profile_text_color": "E7F3F5", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "KEYS4THELOW", 
+                "statuses_count": 44917, 
+                "time_zone": "Alaska", 
+                "translator_type": "none", 
+                "url": "https://t.co/cKk9mYIojd", 
+                "utc_offset": -28800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 18:40:22 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993923579019317248, 
+            "id_str": "993923579019317248", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Nov 25 09:41:33 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "m miss\u2019d understood", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4925, 
+                "follow_request_sent": false, 
+                "followers_count": 208, 
+                "following": false, 
+                "friends_count": 37, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2909874097, 
+                "id_str": "2909874097", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "", 
+                "name": "wipe ur tears", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2909874097/1526021871", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993368646431969280/axX-CdhP_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993368646431969280/axX-CdhP_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "rjbirch", 
+                "statuses_count": 3177, 
+                "time_zone": "Mazatlan", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -21600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 17:29:00 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993905622172295169, 
+            "id_str": "993905622172295169", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Dec 05 20:07:37 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\u2022Descendant of the dragon.\n\u00b0Director Humara Tennis Kenya.\n\u00b0Humara_wear254.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "humaratennis.co.ke", 
+                                "expanded_url": "http://humaratennis.co.ke", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Rsnmt4x7nm"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5562, 
+                "follow_request_sent": false, 
+                "followers_count": 1345, 
+                "following": false, 
+                "friends_count": 3369, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 938137804646776832, 
+                "id_str": "938137804646776832", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Nairobi, Kenya", 
+                "name": "Acarpel.\u2122\u00b0", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/938137804646776832/1512588729", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/986991551439138816/m7QkYb5T_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/986991551439138816/m7QkYb5T_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Humuod8", 
+                "statuses_count": 4731, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/Rsnmt4x7nm", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 17:11:54 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993901315720925185, 
+            "id_str": "993901315720925185", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Mar 15 01:43:35 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "features and bookings : tyeuros@gmail.com egm // 4100", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "soundcloud.com/tyeuros/tcitc", 
+                                "expanded_url": "https://soundcloud.com/tyeuros/tcitc", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/q2Ivzad3L3"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 56238, 
+                "follow_request_sent": false, 
+                "followers_count": 1811, 
+                "following": false, 
+                "friends_count": 345, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 24467116, 
+                "id_str": "24467116", 
+                "is_translation_enabled": true, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 14, 
+                "location": "Phil\u00e0delphi\u00e0", 
+                "name": "Ty Euros \ud83d\udef4\ud83d\udef4\ud83d\udef4\ud83d\udef4\ud83d\udef4", 
+                "notifications": false, 
+                "profile_background_color": "1A1B1F", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/24467116/1526003634", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994757248219078662/-tAJ722W_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994757248219078662/-tAJ722W_normal.jpg", 
+                "profile_link_color": "2FC2EF", 
+                "profile_sidebar_border_color": "181A1E", 
+                "profile_sidebar_fill_color": "252429", 
+                "profile_text_color": "666666", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "HiTaahir", 
+                "statuses_count": 51832, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": "https://t.co/q2Ivzad3L3", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 17:11:25 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993901194111315968, 
+            "id_str": "993901194111315968", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Apr 12 22:59:52 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "#unt21 | sweet & unstable.\ud83d\udd4a", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 9501, 
+                "follow_request_sent": false, 
+                "followers_count": 178, 
+                "following": false, 
+                "friends_count": 80, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 1347911684, 
+                "id_str": "1347911684", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "", 
+                "name": "haan.", 
+                "notifications": false, 
+                "profile_background_color": "FFFFFF", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840980702/a7932468e61767e110803158bf431156.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840980702/a7932468e61767e110803158bf431156.png", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347911684/1526052025", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994959994759077888/nRxYGY96_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994959994759077888/nRxYGY96_normal.jpg", 
+                "profile_link_color": "D8BFD8", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "FFFFFF", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "lildirtbagthug", 
+                "statuses_count": 3473, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 16:38:19 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2574950302, 
+                        "id_str": "2574950302", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "\u200d   \u200dshutup", 
+                        "screen_name": "fuckallofyall1"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993892864030662656, 
+            "id_str": "993892864030662656", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 31, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:27:56 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 104, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993769457209163776, 
+                "id_str": "993769457209163776", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 31, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jun 01 08:30:33 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "traktrain.com/uglyfriend", 
+                                    "expanded_url": "http://www.traktrain.com/uglyfriend", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/su3VzqGkRY"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2979, 
+                    "follow_request_sent": false, 
+                    "followers_count": 5329, 
+                    "following": false, 
+                    "friends_count": 446, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 2574950302, 
+                    "id_str": "2574950302", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 59, 
+                    "location": "California, USA", 
+                    "name": "\u200d   \u200dshutup", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574950302/1525340897", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991977724842463232/fcsGDP4l_normal.jpg", 
+                    "profile_link_color": "7FDBB6", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "fuckallofyall1", 
+                    "statuses_count": 16421, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/su3VzqGkRY", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @fuckallofyall1: I just want a girl that\u2019s gone answer the phone at midnight wen I\u2019m off that perc", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Jan 09 20:53:46 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "ma", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 456, 
+                "follow_request_sent": false, 
+                "followers_count": 104, 
+                "following": false, 
+                "friends_count": 99, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 4757728527, 
+                "id_str": "4757728527", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Naujoji Akmen\u0117, Lithuania", 
+                "name": "dj vale", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4757728527/1519216700", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/966290988577763328/mcIaaB9X_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/966290988577763328/mcIaaB9X_normal.jpg", 
+                "profile_link_color": "F5ABB5", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "t6ix_", 
+                "statuses_count": 181, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+    ]
+}

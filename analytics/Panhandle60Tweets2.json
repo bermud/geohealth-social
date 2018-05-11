@@ -1,0 +1,1412 @@
+{
+    "search_metadata": {
+        "completed_in": 0.236, 
+        "count": 15, 
+        "max_id": 994495822589931520, 
+        "max_id_str": "994495822589931520", 
+        "query": "%28need+OR+want+OR+needing+OR+wanting%29+AND+%28Greenies+OR+dillies+OR+painkiller+OR+painkillers+OR+pain+OR+killers+OR+pills+OR+smack+OR+skag%29%26geocode%3A39.660027%2C-78.7818776%2C60km", 
+        "refresh_url": "?since_id=994495822589931520&q=%28need%20OR%20want%20OR%20needing%20OR%20wanting%29%20AND%20%28Greenies%20OR%20dillies%20OR%20painkiller%20OR%20painkillers%20OR%20pain%20OR%20killers%20OR%20pills%20OR%20smack%20OR%20skag%29%26geocode%3A39.660027%2C-78.7818776%2C60km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 08:34:15 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994495822589931520", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/ncfaE8gXBG"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994495822589931520, 
+            "id_str": "994495822589931520", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Thu May 10 08:31:14 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994495062221320192", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/dvOM0FVxzs"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 1, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994495062221320192, 
+                "id_str": "994495062221320192", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": true, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "quoted_status_id": 994494329229000704, 
+                "quoted_status_id_str": "994494329229000704", 
+                "retweet_count": 0, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "Chris' job was to make sure that both Sebastian and Briolette's empires remained strong, so his job was to make con\u2026 https://t.co/dvOM0FVxzs", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sat May 05 23:52:09 +0000 2018", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "\u1d21\u029c\u1d00\u1d1b \u1d0d\u1d00\u1d05\u1d07 \u1d1b\u029c\u1d07\u1d0d \u1d21\u1d00\u0274\u1d1b \u1d1b\u1d0f \u1d04\u1d0f\u1d0d\u1d07 \u1d00\u0274\u1d05 \u0299\u029f\u1d0f\u1d21 \u028f\u1d0f\u1d1c \u1d00\u1d21\u1d00\u028f? | son of a priest | ex-addict | mafia gun | mature content | #RaccoonWriter", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "twitlonger.com/show/n_1sqhdv4", 
+                                    "expanded_url": "http://www.twitlonger.com/show/n_1sqhdv4", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/hmVbgcGFWK"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 163, 
+                    "follow_request_sent": false, 
+                    "followers_count": 17, 
+                    "following": false, 
+                    "friends_count": 21, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 992914877780869120, 
+                    "id_str": "992914877780869120", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 0, 
+                    "location": "Bucharest, Romania", 
+                    "name": "Chris Kelly", 
+                    "notifications": false, 
+                    "profile_background_color": "F5F8FA", 
+                    "profile_background_image_url": null, 
+                    "profile_background_image_url_https": null, 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/992914877780869120/1525568008", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/993733625714638848/8NagZIvP_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/993733625714638848/8NagZIvP_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "AGunForStChris", 
+                    "statuses_count": 285, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": "https://t.co/hmVbgcGFWK", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "quoted_status_id": 994495062221320192, 
+            "quoted_status_id_str": "994495062221320192", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "\u201cWhat?\u201d Sebastian asked, confused as ever. This boy had tricks a plenty up his sleeve, didn\u2019t he? \u201cWhere are you go\u2026 https://t.co/ncfaE8gXBG", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Apr 21 19:20:35 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\u201cI take care of people, baietel. Don\u2019t worry about it.\u201d || mv/ms || bi || #BoundToNeverland", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 364, 
+                "follow_request_sent": false, 
+                "followers_count": 59, 
+                "following": false, 
+                "friends_count": 269, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 987773108663631872, 
+                "id_str": "987773108663631872", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Romania", 
+                "name": "Subik", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/987773108663631872/1524338741", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/987774271446372352/nfR7zfv2_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/987774271446372352/nfR7zfv2_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "RomanianKingpin", 
+                "statuses_count": 333, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 12:14:24 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994188838938476544, 
+            "id_str": "994188838938476544", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "So much pain. I just want relief.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Jun 26 02:58:20 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "snap:  dnadine4687", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 882, 
+                "follow_request_sent": false, 
+                "followers_count": 183, 
+                "following": false, 
+                "friends_count": 329, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 50894424, 
+                "id_str": "50894424", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Cumberland, MD", 
+                "name": "Danielle Sheally", 
+                "notifications": false, 
+                "profile_background_color": "FFFFFF", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/839997904/9713df7343cbde9c94a4de2193db2478.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/839997904/9713df7343cbde9c94a4de2193db2478.jpeg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/50894424/1365705480", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/776897648435535872/rYmZVSis_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/776897648435535872/rYmZVSis_normal.jpg", 
+                "profile_link_color": "363636", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "696969", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "dnadine", 
+                "statuses_count": 1771, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 08:17:03 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 748849188092448769, 
+                        "id_str": "748849188092448769", 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "name": "\ud83d\udc49Z.Yixing\ud83d\udc27", 
+                        "screen_name": "77andreea88"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993766717129089025, 
+            "id_str": "993766717129089025", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 08:13:40 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993765865450557440", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/8fQ1NDGWno"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 1, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993765865450557440, 
+                "id_str": "993765865450557440", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "My baby must be in so much pain....\n\nHe keep teling us to be happy and not to cry/worry but in the inside he was br\u2026 https://t.co/8fQ1NDGWno", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jul 01 12:02:14 +0000 2016", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "\"I fell in love with you, not for how you look,BUT for who you are!\"\n#EXOT12 \ud83d\udc9c", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 297067, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1407, 
+                    "following": false, 
+                    "friends_count": 292, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 748849188092448769, 
+                    "id_str": "748849188092448769", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 18, 
+                    "location": "Romania", 
+                    "name": "\ud83d\udc49Z.Yixing\ud83d\udc27", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/748849188092448769/1513194071", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/993771022133481472/EP9wlRwx_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/993771022133481472/EP9wlRwx_normal.jpg", 
+                    "profile_link_color": "1B95E0", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "77andreea88", 
+                    "statuses_count": 246272, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @77andreea88: My baby must be in so much pain....\n\nHe keep teling us to be happy and not to cry/worry but in the inside he was broke.\n\nI\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Mar 11 09:45:09 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\u2661NO EXO - NO LIFE\u2661\n\n                                                      #\ubc31\ud604 IS MY SUNSHINE\n                                         @weareoneEXO", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 602, 
+                "follow_request_sent": false, 
+                "followers_count": 142, 
+                "following": false, 
+                "friends_count": 1807, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 972770392744931328, 
+                "id_str": "972770392744931328", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "vi", 
+                "listed_count": 0, 
+                "location": "L-1485", 
+                "name": "LBYUN", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/972770392744931328/1523171778", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/992747206649135105/4-RL9SDU_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/992747206649135105/4-RL9SDU_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LBYUN4", 
+                "statuses_count": 13182, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 08:13:40 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993765865450557440", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/8fQ1NDGWno"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993765865450557440, 
+            "id_str": "993765865450557440", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "My baby must be in so much pain....\n\nHe keep teling us to be happy and not to cry/worry but in the inside he was br\u2026 https://t.co/8fQ1NDGWno", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Jul 01 12:02:14 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\"I fell in love with you, not for how you look,BUT for who you are!\"\n#EXOT12 \ud83d\udc9c", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 297067, 
+                "follow_request_sent": false, 
+                "followers_count": 1407, 
+                "following": false, 
+                "friends_count": 292, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 748849188092448769, 
+                "id_str": "748849188092448769", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 18, 
+                "location": "Romania", 
+                "name": "\ud83d\udc49Z.Yixing\ud83d\udc27", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/748849188092448769/1513194071", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993771022133481472/EP9wlRwx_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993771022133481472/EP9wlRwx_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "77andreea88", 
+                "statuses_count": 246272, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 20:35:21 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993590130509271041", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/tKnERMClSa"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993590130509271041, 
+            "id_str": "993590130509271041", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "\"I'm the one you want,\nNot the one you trying to save\nI got a broken heart,\nYou were like a blade\nTearing me apart,\u2026 https://t.co/tKnERMClSa", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 09 12:51:38 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "17/07/2016@EC YOUTUBERS:\u2661Shaytards\u2661 MUSIC: \u2661MCR\u2661Bring Me The Horizon\u2661twenty \u00f8ne pil\u00f8ts\u2661Enter Shikari\u2661NEWS\u2661\u30c6\u30b4\u30de\u30b9\u2661\u96c5-MIYAVI-", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "maddy96myv.tumblr.com", 
+                                "expanded_url": "http://maddy96myv.tumblr.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/gha58rzUwY"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 63056, 
+                "follow_request_sent": false, 
+                "followers_count": 808, 
+                "following": false, 
+                "friends_count": 1475, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 29976836, 
+                "id_str": "29976836", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 29, 
+                "location": "Romania", 
+                "name": "\ud83d\udc9c maddy\u27b3\u263e\u2727 \ud83d\udda4", 
+                "notifications": false, 
+                "profile_background_color": "EBEBEB", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623584556839489536/H2cUAscG.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623584556839489536/H2cUAscG.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/29976836/1516312017", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/949348127735275520/x9wu_sph_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/949348127735275520/x9wu_sph_normal.jpg", 
+                "profile_link_color": "9266CC", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "FFF7CC", 
+                "profile_text_color": "0C3E53", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "maddy96myv", 
+                "statuses_count": 80416, 
+                "time_zone": "Bucharest", 
+                "translator_type": "regular", 
+                "url": "https://t.co/gha58rzUwY", 
+                "utc_offset": 10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 20:11:21 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993584088895324167", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/jVJgQoPYY8"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993584088895324167, 
+            "id_str": "993584088895324167", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "\"Running away from you takes time and pain and I don't even want to\nSo I'm getting high all week without you\nPoppin\u2026 https://t.co/jVJgQoPYY8", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 09 12:51:38 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "17/07/2016@EC YOUTUBERS:\u2661Shaytards\u2661 MUSIC: \u2661MCR\u2661Bring Me The Horizon\u2661twenty \u00f8ne pil\u00f8ts\u2661Enter Shikari\u2661NEWS\u2661\u30c6\u30b4\u30de\u30b9\u2661\u96c5-MIYAVI-", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "maddy96myv.tumblr.com", 
+                                "expanded_url": "http://maddy96myv.tumblr.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/gha58rzUwY"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 63056, 
+                "follow_request_sent": false, 
+                "followers_count": 808, 
+                "following": false, 
+                "friends_count": 1475, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 29976836, 
+                "id_str": "29976836", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 29, 
+                "location": "Romania", 
+                "name": "\ud83d\udc9c maddy\u27b3\u263e\u2727 \ud83d\udda4", 
+                "notifications": false, 
+                "profile_background_color": "EBEBEB", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623584556839489536/H2cUAscG.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623584556839489536/H2cUAscG.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/29976836/1516312017", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/949348127735275520/x9wu_sph_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/949348127735275520/x9wu_sph_normal.jpg", 
+                "profile_link_color": "9266CC", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "FFF7CC", 
+                "profile_text_color": "0C3E53", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "maddy96myv", 
+                "statuses_count": 80416, 
+                "time_zone": "Bucharest", 
+                "translator_type": "regular", 
+                "url": "https://t.co/gha58rzUwY", 
+                "utc_offset": 10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 04 12:49:07 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/992385636291235842", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/nemVMBf4hc"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992385636291235842, 
+            "id_str": "992385636291235842", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "Hey everyone, I'm back\ud83d\ude0a I'd kinda need your ideas for something to put on this empty wall - I used to put posters b\u2026 https://t.co/nemVMBf4hc", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jan 12 17:17:10 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Heyo! I'm Billy. I like to draw. I like to build stuff on MC. Piano & Guitar enthusiast. Don't hesitate to ask for a follow! \u263a\u270f\u270f\u270f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/GBillyOne", 
+                                "expanded_url": "https://www.twitter.com/GBillyOne", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Fr0j4U6yXs"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 2055, 
+                "follow_request_sent": false, 
+                "followers_count": 3695, 
+                "following": false, 
+                "friends_count": 988, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 462179500, 
+                "id_str": "462179500", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 10, 
+                "location": "Romania ", 
+                "name": "~GBillyOne~", 
+                "notifications": false, 
+                "profile_background_color": "022330", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/462179500/1445706242", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/784753870895448064/t3nyPQ-x_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/784753870895448064/t3nyPQ-x_normal.jpg", 
+                "profile_link_color": "AB882A", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "GBillyOne", 
+                "statuses_count": 36557, 
+                "time_zone": "Athens", 
+                "translator_type": "regular", 
+                "url": "https://t.co/Fr0j4U6yXs", 
+                "utc_offset": 10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 19:18:13 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 177345434, 
+                        "id_str": "177345434", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "Crystal Grieves", 
+                        "screen_name": "crystalgrieves"
+                    }, 
+                    {
+                        "id": 169686021, 
+                        "id_str": "169686021", 
+                        "indices": [
+                            20, 
+                            30
+                        ], 
+                        "name": "KANYE WEST", 
+                        "screen_name": "kanyewest"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991758779325726720, 
+            "id_str": "991758779325726720", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 02 19:14:29 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/991757839134855169", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/jY13vQDjbH"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 169686021, 
+                            "id_str": "169686021", 
+                            "indices": [
+                                0, 
+                                10
+                            ], 
+                            "name": "KANYE WEST", 
+                            "screen_name": "kanyewest"
+                        }
+                    ]
+                }, 
+                "favorite_count": 5, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 991757839134855169, 
+                "id_str": "991757839134855169", 
+                "in_reply_to_screen_name": "kanyewest", 
+                "in_reply_to_status_id": 991427311688859649, 
+                "in_reply_to_status_id_str": "991427311688859649", 
+                "in_reply_to_user_id": 169686021, 
+                "in_reply_to_user_id_str": "169686021", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "@kanyewest Again I'm sorry your body became addicted, but those of us with Chronic Diseases and Pain Conditions nee\u2026 https://t.co/jY13vQDjbH", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Aug 11 22:18:09 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Full time Mom, Wife, and mom to 3 dogs\nI am diagnosed with a Rare Disease and Fibromyalgia patient. Ambassador for US Pain Foundation for the State of Maryland.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "facebook.com/profile.php?id\u2026", 
+                                    "expanded_url": "http://www.facebook.com/profile.php?id=100000438974893", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/ePcyhXCqyD"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 542, 
+                    "follow_request_sent": false, 
+                    "followers_count": 105, 
+                    "following": false, 
+                    "friends_count": 282, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 177345434, 
+                    "id_str": "177345434", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 10, 
+                    "location": "Cumberland, Md", 
+                    "name": "Crystal Grieves", 
+                    "notifications": false, 
+                    "profile_background_color": "131516", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/177345434/1381756740", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/797482362410070016/afWpj8dT_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/797482362410070016/afWpj8dT_normal.jpg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "EEEEEE", 
+                    "profile_sidebar_fill_color": "EFEFEF", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "crystalgrieves", 
+                    "statuses_count": 1556, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": "https://t.co/ePcyhXCqyD", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @crystalgrieves: @kanyewest Again I'm sorry your body became addicted, but those of us with Chronic Diseases and Pain Conditions need ou\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Oct 02 17:37:35 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\ud83c\udf1f#IPP,#PTSD, \u267f#armywife. PROUD of MY Vietnam Vet\ud83d\ude81! \u2764 OUR Country life.\ud83c\udfc7\ud83c\udfa3\ud83d\ude9c\ud83c\udfcd\ud83d\udea4 Conservative. Proud American, disgusted wth ALL politicians. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 14280, 
+                "follow_request_sent": false, 
+                "followers_count": 662, 
+                "following": false, 
+                "friends_count": 3653, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 3761189232, 
+                "id_str": "3761189232", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 5, 
+                "location": "", 
+                "name": "kountrygirly68", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3761189232/1518487770", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993968781297774593/kezKFjgy_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993968781297774593/kezKFjgy_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "DeeEscalante", 
+                "statuses_count": 8916, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 19:16:57 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/991758459271106561", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/xvccNNhsjw"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 169686021, 
+                        "id_str": "169686021", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "KANYE WEST", 
+                        "screen_name": "kanyewest"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991758459271106561, 
+            "id_str": "991758459271106561", 
+            "in_reply_to_screen_name": "kanyewest", 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": 169686021, 
+            "in_reply_to_user_id_str": "169686021", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@kanyewest I'm sorry you have an addiction to Opiates, but not all of us do. Many of us need our medications to hav\u2026 https://t.co/xvccNNhsjw", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Aug 11 22:18:09 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Full time Mom, Wife, and mom to 3 dogs\nI am diagnosed with a Rare Disease and Fibromyalgia patient. Ambassador for US Pain Foundation for the State of Maryland.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "facebook.com/profile.php?id\u2026", 
+                                "expanded_url": "http://www.facebook.com/profile.php?id=100000438974893", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/ePcyhXCqyD"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 542, 
+                "follow_request_sent": false, 
+                "followers_count": 105, 
+                "following": false, 
+                "friends_count": 282, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 177345434, 
+                "id_str": "177345434", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 10, 
+                "location": "Cumberland, Md", 
+                "name": "Crystal Grieves", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/177345434/1381756740", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/797482362410070016/afWpj8dT_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/797482362410070016/afWpj8dT_normal.jpg", 
+                "profile_link_color": "009999", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "crystalgrieves", 
+                "statuses_count": 1556, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/ePcyhXCqyD", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 19:14:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/991757839134855169", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/jY13vQDjbH"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 169686021, 
+                        "id_str": "169686021", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "KANYE WEST", 
+                        "screen_name": "kanyewest"
+                    }
+                ]
+            }, 
+            "favorite_count": 5, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991757839134855169, 
+            "id_str": "991757839134855169", 
+            "in_reply_to_screen_name": "kanyewest", 
+            "in_reply_to_status_id": 991427311688859649, 
+            "in_reply_to_status_id_str": "991427311688859649", 
+            "in_reply_to_user_id": 169686021, 
+            "in_reply_to_user_id_str": "169686021", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@kanyewest Again I'm sorry your body became addicted, but those of us with Chronic Diseases and Pain Conditions nee\u2026 https://t.co/jY13vQDjbH", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Aug 11 22:18:09 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Full time Mom, Wife, and mom to 3 dogs\nI am diagnosed with a Rare Disease and Fibromyalgia patient. Ambassador for US Pain Foundation for the State of Maryland.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "facebook.com/profile.php?id\u2026", 
+                                "expanded_url": "http://www.facebook.com/profile.php?id=100000438974893", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/ePcyhXCqyD"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 542, 
+                "follow_request_sent": false, 
+                "followers_count": 105, 
+                "following": false, 
+                "friends_count": 282, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 177345434, 
+                "id_str": "177345434", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 10, 
+                "location": "Cumberland, Md", 
+                "name": "Crystal Grieves", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/177345434/1381756740", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/797482362410070016/afWpj8dT_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/797482362410070016/afWpj8dT_normal.jpg", 
+                "profile_link_color": "009999", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "crystalgrieves", 
+                "statuses_count": 1556, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/ePcyhXCqyD", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 01 20:20:07 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991411968581013505, 
+            "id_str": "991411968581013505", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Bow he's home I'm sad I took pills. I want dinner.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 20 18:17:26 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 61, 
+                "follow_request_sent": false, 
+                "followers_count": 9, 
+                "following": false, 
+                "friends_count": 97, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 855123256143171588, 
+                "id_str": "855123256143171588", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Oakland, MD", 
+                "name": "Sara Beard", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/855123256143171588/1497194132", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/873921404621737984/0eLkshjE_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/873921404621737984/0eLkshjE_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "newsara01", 
+                "statuses_count": 316, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+    ]
+}

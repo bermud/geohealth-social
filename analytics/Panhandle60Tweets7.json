@@ -1,0 +1,13 @@
+{
+    "search_metadata": {
+        "completed_in": 0.058, 
+        "count": 15, 
+        "max_id": 995014006107721728, 
+        "max_id_str": "995014006107721728", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal%29+AND+%28Oxys+OR+OxyCotton+OR+oxy+OR+roxies+OR+roxys+OR+oxycotin+OR+lortab+OR+tabbers+OR+Hydros+OR+Perc+OR+Percs+OR+Ercs%29%26geocode%3A39.660027%2C-78.7818776%2C60km", 
+        "refresh_url": "?since_id=995014006107721728&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%29%20AND%20%28Oxys%20OR%20OxyCotton%20OR%20oxy%20OR%20roxies%20OR%20roxys%20OR%20oxycotin%20OR%20lortab%20OR%20tabbers%20OR%20Hydros%20OR%20Perc%20OR%20Percs%20OR%20Ercs%29%26geocode%3A39.660027%2C-78.7818776%2C60km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": []
+}
