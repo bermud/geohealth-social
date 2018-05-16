@@ -1,0 +1,2590 @@
+{
+    "search_metadata": {
+        "completed_in": 0.104, 
+        "count": 15, 
+        "max_id": 996544479627763712, 
+        "max_id_str": "996544479627763712", 
+        "next_results": "?max_id=996497884525801471&q=%28overdoes%20OR%20opioidcrisis%20OR%20recovery%20OR%20formeraddict%20OR%20relapse%20OR%20safeinjectionsites%20OR%20dependency%29%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "query": "%28overdoes+OR+opioidcrisis+OR+recovery+OR+formeraddict+OR+relapse+OR+safeinjectionsites+OR+dependency%29%29%26geocode%3A39.283333%2C-76.616667%2C50km", 
+        "refresh_url": "?since_id=996544479627763712&q=%28overdoes%20OR%20opioidcrisis%20OR%20recovery%20OR%20formeraddict%20OR%20relapse%20OR%20safeinjectionsites%20OR%20dependency%29%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:14:53 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 3018159969, 
+                        "id_str": "3018159969", 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "name": "666 BDSM | Shears", 
+                        "screen_name": "ssbshears"
+                    }, 
+                    {
+                        "id": 1031698890, 
+                        "id_str": "1031698890", 
+                        "indices": [
+                            15, 
+                            25
+                        ], 
+                        "name": "gRossi", 
+                        "screen_name": "RossisFox"
+                    }, 
+                    {
+                        "id": 3305000955, 
+                        "id_str": "3305000955", 
+                        "indices": [
+                            26, 
+                            41
+                        ], 
+                        "name": "lord narwhal", 
+                        "screen_name": "narwhal_reborn"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996544479627763712, 
+            "id_str": "996544479627763712", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 21:47:08 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996507298158833664", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/6dhl0pp3Bq"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 1031698890, 
+                            "id_str": "1031698890", 
+                            "indices": [
+                                0, 
+                                10
+                            ], 
+                            "name": "gRossi", 
+                            "screen_name": "RossisFox"
+                        }, 
+                        {
+                            "id": 3305000955, 
+                            "id_str": "3305000955", 
+                            "indices": [
+                                11, 
+                                26
+                            ], 
+                            "name": "lord narwhal", 
+                            "screen_name": "narwhal_reborn"
+                        }
+                    ]
+                }, 
+                "favorite_count": 2, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996507298158833664, 
+                "id_str": "996507298158833664", 
+                "in_reply_to_screen_name": "RossisFox", 
+                "in_reply_to_status_id": 996505143817457664, 
+                "in_reply_to_status_id_str": "996505143817457664", 
+                "in_reply_to_user_id": 1031698890, 
+                "in_reply_to_user_id_str": "1031698890", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "@RossisFox @narwhal_reborn Agreed which is why these chars need to avoid positions that get them offstage at low pe\u2026 https://t.co/6dhl0pp3Bq", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Feb 04 17:44:09 +0000 2015", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "National TO for 64. #48 on SSB64 League Rankings. If you have questions or need help feel free to contact me. I also make websites. Tweets rated M by ESRB", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "supersmashbros.org", 
+                                    "expanded_url": "http://supersmashbros.org", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/oMKO10EgTe"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 15428, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1155, 
+                    "following": false, 
+                    "friends_count": 481, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 3018159969, 
+                    "id_str": "3018159969", 
+                    "is_translation_enabled": true, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 13, 
+                    "location": "Baltimore, MD", 
+                    "name": "666 BDSM | Shears", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018159969/1480661419", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/952669754065608704/QMWrFktf_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/952669754065608704/QMWrFktf_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "ssbshears", 
+                    "statuses_count": 19632, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/oMKO10EgTe", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+            "text": "RT @ssbshears: @RossisFox @narwhal_reborn Agreed which is why these chars need to avoid positions that get them offstage at low percents. I\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun May 31 21:07:44 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "professional girl gamer. professional streamer. professional luigi player. https://t.co/MFdSXwDYwL", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "twitch.tv/lordnarwhal", 
+                                "expanded_url": "https://www.twitch.tv/lordnarwhal", 
+                                "indices": [
+                                    75, 
+                                    98
+                                ], 
+                                "url": "https://t.co/MFdSXwDYwL"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitch.tv/lordnarwhal", 
+                                "expanded_url": "https://www.twitch.tv/lordnarwhal", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/MFdSXwDYwL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1306, 
+                "follow_request_sent": false, 
+                "followers_count": 300, 
+                "following": false, 
+                "friends_count": 242, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 3305000955, 
+                "id_str": "3305000955", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "", 
+                "name": "lord narwhal", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305000955/1518715223", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/953031766301904896/hzPtI4Bb_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/953031766301904896/hzPtI4Bb_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "narwhal_reborn", 
+                "statuses_count": 2142, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/MFdSXwDYwL", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:00:24 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 871745893346795520, 
+                        "id_str": "871745893346795520", 
+                        "indices": [
+                            3, 
+                            14
+                        ], 
+                        "name": "ImproveLTO", 
+                        "screen_name": "improvelto"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996540835478097920, 
+            "id_str": "996540835478097920", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 14:00:13 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996389792693805056", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/05wsIBcPQx"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 4, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996389792693805056, 
+                "id_str": "996389792693805056", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+                "text": "Qualitative interviews to understand acute respiratory failure survivors' recovery to advance understanding of pati\u2026 https://t.co/05wsIBcPQx", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Mon Jun 05 15:09:52 +0000 2017", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Improving Long-Term Outcomes Research for Acute Respiratory Failure\nA Johns Hopkins Outcomes After Critical Illness & Surgery(OACIS) project funded by NIH/NHLBI", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "improveLTO.com", 
+                                    "expanded_url": "http://www.improveLTO.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/0kgMJhgeYn"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 850, 
+                    "follow_request_sent": false, 
+                    "followers_count": 392, 
+                    "following": false, 
+                    "friends_count": 4, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 871745893346795520, 
+                    "id_str": "871745893346795520", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 1, 
+                    "location": "Baltimore, MD", 
+                    "name": "ImproveLTO", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/871745893346795520/1504106114", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/871750069862752256/Poao64D__normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/871750069862752256/Poao64D__normal.jpg", 
+                    "profile_link_color": "F58EA8", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "improvelto", 
+                    "statuses_count": 1474, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/0kgMJhgeYn", 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @improvelto: Qualitative interviews to understand acute respiratory failure survivors' recovery to advance understanding of patient-cent\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Nov 12 15:45:40 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "#ICURehab - Johns Hopkins University - Pulmonary & Critical Care Medicine, and Physical Medicine & Rehabilitation. Tweets represent my personal views.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "hopkinsmedicine.org/OACIS", 
+                                "expanded_url": "http://www.hopkinsmedicine.org/OACIS", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/sQiZfN8P9r"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5350, 
+                "follow_request_sent": false, 
+                "followers_count": 4467, 
+                "following": false, 
+                "friends_count": 455, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2190581461, 
+                "id_str": "2190581461", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 144, 
+                "location": "Baltimore, MD", 
+                "name": "Dale  Needham", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2190581461/1504829652", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/905840269010100224/YHOxj7vh_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/905840269010100224/YHOxj7vh_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "DrDaleNeedham", 
+                "statuses_count": 28459, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/sQiZfN8P9r", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:46:56 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "metrolatinousa.com/2018/05/15/lat\u2026", 
+                        "expanded_url": "https://metrolatinousa.com/2018/05/15/latin-american-recovery/", 
+                        "indices": [
+                            26, 
+                            49
+                        ], 
+                        "url": "https://t.co/txDKBCZ086"
+                    }, 
+                    {
+                        "display_url": "metrolatinousa.com/2018/05/15/lat\u2026", 
+                        "expanded_url": "https://metrolatinousa.com/2018/05/15/latin-american-recovery/", 
+                        "indices": [
+                            50, 
+                            73
+                        ], 
+                        "url": "https://t.co/txDKBCZ086"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996537447185076225, 
+            "id_str": "996537447185076225", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Latin American Recovery - https://t.co/txDKBCZ086 https://t.co/txDKBCZ086", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Nov 03 00:53:52 +0000 2010", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "August 12", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 3, 
+                "follow_request_sent": false, 
+                "followers_count": 202, 
+                "following": false, 
+                "friends_count": 264, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 211352148, 
+                "id_str": "211352148", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "Silver Spring, Maryland, USA", 
+                "name": "Ramon Jimenez", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/481668928339337216/K446a7yY_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/481668928339337216/K446a7yY_normal.jpeg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Atolshuco", 
+                "statuses_count": 9507, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:25:46 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 35472060, 
+                        "id_str": "35472060", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "tara strong", 
+                        "screen_name": "tarastrong"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996532119244562434, 
+            "id_str": "996532119244562434", 
+            "in_reply_to_screen_name": "tarastrong", 
+            "in_reply_to_status_id": 996531815467827200, 
+            "in_reply_to_status_id_str": "996531815467827200", 
+            "in_reply_to_user_id": 35472060, 
+            "in_reply_to_user_id_str": "35472060", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@tarastrong omg. tara. hope you have a speedy recovery! how did you tear it?", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Dec 17 02:41:28 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Drummer,Studio Producer, Podcaster,Tama+Sabian CRAZY, #BaloneysReact ,", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/user/DRUMMERSHY", 
+                                "expanded_url": "https://www.youtube.com/user/DRUMMERSHY", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Y2JDHDFucY"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 30084, 
+                "follow_request_sent": false, 
+                "followers_count": 1035, 
+                "following": false, 
+                "friends_count": 404, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2229509656, 
+                "id_str": "2229509656", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 14, 
+                "location": "Baltimore, MD", 
+                "name": "Drummershy", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2229509656/1522621299", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/984381568134283264/vDEDm7ZG_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/984381568134283264/vDEDm7ZG_normal.jpg", 
+                "profile_link_color": "87706B", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "_Drummershy_", 
+                "statuses_count": 20809, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/Y2JDHDFucY", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:24:57 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 309162907, 
+                        "id_str": "309162907", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "Journal of Urology", 
+                        "screen_name": "JUrology"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996531913694334976, 
+            "id_str": "996531913694334976", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 9, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 17:00:53 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996435259381104640", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/VN9aHwx99I"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 12, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996435259381104640, 
+                "id_str": "996435259381104640", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 9, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Data from a randomized trial \nshow that early rehabilitation \nwith phosphodiesterase type 5 inhibitors \ncan contrib\u2026 https://t.co/VN9aHwx99I", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jun 01 16:50:43 +0000 2011", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The official Twitter page of The Journal of Urology\u00ae", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "jurology.com", 
+                                    "expanded_url": "http://www.jurology.com/", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/203SZ0sVOJ"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 4, 
+                    "follow_request_sent": false, 
+                    "followers_count": 17998, 
+                    "following": false, 
+                    "friends_count": 5464, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 309162907, 
+                    "id_str": "309162907", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 203, 
+                    "location": "Linthicum, Maryland", 
+                    "name": "Journal of Urology", 
+                    "notifications": false, 
+                    "profile_background_color": "000003", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262344375/JU_logo_black_squ.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262344375/JU_logo_black_squ.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/309162907/1526324916", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/463353475724619776/AF3_S0px_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/463353475724619776/AF3_S0px_normal.jpeg", 
+                    "profile_link_color": "BD1111", 
+                    "profile_sidebar_border_color": "BD1111", 
+                    "profile_sidebar_fill_color": "F7F2F7", 
+                    "profile_text_color": "000003", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "JUrology", 
+                    "statuses_count": 4254, 
+                    "time_zone": "Quito", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/203SZ0sVOJ", 
+                    "utc_offset": -18000, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @JUrology: Data from a randomized trial \nshow that early rehabilitation \nwith phosphodiesterase type 5 inhibitors \ncan contribute to the\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jul 13 00:40:30 +0000 2010", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 14, 
+                "follow_request_sent": false, 
+                "followers_count": 15, 
+                "following": false, 
+                "friends_count": 46, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 165969029, 
+                "id_str": "165969029", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "es", 
+                "listed_count": 0, 
+                "location": "Ciudad de Mexico", 
+                "name": "Carlos Omar German", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/996530480039317504/UnSwUS2x_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/996530480039317504/UnSwUS2x_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "comargg", 
+                "statuses_count": 18, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:15:06 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "ford-trucks.com/articles/ford-\u2026", 
+                        "expanded_url": "https://www.ford-trucks.com/articles/ford-donates-38-vehicles-to-hurricane-harvey-recovery-efforts/", 
+                        "indices": [
+                            63, 
+                            86
+                        ], 
+                        "url": "https://t.co/WUHXKB1XIw"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996529435259166720, 
+            "id_str": "996529435259166720", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+            "text": "Ford Donates 38 Vehicles to Hurricane Harvey Recovery Efforts! https://t.co/WUHXKB1XIw", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Nov 26 19:34:04 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Your New Mexico Ford Dealers are dedicated to providing the very best buying experience anywhere!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "BuyFordNow.com", 
+                                "expanded_url": "http://BuyFordNow.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/9OXLmsR47c"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 0, 
+                "follow_request_sent": false, 
+                "followers_count": 70, 
+                "following": false, 
+                "friends_count": 110, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2216259649, 
+                "id_str": "2216259649", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "New Mexico, USA", 
+                "name": "NM Ford Dealers", 
+                "notifications": false, 
+                "profile_background_color": "362E2E", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000154305087/ztfXeGuY.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000154305087/ztfXeGuY.png", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2216259649/1478211077", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/918541750016229376/DEcmZLWI_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/918541750016229376/DEcmZLWI_normal.jpg", 
+                "profile_link_color": "FF0000", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "D9170D", 
+                "profile_text_color": "AA6C63", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "NMFordDealers", 
+                "statuses_count": 2148, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/9OXLmsR47c", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:02:21 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            20, 
+                            31
+                        ], 
+                        "text": "alcoholism"
+                    }, 
+                    {
+                        "indices": [
+                            93, 
+                            103
+                        ], 
+                        "text": "addiction"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            113
+                        ], 
+                        "text": "recovery"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/zILf1jUMog", 
+                        "expanded_url": "https://twitter.com/AuthorJimSpina/status/994608292977627136/photo/1", 
+                        "id": 994608290679078917, 
+                        "id_str": "994608290679078917", 
+                        "indices": [
+                            114, 
+                            137
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 2048, 
+                                "resize": "fit", 
+                                "w": 2048
+                            }, 
+                            "medium": {
+                                "h": 1200, 
+                                "resize": "fit", 
+                                "w": 1200
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 994608292977627136, 
+                        "source_status_id_str": "994608292977627136", 
+                        "source_user_id": 882615190566699008, 
+                        "source_user_id_str": "882615190566699008", 
+                        "type": "photo", 
+                        "url": "https://t.co/zILf1jUMog"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 882615190566699008, 
+                        "id_str": "882615190566699008", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "Jim Spina", 
+                        "screen_name": "AuthorJimSpina"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/zILf1jUMog", 
+                        "expanded_url": "https://twitter.com/AuthorJimSpina/status/994608292977627136/photo/1", 
+                        "id": 994608290679078917, 
+                        "id_str": "994608290679078917", 
+                        "indices": [
+                            114, 
+                            137
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 2048, 
+                                "resize": "fit", 
+                                "w": 2048
+                            }, 
+                            "medium": {
+                                "h": 1200, 
+                                "resize": "fit", 
+                                "w": 1200
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 994608292977627136, 
+                        "source_status_id_str": "994608292977627136", 
+                        "source_user_id": 882615190566699008, 
+                        "source_user_id_str": "882615190566699008", 
+                        "type": "photo", 
+                        "url": "https://t.co/zILf1jUMog"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996526224921870336, 
+            "id_str": "996526224921870336", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Thu May 10 16:01:10 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                0, 
+                                11
+                            ], 
+                            "text": "alcoholism"
+                        }, 
+                        {
+                            "indices": [
+                                73, 
+                                83
+                            ], 
+                            "text": "addiction"
+                        }, 
+                        {
+                            "indices": [
+                                84, 
+                                93
+                            ], 
+                            "text": "recovery"
+                        }
+                    ], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/zILf1jUMog", 
+                            "expanded_url": "https://twitter.com/AuthorJimSpina/status/994608292977627136/photo/1", 
+                            "id": 994608290679078917, 
+                            "id_str": "994608290679078917", 
+                            "indices": [
+                                94, 
+                                117
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 2048, 
+                                    "resize": "fit", 
+                                    "w": 2048
+                                }, 
+                                "medium": {
+                                    "h": 1200, 
+                                    "resize": "fit", 
+                                    "w": 1200
+                                }, 
+                                "small": {
+                                    "h": 680, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/zILf1jUMog"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/zILf1jUMog", 
+                            "expanded_url": "https://twitter.com/AuthorJimSpina/status/994608292977627136/photo/1", 
+                            "id": 994608290679078917, 
+                            "id_str": "994608290679078917", 
+                            "indices": [
+                                94, 
+                                117
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc2O-ICVwAULsqj.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 2048, 
+                                    "resize": "fit", 
+                                    "w": 2048
+                                }, 
+                                "medium": {
+                                    "h": 1200, 
+                                    "resize": "fit", 
+                                    "w": 1200
+                                }, 
+                                "small": {
+                                    "h": 680, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/zILf1jUMog"
+                        }
+                    ]
+                }, 
+                "favorite_count": 1, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994608292977627136, 
+                "id_str": "994608292977627136", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+                "text": "#alcoholism is tricky, but our human ingenuity is starting to catch up.\n\n#addiction #recovery https://t.co/zILf1jUMog", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jul 05 15:00:34 +0000 2017", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Retired #Physicist, #Father, and Former Madman. #Author of \"I Almost Murdered a Complete Stranger\" releasing Summer 2018.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "jimspina.com", 
+                                    "expanded_url": "http://www.jimspina.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/oP92N0K1ZD"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 601, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1399, 
+                    "following": false, 
+                    "friends_count": 2598, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 882615190566699008, 
+                    "id_str": "882615190566699008", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 10, 
+                    "location": "Annapolis, MD", 
+                    "name": "Jim Spina", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/882615190566699008/1508433752", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/959673090732158976/8WFrJijf_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/959673090732158976/8WFrJijf_normal.jpg", 
+                    "profile_link_color": "ABB8C2", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "AuthorJimSpina", 
+                    "statuses_count": 807, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/oP92N0K1ZD", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @AuthorJimSpina: #alcoholism is tricky, but our human ingenuity is starting to catch up.\n\n#addiction #recovery https://t.co/zILf1jUMog", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Apr 11 02:35:02 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "#mom #artist #author #chakrahealer #speaker #registerednurse #booklover #mentalhealthspecialist #naturelover #traveller #doglover #westcoastgal #treelover", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "teresamccallum.com", 
+                                "expanded_url": "http://www.teresamccallum.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/kCENFgvZ2L"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 4867, 
+                "follow_request_sent": false, 
+                "followers_count": 5037, 
+                "following": false, 
+                "friends_count": 4987, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 851624601989767168, 
+                "id_str": "851624601989767168", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 254, 
+                "location": "Calgary, Alberta", 
+                "name": "Teresa McCallum", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/851624601989767168/1520000788", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/889223332717088773/KX4gQw7m_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/889223332717088773/KX4gQw7m_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "BalanceTeresa", 
+                "statuses_count": 8868, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/kCENFgvZ2L", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 22:56:09 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 25073877, 
+                        "id_str": "25073877", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "Donald J. Trump", 
+                        "screen_name": "realDonaldTrump"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996524664594853888, 
+            "id_str": "996524664594853888", 
+            "in_reply_to_screen_name": "realDonaldTrump", 
+            "in_reply_to_status_id": 996366330436648960, 
+            "in_reply_to_status_id_str": "996366330436648960", 
+            "in_reply_to_user_id": 25073877, 
+            "in_reply_to_user_id_str": "25073877", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@realDonaldTrump I wish her a speedy recovery.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Apr 26 19:25:19 +0000 2009", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "I like to write, play guitar, and hang out with my family.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 340, 
+                "follow_request_sent": false, 
+                "followers_count": 58, 
+                "following": false, 
+                "friends_count": 47, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 35540873, 
+                "id_str": "35540873", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Owings Mills, MD", 
+                "name": "David Tillman", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/894727531114442752/o2kajWWS_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/894727531114442752/o2kajWWS_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "gone2m", 
+                "statuses_count": 359, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 22:41:56 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 560773965, 
+                        "id_str": "560773965", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "Matthew D. Gallagher", 
+                        "screen_name": "MDGBmore"
+                    }, 
+                    {
+                        "id": 823552974253342721, 
+                        "id_str": "823552974253342721", 
+                        "indices": [
+                            113, 
+                            129
+                        ], 
+                        "name": "Anthony G. Brown", 
+                        "screen_name": "RepAnthonyBrown"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996521088489226240, 
+            "id_str": "996521088489226240", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 01:59:08 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996208327376941056", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/uebkAq7m39"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 823552974253342721, 
+                            "id_str": "823552974253342721", 
+                            "indices": [
+                                99, 
+                                115
+                            ], 
+                            "name": "Anthony G. Brown", 
+                            "screen_name": "RepAnthonyBrown"
+                        }
+                    ]
+                }, 
+                "favorite_count": 2, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996208327376941056, 
+                "id_str": "996208327376941056", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Very sorry to hear this news, but I\u2019m glad he is already back home with his family. Here\u2019s wishing @RepAnthonyBrown\u2026 https://t.co/uebkAq7m39", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Mon Apr 23 00:07:51 +0000 2012", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "President of the Goldseker Foundation. Former Chief of Staff to Maryland Governor Martin J. O'Malley. Amateur food and wine critic.     All views are my own.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 3486, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1613, 
+                    "following": false, 
+                    "friends_count": 493, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 560773965, 
+                    "id_str": "560773965", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 43, 
+                    "location": "Baltimore, MD", 
+                    "name": "Matthew D. Gallagher", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/560773965/1433155255", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/605908470534012928/JIFcJQ7b_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/605908470534012928/JIFcJQ7b_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "MDGBmore", 
+                    "statuses_count": 2964, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+            "text": "RT @MDGBmore: Very sorry to hear this news, but I\u2019m glad he is already back home with his family. Here\u2019s wishing @RepAnthonyBrown a speedy\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 18 13:19:20 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Executive Assistant of the Goldseker Foundation.  Green Bay Packer Shareholder.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 198, 
+                "follow_request_sent": false, 
+                "followers_count": 69, 
+                "following": false, 
+                "friends_count": 334, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1361911238, 
+                "id_str": "1361911238", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "", 
+                "name": "Terri DeBord", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361911238/1442428447", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546724629763874817/iEI3ZGvZ_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546724629763874817/iEI3ZGvZ_normal.jpeg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "TerriDeBord", 
+                "statuses_count": 596, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 22:30:11 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            70, 
+                            81
+                        ], 
+                        "text": "rejuvenate"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            94
+                        ], 
+                        "text": "revitalize"
+                    }, 
+                    {
+                        "indices": [
+                            100, 
+                            107
+                        ], 
+                        "text": "revive"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996518131727204353", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/7khd0IxHed"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996518131727204353, 
+            "id_str": "996518131727204353", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "text": "Visit our @recoveryaftercare website for all the products you need to #rejuvenate, #revitalize, and #revive. Your b\u2026 https://t.co/7khd0IxHed", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Jul 13 03:38:53 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Breaking Ground in Body Modification Since 1999", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "PainfulPleasures.com", 
+                                "expanded_url": "http://PainfulPleasures.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/QzJVm4YdZF"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 430, 
+                "follow_request_sent": false, 
+                "followers_count": 792, 
+                "following": false, 
+                "friends_count": 62, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 56276917, 
+                "id_str": "56276917", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 40, 
+                "location": "Hanover, Maryland", 
+                "name": "PainfulPleasures", 
+                "notifications": false, 
+                "profile_background_color": "F2FAFA", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/746495953/3ed843c2d504f73672656933cf1203a9.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/746495953/3ed843c2d504f73672656933cf1203a9.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/56276917/1494440452", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/862372430714687489/9AhPQcIe_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/862372430714687489/9AhPQcIe_normal.jpg", 
+                "profile_link_color": "3D73B9", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "F2F4F7", 
+                "profile_text_color": "050405", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "PainfulPleasure", 
+                "statuses_count": 10432, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/QzJVm4YdZF", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 21:47:08 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996507298158833664", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/6dhl0pp3Bq"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1031698890, 
+                        "id_str": "1031698890", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "gRossi", 
+                        "screen_name": "RossisFox"
+                    }, 
+                    {
+                        "id": 3305000955, 
+                        "id_str": "3305000955", 
+                        "indices": [
+                            11, 
+                            26
+                        ], 
+                        "name": "lord narwhal", 
+                        "screen_name": "narwhal_reborn"
+                    }
+                ]
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996507298158833664, 
+            "id_str": "996507298158833664", 
+            "in_reply_to_screen_name": "RossisFox", 
+            "in_reply_to_status_id": 996505143817457664, 
+            "in_reply_to_status_id_str": "996505143817457664", 
+            "in_reply_to_user_id": 1031698890, 
+            "in_reply_to_user_id_str": "1031698890", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@RossisFox @narwhal_reborn Agreed which is why these chars need to avoid positions that get them offstage at low pe\u2026 https://t.co/6dhl0pp3Bq", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Feb 04 17:44:09 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "National TO for 64. #48 on SSB64 League Rankings. If you have questions or need help feel free to contact me. I also make websites. Tweets rated M by ESRB", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "supersmashbros.org", 
+                                "expanded_url": "http://supersmashbros.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/oMKO10EgTe"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 15428, 
+                "follow_request_sent": false, 
+                "followers_count": 1155, 
+                "following": false, 
+                "friends_count": 481, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 3018159969, 
+                "id_str": "3018159969", 
+                "is_translation_enabled": true, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 13, 
+                "location": "Baltimore, MD", 
+                "name": "666 BDSM | Shears", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018159969/1480661419", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/952669754065608704/QMWrFktf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/952669754065608704/QMWrFktf_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ssbshears", 
+                "statuses_count": 19632, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/oMKO10EgTe", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 21:34:50 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/Tkm5BqWLl8", 
+                        "expanded_url": "https://twitter.com/Goldenmom7/status/996504201768325120/photo/1", 
+                        "id": 996504194340143104, 
+                        "id_str": "996504194340143104", 
+                        "indices": [
+                            41, 
+                            64
+                        ], 
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DdRLSPjUwAAycKU.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdRLSPjUwAAycKU.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 288, 
+                                "resize": "fit", 
+                                "w": 430
+                            }, 
+                            "medium": {
+                                "h": 288, 
+                                "resize": "fit", 
+                                "w": 430
+                            }, 
+                            "small": {
+                                "h": 288, 
+                                "resize": "fit", 
+                                "w": 430
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/Tkm5BqWLl8"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 177087665, 
+                        "id_str": "177087665", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "Jimmy, B.O.A. \u270a\ud83c\udffe", 
+                        "screen_name": "jwheels74"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/Tkm5BqWLl8", 
+                        "expanded_url": "https://twitter.com/Goldenmom7/status/996504201768325120/photo/1", 
+                        "id": 996504194340143104, 
+                        "id_str": "996504194340143104", 
+                        "indices": [
+                            41, 
+                            64
+                        ], 
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DdRLSPjUwAAycKU.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdRLSPjUwAAycKU.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 288, 
+                                "resize": "fit", 
+                                "w": 430
+                            }, 
+                            "medium": {
+                                "h": 288, 
+                                "resize": "fit", 
+                                "w": 430
+                            }, 
+                            "small": {
+                                "h": 288, 
+                                "resize": "fit", 
+                                "w": 430
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "animated_gif", 
+                        "url": "https://t.co/Tkm5BqWLl8", 
+                        "video_info": {
+                            "aspect_ratio": [
+                                215, 
+                                144
+                            ], 
+                            "variants": [
+                                {
+                                    "bitrate": 0, 
+                                    "content_type": "video/mp4", 
+                                    "url": "https://video.twimg.com/tweet_video/DdRLSPjUwAAycKU.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996504201768325120, 
+            "id_str": "996504201768325120", 
+            "in_reply_to_screen_name": "jwheels74", 
+            "in_reply_to_status_id": 996500208572948486, 
+            "in_reply_to_status_id_str": "996500208572948486", 
+            "in_reply_to_user_id": 177087665, 
+            "in_reply_to_user_id_str": "177087665", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@jwheels74 Cheers to a speedy recovery!! https://t.co/Tkm5BqWLl8", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Sep 05 23:31:20 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Supports https://t.co/0Yv6qaZWco #BLUEWAVE \ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a #RESIST VOTE DEM 2018! DON'T HOPE - GET OUT & VOTE!!", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "chrisperrifortexas.com", 
+                                "expanded_url": "https://www.chrisperrifortexas.com/", 
+                                "indices": [
+                                    9, 
+                                    32
+                                ], 
+                                "url": "https://t.co/0Yv6qaZWco"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 47972, 
+                "follow_request_sent": false, 
+                "followers_count": 3649, 
+                "following": false, 
+                "friends_count": 3750, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 3464445799, 
+                "id_str": "3464445799", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "New Mexico, USA", 
+                "name": "#ImpeachTrumpNOW", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3464445799/1524364046", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/965997479442313216/3v_w2_3b_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/965997479442313216/3v_w2_3b_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Goldenmom7", 
+                "statuses_count": 16864, 
+                "time_zone": "Mountain Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -21600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 21:33:56 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996503975712251905", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/JUZ0CbwuGx"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1031698890, 
+                        "id_str": "1031698890", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "gRossi", 
+                        "screen_name": "RossisFox"
+                    }, 
+                    {
+                        "id": 3305000955, 
+                        "id_str": "3305000955", 
+                        "indices": [
+                            11, 
+                            26
+                        ], 
+                        "name": "lord narwhal", 
+                        "screen_name": "narwhal_reborn"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996503975712251905, 
+            "id_str": "996503975712251905", 
+            "in_reply_to_screen_name": "RossisFox", 
+            "in_reply_to_status_id": 996496865788129280, 
+            "in_reply_to_status_id_str": "996496865788129280", 
+            "in_reply_to_user_id": 1031698890, 
+            "in_reply_to_user_id_str": "1031698890", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@RossisFox @narwhal_reborn This is why Ness and Fox are to recover at distances too far for characters to travel in\u2026 https://t.co/JUZ0CbwuGx", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Feb 04 17:44:09 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "National TO for 64. #48 on SSB64 League Rankings. If you have questions or need help feel free to contact me. I also make websites. Tweets rated M by ESRB", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "supersmashbros.org", 
+                                "expanded_url": "http://supersmashbros.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/oMKO10EgTe"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 15428, 
+                "follow_request_sent": false, 
+                "followers_count": 1155, 
+                "following": false, 
+                "friends_count": 481, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 3018159969, 
+                "id_str": "3018159969", 
+                "is_translation_enabled": true, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 13, 
+                "location": "Baltimore, MD", 
+                "name": "666 BDSM | Shears", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018159969/1480661419", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/952669754065608704/QMWrFktf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/952669754065608704/QMWrFktf_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ssbshears", 
+                "statuses_count": 19632, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/oMKO10EgTe", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 21:29:31 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            38, 
+                            48
+                        ], 
+                        "text": "addiction"
+                    }, 
+                    {
+                        "indices": [
+                            49, 
+                            60
+                        ], 
+                        "text": "prevention"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            81
+                        ], 
+                        "text": "recovery"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "synergessence.libsyn.com", 
+                        "expanded_url": "http://synergessence.libsyn.com/", 
+                        "indices": [
+                            82, 
+                            105
+                        ], 
+                        "url": "https://t.co/TMj8agVLBp"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996502862283857923, 
+            "id_str": "996502862283857923", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "text": "Have you tuned in? Latest insights on #addiction #prevention &amp; even #recovery https://t.co/TMj8agVLBp", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Dec 23 20:46:01 +0000 2008", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Phytotherapist Aromacologist Unveiling the WHY we struggle w/ #health & EVOLVING the way we improve NOT manage it #mentalhealth #chronichealth", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "synergessence.com", 
+                                "expanded_url": "https://synergessence.com/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/tQ27R9bxtN"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 3374, 
+                "follow_request_sent": false, 
+                "followers_count": 2248, 
+                "following": false, 
+                "friends_count": 2157, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 18341943, 
+                "id_str": "18341943", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 156, 
+                "location": "New Mexico, USA", 
+                "name": "Tammy Davis", 
+                "notifications": false, 
+                "profile_background_color": "EDECE9", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6400607/paradise.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6400607/paradise.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18341943/1441339863", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/716102211139452930/pW-YCuIK_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/716102211139452930/pW-YCuIK_normal.jpg", 
+                "profile_link_color": "330980", 
+                "profile_sidebar_border_color": "D3D2CF", 
+                "profile_sidebar_fill_color": "E3E2DE", 
+                "profile_text_color": "634047", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "tammydavis8", 
+                "statuses_count": 15539, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/tQ27R9bxtN", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 21:09:44 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 28274841, 
+                        "id_str": "28274841", 
+                        "indices": [
+                            3, 
+                            17
+                        ], 
+                        "name": "Dr. Rob Melendez", 
+                        "screen_name": "DrRobMelendez"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996497884525801472, 
+            "id_str": "996497884525801472", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 20:10:34 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996482994075402240", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/wSbrGElY9h"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 3, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996482994075402240, 
+                "id_str": "996482994075402240", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+                "text": "Creed is the youngest person in the US to receive the new gene therapy. His recovery has been immediate and miracul\u2026 https://t.co/wSbrGElY9h", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Apr 02 03:43:07 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Cataract Surgeon, Secretary for AAO Online #Education #Leadership, #SoMe, @JulietteVision @OphthoBuzzwords, Clin Assis Prof @UNM, Lt Col NMANG/USAF \ud83c\uddfa\ud83c\uddf8", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drrobmelendez.com", 
+                                    "expanded_url": "http://www.drrobmelendez.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/Ci1ngegtjy"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5155, 
+                    "follow_request_sent": false, 
+                    "followers_count": 7060, 
+                    "following": false, 
+                    "friends_count": 4597, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 28274841, 
+                    "id_str": "28274841", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 259, 
+                    "location": "New Mexico, USA", 
+                    "name": "Dr. Rob Melendez", 
+                    "notifications": false, 
+                    "profile_background_color": "3B94D9", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/188033208/Twitter.001.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/188033208/Twitter.001.jpg", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/28274841/1399424178", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/935462438849282048/b40gwzYM_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/935462438849282048/b40gwzYM_normal.jpg", 
+                    "profile_link_color": "1B95E0", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "05070F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "DrRobMelendez", 
+                    "statuses_count": 19024, 
+                    "time_zone": "Mountain Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/Ci1ngegtjy", 
+                    "utc_offset": -21600, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @DrRobMelendez: Creed is the youngest person in the US to receive the new gene therapy. His recovery has been immediate and miraculous.\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Oct 24 19:05:49 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "VP US Strategic Marketing, Ziemer USA", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 216, 
+                "follow_request_sent": false, 
+                "followers_count": 180, 
+                "following": false, 
+                "friends_count": 402, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 2153510454, 
+                "id_str": "2153510454", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 21, 
+                "location": "Carrollton, TX", 
+                "name": "Joanne Bara", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/716056358630596611/KraI47AG_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/716056358630596611/KraI47AG_normal.jpg", 
+                "profile_link_color": "F58EA8", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "BaraJoanne", 
+                "statuses_count": 647, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+    ]
+}

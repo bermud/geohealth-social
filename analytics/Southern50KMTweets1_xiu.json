@@ -1,0 +1,2629 @@
+{
+    "search_metadata": {
+        "completed_in": 0.055, 
+        "count": 15, 
+        "max_id": 996548870241861632, 
+        "max_id_str": "996548870241861632", 
+        "next_results": "?max_id=996536334419464191&q=%28overdoes%20OR%20opioidcrisis%20OR%20recovery%20OR%20formeraddict%20OR%20relapse%20OR%20safeinjectionsites%20OR%20dependency%29%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "query": "%28overdoes+OR+opioidcrisis+OR+recovery+OR+formeraddict+OR+relapse+OR+safeinjectionsites+OR+dependency%29%29%26geocode%3A38.708889%2C-76.335%2C50km", 
+        "refresh_url": "?since_id=996548870241861632&q=%28overdoes%20OR%20opioidcrisis%20OR%20recovery%20OR%20formeraddict%20OR%20relapse%20OR%20safeinjectionsites%20OR%20dependency%29%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:32:20 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            21, 
+                            25
+                        ], 
+                        "text": "FDA"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            70
+                        ], 
+                        "text": "chronicpain"
+                    }, 
+                    {
+                        "indices": [
+                            100, 
+                            105
+                        ], 
+                        "text": "pain"
+                    }, 
+                    {
+                        "indices": [
+                            113, 
+                            127
+                        ], 
+                        "text": "ScottGottlieb"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2590800066, 
+                        "id_str": "2590800066", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Pain News Network", 
+                        "screen_name": "PainNewsNetwork"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996548870241861632, 
+            "id_str": "996548870241861632", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 54, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 21:06:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                0, 
+                                4
+                            ], 
+                            "text": "FDA"
+                        }, 
+                        {
+                            "indices": [
+                                37, 
+                                49
+                            ], 
+                            "text": "chronicpain"
+                        }, 
+                        {
+                            "indices": [
+                                79, 
+                                84
+                            ], 
+                            "text": "pain"
+                        }, 
+                        {
+                            "indices": [
+                                92, 
+                                106
+                            ], 
+                            "text": "ScottGottlieb"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996134587251150849", 
+                            "indices": [
+                                108, 
+                                131
+                            ], 
+                            "url": "https://t.co/fZ0kqC39uc"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 76, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996134587251150849, 
+                "id_str": "996134587251150849", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 54, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "#FDA Commissioner seeking input from #chronicpain patients on quality of their #pain care.  #ScottGottlieb\u2026 https://t.co/fZ0kqC39uc", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 05:19:41 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "\"Have a #heart for people in #pain.\" #PainNewsNetwork is a #nonprofit #news service on #chronicpain #PainManagement #fibro #Lyme #CRPS #TGN #MD #RN #OurPain #JD", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "PainNewsNetwork.org", 
+                                    "expanded_url": "http://PainNewsNetwork.org", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/U2c7TOBC8O"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 16796, 
+                    "follow_request_sent": false, 
+                    "followers_count": 12890, 
+                    "following": false, 
+                    "friends_count": 14107, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2590800066, 
+                    "id_str": "2590800066", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 138, 
+                    "location": "California", 
+                    "name": "Pain News Network", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2590800066/1424454046", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/887724084355710976/5cazOt1H_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887724084355710976/5cazOt1H_normal.jpg", 
+                    "profile_link_color": "2D499D", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "PainNewsNetwork", 
+                    "statuses_count": 3498, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/U2c7TOBC8O", 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @PainNewsNetwork: #FDA Commissioner seeking input from #chronicpain patients on quality of their #pain care.  #ScottGottlieb @SGottliebF\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Sep 10 15:19:40 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Welcome to For Grace's Women In Pain Conference site. 2017 Change Agent Pain Summit webcast replay @ https://t.co/k4e33AgcgV", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "forgrace.org", 
+                                "expanded_url": "http://forgrace.org", 
+                                "indices": [
+                                    101, 
+                                    124
+                                ], 
+                                "url": "https://t.co/k4e33AgcgV"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "forgrace.org/get-involvedsh\u2026", 
+                                "expanded_url": "http://www.forgrace.org/get-involvedshare-your-story/conferences/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/C0HCt2RCzS"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 7632, 
+                "follow_request_sent": false, 
+                "followers_count": 3703, 
+                "following": false, 
+                "friends_count": 1277, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 189168724, 
+                "id_str": "189168724", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 152, 
+                "location": "Los Angeles, CA", 
+                "name": "Women In Pain Conf", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/189168724/1483574903", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/459086657581375489/wsoAebXV_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/459086657581375489/wsoAebXV_normal.jpeg", 
+                "profile_link_color": "FF691F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "WIPConference", 
+                "statuses_count": 14627, 
+                "time_zone": "Arizona", 
+                "translator_type": "none", 
+                "url": "https://t.co/C0HCt2RCzS", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:31:47 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            21, 
+                            25
+                        ], 
+                        "text": "FDA"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            70
+                        ], 
+                        "text": "chronicpain"
+                    }, 
+                    {
+                        "indices": [
+                            100, 
+                            105
+                        ], 
+                        "text": "pain"
+                    }, 
+                    {
+                        "indices": [
+                            113, 
+                            127
+                        ], 
+                        "text": "ScottGottlieb"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2590800066, 
+                        "id_str": "2590800066", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Pain News Network", 
+                        "screen_name": "PainNewsNetwork"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996548734417711105, 
+            "id_str": "996548734417711105", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 54, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 21:06:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                0, 
+                                4
+                            ], 
+                            "text": "FDA"
+                        }, 
+                        {
+                            "indices": [
+                                37, 
+                                49
+                            ], 
+                            "text": "chronicpain"
+                        }, 
+                        {
+                            "indices": [
+                                79, 
+                                84
+                            ], 
+                            "text": "pain"
+                        }, 
+                        {
+                            "indices": [
+                                92, 
+                                106
+                            ], 
+                            "text": "ScottGottlieb"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996134587251150849", 
+                            "indices": [
+                                108, 
+                                131
+                            ], 
+                            "url": "https://t.co/fZ0kqC39uc"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 76, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996134587251150849, 
+                "id_str": "996134587251150849", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 54, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "#FDA Commissioner seeking input from #chronicpain patients on quality of their #pain care.  #ScottGottlieb\u2026 https://t.co/fZ0kqC39uc", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 05:19:41 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "\"Have a #heart for people in #pain.\" #PainNewsNetwork is a #nonprofit #news service on #chronicpain #PainManagement #fibro #Lyme #CRPS #TGN #MD #RN #OurPain #JD", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "PainNewsNetwork.org", 
+                                    "expanded_url": "http://PainNewsNetwork.org", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/U2c7TOBC8O"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 16796, 
+                    "follow_request_sent": false, 
+                    "followers_count": 12890, 
+                    "following": false, 
+                    "friends_count": 14107, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2590800066, 
+                    "id_str": "2590800066", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 138, 
+                    "location": "California", 
+                    "name": "Pain News Network", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2590800066/1424454046", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/887724084355710976/5cazOt1H_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887724084355710976/5cazOt1H_normal.jpg", 
+                    "profile_link_color": "2D499D", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "PainNewsNetwork", 
+                    "statuses_count": 3498, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/U2c7TOBC8O", 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @PainNewsNetwork: #FDA Commissioner seeking input from #chronicpain patients on quality of their #pain care.  #ScottGottlieb @SGottliebF\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 02 18:22:01 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "For Grace is dedicated to promoting better care and wellness for women in chronic pain. 2017 Change Agent Pain Summit - webcast replay @ https://t.co/k4e33AgcgV", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "forgrace.org", 
+                                "expanded_url": "http://forgrace.org", 
+                                "indices": [
+                                    137, 
+                                    160
+                                ], 
+                                "url": "https://t.co/k4e33AgcgV"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "forgrace.org", 
+                                "expanded_url": "http://www.forgrace.org/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/EqikqvGyK8"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 8924, 
+                "follow_request_sent": false, 
+                "followers_count": 9933, 
+                "following": false, 
+                "friends_count": 2044, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 28389002, 
+                "id_str": "28389002", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 309, 
+                "location": "United States", 
+                "name": "Women In Pain", 
+                "notifications": false, 
+                "profile_background_color": "EDECE9", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/28389002/1466203809", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/120187149/For_Grace_logo_normal.JPG", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/120187149/For_Grace_logo_normal.JPG", 
+                "profile_link_color": "FF691F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "forgrace", 
+                "statuses_count": 21409, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/EqikqvGyK8", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:31:21 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996548623918813187, 
+            "id_str": "996548623918813187", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Living my life and them lying haters want a relapse \ud83d\ude0e\ud83d\udd95", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Mar 08 22:15:22 +0000 2009", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "No guts, no glory", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 330, 
+                "follow_request_sent": false, 
+                "followers_count": 100, 
+                "following": false, 
+                "friends_count": 133, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 23362454, 
+                "id_str": "23362454", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California", 
+                "name": "Michael Armstrong", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/23362454/1426096206", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/771173245491908608/HKetGm5k_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/771173245491908608/HKetGm5k_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "mike4gears", 
+                "statuses_count": 382, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:28:57 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/I8SRPFLpce", 
+                        "expanded_url": "https://twitter.com/18dMedia/status/996548020492644352/photo/1", 
+                        "id": 996548018747789312, 
+                        "id_str": "996548018747789312", 
+                        "indices": [
+                            92, 
+                            115
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/DdRzJKMU0AApgz-.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/DdRzJKMU0AApgz-.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 465, 
+                                "resize": "fit", 
+                                "w": 890
+                            }, 
+                            "medium": {
+                                "h": 465, 
+                                "resize": "fit", 
+                                "w": 890
+                            }, 
+                            "small": {
+                                "h": 355, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/I8SRPFLpce"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/QSztFg", 
+                        "expanded_url": "http://dlvr.it/QSztFg", 
+                        "indices": [
+                            68, 
+                            91
+                        ], 
+                        "url": "https://t.co/xmpIHjBoaC"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/I8SRPFLpce", 
+                        "expanded_url": "https://twitter.com/18dMedia/status/996548020492644352/photo/1", 
+                        "id": 996548018747789312, 
+                        "id_str": "996548018747789312", 
+                        "indices": [
+                            92, 
+                            115
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/DdRzJKMU0AApgz-.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/DdRzJKMU0AApgz-.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 465, 
+                                "resize": "fit", 
+                                "w": 890
+                            }, 
+                            "medium": {
+                                "h": 465, 
+                                "resize": "fit", 
+                                "w": 890
+                            }, 
+                            "small": {
+                                "h": 355, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/I8SRPFLpce"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996548020492644352, 
+            "id_str": "996548020492644352", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>", 
+            "text": "Global Synchronous Recovery Collapses As Japanese GDP Plunges In Q1 https://t.co/xmpIHjBoaC https://t.co/I8SRPFLpce", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Oct 10 19:04:34 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "We begin to see that our lack of success is within us and we begin to work on knowing ourselves better....", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "18dmedia.com", 
+                                "expanded_url": "http://18dmedia.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Mhnf2GAij2"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 25, 
+                "follow_request_sent": false, 
+                "followers_count": 11410, 
+                "following": false, 
+                "friends_count": 4087, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 388440415, 
+                "id_str": "388440415", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 40, 
+                "location": "California", 
+                "name": "18d.Media", 
+                "notifications": false, 
+                "profile_background_color": "EDECE9", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2744357128/b68d5855744ee19a324ffad2e86ebef3_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2744357128/b68d5855744ee19a324ffad2e86ebef3_normal.png", 
+                "profile_link_color": "088253", 
+                "profile_sidebar_border_color": "D3D2CF", 
+                "profile_sidebar_fill_color": "E3E2DE", 
+                "profile_text_color": "634047", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "18dMedia", 
+                "statuses_count": 408940, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/Mhnf2GAij2", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:26:50 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            52
+                        ], 
+                        "text": "US"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            77
+                        ], 
+                        "text": "Jerusalem"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2591777196, 
+                        "id_str": "2591777196", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "daniel anthony", 
+                        "screen_name": "VerifiedDanielA"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996547487820328960, 
+            "id_str": "996547487820328960", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 163, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 23:37:24 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                28, 
+                                31
+                            ], 
+                            "text": "US"
+                        }, 
+                        {
+                            "indices": [
+                                46, 
+                                56
+                            ], 
+                            "text": "Jerusalem"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996172657803448320", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/olKAWhPf14"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 283, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996172657803448320, 
+                "id_str": "996172657803448320", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 163, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (\u2026 https://t.co/olKAWhPf14", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 18:32:30 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Christian, Writer, Sales and Marketing, Animal and Child activist not politically correct and proud of it.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 4460, 
+                    "follow_request_sent": false, 
+                    "followers_count": 683384, 
+                    "following": false, 
+                    "friends_count": 18, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2591777196, 
+                    "id_str": "2591777196", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 12, 
+                    "location": "California, USA", 
+                    "name": "daniel anthony", 
+                    "notifications": false, 
+                    "profile_background_color": "4A913C", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2591777196/1509923809", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_link_color": "19CF86", 
+                    "profile_sidebar_border_color": "65DA0C", 
+                    "profile_sidebar_fill_color": "A9F9A6", 
+                    "profile_text_color": "5BC4E2", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "VerifiedDanielA", 
+                    "statuses_count": 1015, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @VerifiedDanielA: Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (Dem\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Aug 09 04:46:50 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I am Venezolanoo\ud83d\ude0a\ud83c\uddfb\ud83c\uddea", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "goo.gl/vaMRwz", 
+                                "expanded_url": "https://goo.gl/vaMRwz", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/tUlkkDeyPj"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 159, 
+                "follow_request_sent": false, 
+                "followers_count": 73, 
+                "following": false, 
+                "friends_count": 138, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 762872741502390272, 
+                "id_str": "762872741502390272", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "es", 
+                "listed_count": 1, 
+                "location": "Valencia, Venezuela", 
+                "name": "C\u00e9sar D Forero", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/762872741502390272/1520780018", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/950911364133945345/dkQXhc-m_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/950911364133945345/dkQXhc-m_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "ByCesarForero", 
+                "statuses_count": 316, 
+                "time_zone": "Caracas", 
+                "translator_type": "none", 
+                "url": "https://t.co/tUlkkDeyPj", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:26:17 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 745728711824007168, 
+                        "id_str": "745728711824007168", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Eris Elliott", 
+                        "screen_name": "ErisElliott"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996547347210428418, 
+            "id_str": "996547347210428418", 
+            "in_reply_to_screen_name": "ErisElliott", 
+            "in_reply_to_status_id": 996518057479585792, 
+            "in_reply_to_status_id_str": "996518057479585792", 
+            "in_reply_to_user_id": 745728711824007168, 
+            "in_reply_to_user_id_str": "745728711824007168", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@ErisElliott Dont worry about camming Eris. be happy that your alive and that  u get to live another day. Hope you have a speedy recovery", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Apr 06 21:48:37 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "male cam model", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 3, 
+                "follow_request_sent": false, 
+                "followers_count": 8, 
+                "following": false, 
+                "friends_count": 29, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 982374543594438656, 
+                "id_str": "982374543594438656", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "southern California, USA ", 
+                "name": "Chocolate", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/982374543594438656/1523307960", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/983451239122747392/47aCY9qw_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/983451239122747392/47aCY9qw_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "oChocolateCityo", 
+                "statuses_count": 12, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:25:05 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 3268675369, 
+                        "id_str": "3268675369", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "\uff24\uff41\uff52\uff4b\uff27\uff52\uff45\uff59\uff27\uff48\uff4f\uff53\uff54\ud83c\udf39(K\u0337)", 
+                        "screen_name": "TempusSpiritus"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996547047766585344, 
+            "id_str": "996547047766585344", 
+            "in_reply_to_screen_name": "TempusSpiritus", 
+            "in_reply_to_status_id": 996215620596256768, 
+            "in_reply_to_status_id_str": "996215620596256768", 
+            "in_reply_to_user_id": 3268675369, 
+            "in_reply_to_user_id_str": "3268675369", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@TempusSpiritus Love our FLOTUS Melania prayers for a speedy recovery", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jun 11 15:07:35 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Prepper, Activist, politically incorrect since becoming awake  to what the NWO agenda is and Trump supporter trolls will be blocked. Time to MAGA no excuses!!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 25647, 
+                "follow_request_sent": false, 
+                "followers_count": 2299, 
+                "following": false, 
+                "friends_count": 2273, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 46406141, 
+                "id_str": "46406141", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 17, 
+                "location": "California", 
+                "name": "Brenda Snyder", 
+                "notifications": false, 
+                "profile_background_color": "214542", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/189290744/xa5214f41b7b7890ab6524bead3f1782.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/189290744/xa5214f41b7b7890ab6524bead3f1782.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46406141/1502988062", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/898222943032844288/TDrrG5pA_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/898222943032844288/TDrrG5pA_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "AEF5FA", 
+                "profile_sidebar_fill_color": "3B615D", 
+                "profile_text_color": "739E9F", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "brengale", 
+                "statuses_count": 29329, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:22:23 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            52
+                        ], 
+                        "text": "US"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            77
+                        ], 
+                        "text": "Jerusalem"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2591777196, 
+                        "id_str": "2591777196", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "daniel anthony", 
+                        "screen_name": "VerifiedDanielA"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996546368452820992, 
+            "id_str": "996546368452820992", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 163, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 23:37:24 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                28, 
+                                31
+                            ], 
+                            "text": "US"
+                        }, 
+                        {
+                            "indices": [
+                                46, 
+                                56
+                            ], 
+                            "text": "Jerusalem"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996172657803448320", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/olKAWhPf14"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 283, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996172657803448320, 
+                "id_str": "996172657803448320", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 163, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (\u2026 https://t.co/olKAWhPf14", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 18:32:30 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Christian, Writer, Sales and Marketing, Animal and Child activist not politically correct and proud of it.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 4460, 
+                    "follow_request_sent": false, 
+                    "followers_count": 683384, 
+                    "following": false, 
+                    "friends_count": 18, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2591777196, 
+                    "id_str": "2591777196", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 12, 
+                    "location": "California, USA", 
+                    "name": "daniel anthony", 
+                    "notifications": false, 
+                    "profile_background_color": "4A913C", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2591777196/1509923809", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_link_color": "19CF86", 
+                    "profile_sidebar_border_color": "65DA0C", 
+                    "profile_sidebar_fill_color": "A9F9A6", 
+                    "profile_text_color": "5BC4E2", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "VerifiedDanielA", 
+                    "statuses_count": 1015, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @VerifiedDanielA: Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (Dem\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Mar 18 19:54:50 +0000 2009", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "just a guy using twitter and hanging out. fun account !!!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "yourube.com/c/tristiansreef", 
+                                "expanded_url": "http://yourube.com/c/tristiansreef", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/leqLAgkaeG"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 13, 
+                "follow_request_sent": false, 
+                "followers_count": 30, 
+                "following": false, 
+                "friends_count": 171, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 25139785, 
+                "id_str": "25139785", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "North Carolina, USA", 
+                "name": "Tristian", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/292188072/gizmo2_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/292188072/gizmo2_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "uraboner", 
+                "statuses_count": 91, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/leqLAgkaeG", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:15:24 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996544608417890307, 
+            "id_str": "996544608417890307", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Ill do an Azza and or Recovery For 10 Xbox card", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Dec 29 11:56:26 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Im A Xbox Modder...\nI Do Hit Shots on MW2, BO1, MW3, BO2, GHOST, AND AW", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "tinyurl.com/XBLNtce", 
+                                "expanded_url": "https://tinyurl.com/XBLNtce", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/zpkmc80Vkt"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 99, 
+                "follow_request_sent": false, 
+                "followers_count": 646, 
+                "following": false, 
+                "friends_count": 2015, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 946711502467170304, 
+                "id_str": "946711502467170304", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "California, USA", 
+                "name": "Ntce", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/946711502467170304/1519742681", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/966429864738799618/N0BWmtci_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/966429864738799618/N0BWmtci_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "XBLNtce", 
+                "statuses_count": 158, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/zpkmc80Vkt", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 16 00:12:34 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996543894857728005", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/YCMvJsiEPN"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2876885785, 
+                        "id_str": "2876885785", 
+                        "indices": [
+                            0, 
+                            14
+                        ], 
+                        "name": "Nicktacular42", 
+                        "screen_name": "Nicktacular42"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996543894857728005, 
+            "id_str": "996543894857728005", 
+            "in_reply_to_screen_name": "Nicktacular42", 
+            "in_reply_to_status_id": 996542843190628352, 
+            "in_reply_to_status_id_str": "996542843190628352", 
+            "in_reply_to_user_id": 2876885785, 
+            "in_reply_to_user_id_str": "2876885785", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@Nicktacular42 oh no! just focus on resting and getting well. if i don't hear from you before ur surgery, i hope ev\u2026 https://t.co/YCMvJsiEPN", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Mar 12 22:25:18 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I'm like that book in the library that you think is about rainbows but it's really just a bunch of random things thrown together.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitch.tv/pixelatedcherr\u2026", 
+                                "expanded_url": "http://www.twitch.tv/pixelatedcherries", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/onhcVbbFaF"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 136, 
+                "follow_request_sent": false, 
+                "followers_count": 171, 
+                "following": false, 
+                "friends_count": 342, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 24054285, 
+                "id_str": "24054285", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "California, USA", 
+                "name": "Tanisha", 
+                "notifications": false, 
+                "profile_background_color": "642D8B", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/374882843/AAAAApzXHLkAAAAAANi7Pw.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/374882843/AAAAApzXHLkAAAAAANi7Pw.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/24054285/1357884565", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/975589437882081280/6wP3-Bwi_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/975589437882081280/6wP3-Bwi_normal.jpg", 
+                "profile_link_color": "FF0000", 
+                "profile_sidebar_border_color": "65B0DA", 
+                "profile_sidebar_fill_color": "7AC3EE", 
+                "profile_text_color": "3D1957", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "pixicherries", 
+                "statuses_count": 1677, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/onhcVbbFaF", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:59:58 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            52
+                        ], 
+                        "text": "US"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            77
+                        ], 
+                        "text": "Jerusalem"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2591777196, 
+                        "id_str": "2591777196", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "daniel anthony", 
+                        "screen_name": "VerifiedDanielA"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996540725557977088, 
+            "id_str": "996540725557977088", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 163, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 23:37:24 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                28, 
+                                31
+                            ], 
+                            "text": "US"
+                        }, 
+                        {
+                            "indices": [
+                                46, 
+                                56
+                            ], 
+                            "text": "Jerusalem"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996172657803448320", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/olKAWhPf14"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 283, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996172657803448320, 
+                "id_str": "996172657803448320", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 163, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (\u2026 https://t.co/olKAWhPf14", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 18:32:30 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Christian, Writer, Sales and Marketing, Animal and Child activist not politically correct and proud of it.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 4460, 
+                    "follow_request_sent": false, 
+                    "followers_count": 683384, 
+                    "following": false, 
+                    "friends_count": 18, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2591777196, 
+                    "id_str": "2591777196", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 12, 
+                    "location": "California, USA", 
+                    "name": "daniel anthony", 
+                    "notifications": false, 
+                    "profile_background_color": "4A913C", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2591777196/1509923809", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_link_color": "19CF86", 
+                    "profile_sidebar_border_color": "65DA0C", 
+                    "profile_sidebar_fill_color": "A9F9A6", 
+                    "profile_text_color": "5BC4E2", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "VerifiedDanielA", 
+                    "statuses_count": 1015, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @VerifiedDanielA: Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (Dem\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Oct 22 05:31:32 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Ele. Eng Technician", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 90, 
+                "follow_request_sent": false, 
+                "followers_count": 18, 
+                "following": false, 
+                "friends_count": 47, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 921972266686205952, 
+                "id_str": "921972266686205952", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "", 
+                "name": "Karl Perrett", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/921972623973773317/VNgET7K-_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/921972623973773317/VNgET7K-_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "karl_perrett", 
+                "statuses_count": 217, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:57:42 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 177087665, 
+                        "id_str": "177087665", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "Jimmy, B.O.A. \u270a\ud83c\udffe", 
+                        "screen_name": "jwheels74"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996540154524327936, 
+            "id_str": "996540154524327936", 
+            "in_reply_to_screen_name": "jwheels74", 
+            "in_reply_to_status_id": 996500208572948486, 
+            "in_reply_to_status_id_str": "996500208572948486", 
+            "in_reply_to_user_id": 177087665, 
+            "in_reply_to_user_id_str": "177087665", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@jwheels74 Prayers all goes well and for a speedy recovery \ud83d\ude0a", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Apr 29 01:00:30 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Retired Grandma of 4\nLove Animals, Life and DIY Crafts. #Pinterest\n#NoGunsInSchools\nNo DM please\n#NeverAgain\n#MarchForOurLives\n#Resist\n#FollowBackResistance", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 17223, 
+                "follow_request_sent": false, 
+                "followers_count": 1732, 
+                "following": false, 
+                "friends_count": 1854, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 3178657344, 
+                "id_str": "3178657344", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "California, USA", 
+                "name": "Carol \ud83c\udf0a\ud83c\udf0a\ud83c\udf0a", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3178657344/1520102669", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/992550273137631233/qaMV1h8K_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/992550273137631233/qaMV1h8K_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "calia95678", 
+                "statuses_count": 17605, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:48:36 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            52
+                        ], 
+                        "text": "US"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            77
+                        ], 
+                        "text": "Jerusalem"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2591777196, 
+                        "id_str": "2591777196", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "daniel anthony", 
+                        "screen_name": "VerifiedDanielA"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996537865931821056, 
+            "id_str": "996537865931821056", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 163, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 23:37:24 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                28, 
+                                31
+                            ], 
+                            "text": "US"
+                        }, 
+                        {
+                            "indices": [
+                                46, 
+                                56
+                            ], 
+                            "text": "Jerusalem"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996172657803448320", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/olKAWhPf14"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 283, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996172657803448320, 
+                "id_str": "996172657803448320", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 163, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (\u2026 https://t.co/olKAWhPf14", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 18:32:30 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Christian, Writer, Sales and Marketing, Animal and Child activist not politically correct and proud of it.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 4460, 
+                    "follow_request_sent": false, 
+                    "followers_count": 683384, 
+                    "following": false, 
+                    "friends_count": 18, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2591777196, 
+                    "id_str": "2591777196", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 12, 
+                    "location": "California, USA", 
+                    "name": "daniel anthony", 
+                    "notifications": false, 
+                    "profile_background_color": "4A913C", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2591777196/1509923809", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_link_color": "19CF86", 
+                    "profile_sidebar_border_color": "65DA0C", 
+                    "profile_sidebar_fill_color": "A9F9A6", 
+                    "profile_text_color": "5BC4E2", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "VerifiedDanielA", 
+                    "statuses_count": 1015, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @VerifiedDanielA: Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (Dem\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Mar 15 16:15:29 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "love Gaming, Youtube & Furry's :)", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 281, 
+                "follow_request_sent": false, 
+                "followers_count": 18, 
+                "following": false, 
+                "friends_count": 156, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 709775030952071168, 
+                "id_str": "709775030952071168", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Luxembourg", 
+                "name": "The Eagle Eye", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/712282735956631552/5jKSH0Fj_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/712282735956631552/5jKSH0Fj_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "The_EagleEye", 
+                "statuses_count": 265, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:44:38 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            52
+                        ], 
+                        "text": "US"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            77
+                        ], 
+                        "text": "Jerusalem"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2591777196, 
+                        "id_str": "2591777196", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "daniel anthony", 
+                        "screen_name": "VerifiedDanielA"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996536868345909255, 
+            "id_str": "996536868345909255", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 163, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 23:37:24 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                28, 
+                                31
+                            ], 
+                            "text": "US"
+                        }, 
+                        {
+                            "indices": [
+                                46, 
+                                56
+                            ], 
+                            "text": "Jerusalem"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996172657803448320", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/olKAWhPf14"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 283, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996172657803448320, 
+                "id_str": "996172657803448320", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 163, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (\u2026 https://t.co/olKAWhPf14", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Jun 27 18:32:30 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Christian, Writer, Sales and Marketing, Animal and Child activist not politically correct and proud of it.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 4460, 
+                    "follow_request_sent": false, 
+                    "followers_count": 683384, 
+                    "following": false, 
+                    "friends_count": 18, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2591777196, 
+                    "id_str": "2591777196", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 12, 
+                    "location": "California, USA", 
+                    "name": "daniel anthony", 
+                    "notifications": false, 
+                    "profile_background_color": "4A913C", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494542503631011841/jU-k5x0P.png", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2591777196/1509923809", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/963949724226150400/6CdHW7qg_normal.jpg", 
+                    "profile_link_color": "19CF86", 
+                    "profile_sidebar_border_color": "65DA0C", 
+                    "profile_sidebar_fill_color": "A9F9A6", 
+                    "profile_text_color": "5BC4E2", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "VerifiedDanielA", 
+                    "statuses_count": 1015, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @VerifiedDanielA: Finally, after 25 years the #US Embassy is in #Jerusalem we have a president who keeps his word not just all talk (Dem\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Apr 03 22:18:26 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "a", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 422, 
+                "follow_request_sent": false, 
+                "followers_count": 41, 
+                "following": false, 
+                "friends_count": 883, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 981294881040629761, 
+                "id_str": "981294881040629761", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "fr", 
+                "listed_count": 0, 
+                "location": "lyo,n", 
+                "name": "Eureka Head", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/981295323548143617/TkarfilU_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/981295323548143617/TkarfilU_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "eure_eureka", 
+                "statuses_count": 703, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 23:42:31 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BizlOJCA9uE/\u2026", 
+                        "expanded_url": "https://www.instagram.com/p/BizlOJCA9uE/?utm_source=ig_twitter_share", 
+                        "indices": [
+                            84, 
+                            107
+                        ], 
+                        "url": "https://t.co/LHnmLWLQSO"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 3765572533, 
+                        "id_str": "3765572533", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "SBaker MD", 
+                        "screen_name": "SBakerMD"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996536334419464192, 
+            "id_str": "996536334419464192", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 17:10:17 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/p/BizlOJCA9uE/\u2026", 
+                            "expanded_url": "https://www.instagram.com/p/BizlOJCA9uE/?utm_source=ig_twitter_share", 
+                            "indices": [
+                                70, 
+                                93
+                            ], 
+                            "url": "https://t.co/LHnmLWLQSO"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 18, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996437625534930944, 
+                "id_str": "996437625534930944", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+                "text": "Meanwhile over at the Restoration Health Vegan Recovery Group we are\u2026 https://t.co/LHnmLWLQSO", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sat Oct 03 02:51:40 +0000 2015", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "Multi sport world record setting athlete, Carnivorous Anti-Hero, Antidote for a broken health-care system, Citizen science enabler", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "carnivoretrainingsystem.com", 
+                                    "expanded_url": "http://carnivoretrainingsystem.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/c6KAJJ2HQI"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 78604, 
+                    "follow_request_sent": false, 
+                    "followers_count": 18541, 
+                    "following": false, 
+                    "friends_count": 224, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 3765572533, 
+                    "id_str": "3765572533", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 284, 
+                    "location": "California, USA", 
+                    "name": "SBaker MD", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3765572533/1484443490", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/968609060634337280/xH5m4zFP_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/968609060634337280/xH5m4zFP_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "SBakerMD", 
+                    "statuses_count": 36866, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": "https://t.co/c6KAJJ2HQI", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://www.topeventretweets.com\" rel=\"nofollow\">Top Event Retweets</a>", 
+            "text": "RT @SBakerMD: Meanwhile over at the Restoration Health Vegan Recovery Group we are\u2026 https://t.co/LHnmLWLQSO", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Aug 25 01:25:41 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "The Best Daily News About Lifestyles of Health and Sustainability", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "qureet.com/lohas?ref=Loha\u2026", 
+                                "expanded_url": "https://www.qureet.com/lohas?ref=LohasTopStories_profile_08_24_15", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/trblE33weU"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5, 
+                "follow_request_sent": false, 
+                "followers_count": 9575, 
+                "following": false, 
+                "friends_count": 500, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 3332182334, 
+                "id_str": "3332182334", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1439, 
+                "location": "San Francisco, CA", 
+                "name": "LOHAS Top Stories", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3332182334/1440466274", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/635987291740069888/FeI19xpz_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/635987291740069888/FeI19xpz_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LohasTopStories", 
+                "statuses_count": 70231, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/trblE33weU", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }
+    ]
+}

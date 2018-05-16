@@ -1,0 +1,2230 @@
+{
+    "search_metadata": {
+        "completed_in": 0.108, 
+        "count": 15, 
+        "max_id": 996416998824431621, 
+        "max_id_str": "996416998824431621", 
+        "next_results": "?max_id=993496278842707967&q=%28overdoes%20OR%20opioidcrisis%20OR%20recovery%20OR%20formeraddict%20OR%20relapse%20OR%20safeinjectionsites%20OR%20dependency%29%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "query": "%28overdoes+OR+opioidcrisis+OR+recovery+OR+formeraddict+OR+relapse+OR+safeinjectionsites+OR+dependency%29%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=996416998824431621&q=%28overdoes%20OR%20opioidcrisis%20OR%20recovery%20OR%20formeraddict%20OR%20relapse%20OR%20safeinjectionsites%20OR%20dependency%29%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 15:48:19 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996416998824431621", 
+                        "indices": [
+                            121, 
+                            144
+                        ], 
+                        "url": "https://t.co/X9tMgECtwJ"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 759511561648140288, 
+                        "id_str": "759511561648140288", 
+                        "indices": [
+                            26, 
+                            37
+                        ], 
+                        "name": "A.Silver-MeMEs & GIFs", 
+                        "screen_name": "SilverAdie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996416998824431621, 
+            "id_str": "996416998824431621", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": true, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "A.Silver-MeMEs &amp; GIFs @SilverAdie I wish \"First Lady Melania Trump\" a full and speedy recovery from her surgery alt\u2026 https://t.co/X9tMgECtwJ", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue May 08 01:13:19 +0000 2007", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Be kinder than necessary, for everyone you meet is fighting some kind of battle. --Unknown", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ricjr.org", 
+                                "expanded_url": "http://www.ricjr.org", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/3TujxTfk37"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1469, 
+                "follow_request_sent": false, 
+                "followers_count": 3338, 
+                "following": false, 
+                "friends_count": 5000, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 5849252, 
+                "id_str": "5849252", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 405, 
+                "location": "Ocean City, Maryland", 
+                "name": "Roy Crockett", 
+                "notifications": false, 
+                "profile_background_color": "DADDC0", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543857634/xdb6f49d5a584c72d699ecc5a9002b5c.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/543857634/xdb6f49d5a584c72d699ecc5a9002b5c.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5849252/1398260348", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/965934989467463680/oOi4Z0S1_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/965934989467463680/oOi4Z0S1_normal.jpg", 
+                "profile_link_color": "877F63", 
+                "profile_sidebar_border_color": "E2EAEF", 
+                "profile_sidebar_fill_color": "E2EAEF", 
+                "profile_text_color": "6C961C", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "rcrockett", 
+                "statuses_count": 477553, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": "http://t.co/3TujxTfk37", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 14 22:05:20 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 818876014390603776, 
+                        "id_str": "818876014390603776", 
+                        "indices": [
+                            5, 
+                            12
+                        ], 
+                        "name": "Melania Trump", 
+                        "screen_name": "FLOTUS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996149489105866757, 
+            "id_str": "996149489105866757", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "Dear @FLOTUS keeping you in my thoughts and prayers and praying for a speedy recovery \ud83d\ude4f", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Mar 22 18:18:53 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "The things that we love tell us what we are~Thomas Aquinas~#Truth #Liberty #Freedom #God #Family #Guns #Constitution #Life #Israel BETTER LOOK UP", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13431, 
+                "follow_request_sent": false, 
+                "followers_count": 2153, 
+                "following": false, 
+                "friends_count": 2322, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 533443425, 
+                "id_str": "533443425", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 25, 
+                "location": "Eastern Shore", 
+                "name": "sjdolbs", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659723112/ahamericanflag72.br.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659723112/ahamericanflag72.br.jpg", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/795971433142910976/1MYel1l0_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/795971433142910976/1MYel1l0_normal.jpg", 
+                "profile_link_color": "DD2E44", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "1C1939", 
+                "profile_text_color": "777777", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SJDolbs", 
+                "statuses_count": 10386, 
+                "time_zone": "Atlantic Time (Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 14 20:06:46 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996119652735635456", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/YD9HWAigZG"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996119652735635456, 
+            "id_str": "996119652735635456", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+            "text": "Prayers and invitation to Prayer for our First Lady Melania, wishing you swift recovery. It's the water,hahaha- it'\u2026 https://t.co/YD9HWAigZG", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Apr 28 16:39:44 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Born in The Philippines Islands, lived in many different countries due to Parent's Diplomatic Career,educated in the American educational system.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13411, 
+                "follow_request_sent": false, 
+                "followers_count": 2865, 
+                "following": false, 
+                "friends_count": 4999, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 857997771218894849, 
+                "id_str": "857997771218894849", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 7, 
+                "location": "Salisbury, MD", 
+                "name": "Regidor Delarosa", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/857997771218894849/1506823894", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "RegidorDelaros3", 
+                "statuses_count": 30743, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat May 12 14:16:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 995306742044151808, 
+            "id_str": "995306742044151808", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Told myself I\u2019m done with blunts but I\u2019m ready relapse real quick ...", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu May 07 04:28:46 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "$aints - West Baltimore[Z16] - Easton RIP JMS - RIP Haynes - RIP JXB IG:Cali.Fiasco - WLM \ud83c\udf39", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "soundcloud.com/califiasco/und\u2026", 
+                                "expanded_url": "https://soundcloud.com/califiasco/understand-feat-napsboy-prod-cali", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/jtm2JhH15M"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 3406, 
+                "follow_request_sent": false, 
+                "followers_count": 1158, 
+                "following": false, 
+                "friends_count": 902, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 38368280, 
+                "id_str": "38368280", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 6, 
+                "location": "MD Eastern Shore", 
+                "name": "Cali $aint Laurent", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/321491884/One-On-One-With-Cosmos-1-E2KX125X3U-1024x768.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/321491884/One-On-One-With-Cosmos-1-E2KX125X3U-1024x768.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/38368280/1420770140", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/967187603173838848/im1KM5Ou_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/967187603173838848/im1KM5Ou_normal.jpg", 
+                "profile_link_color": "616161", 
+                "profile_sidebar_border_color": "757575", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "A6FF00", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "CaliFiasco", 
+                "statuses_count": 16498, 
+                "time_zone": "Quito", 
+                "translator_type": "none", 
+                "url": "https://t.co/jtm2JhH15M", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 18:53:58 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "recovery"
+                    }, 
+                    {
+                        "indices": [
+                            15, 
+                            25
+                        ], 
+                        "text": "Addiction"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/995014166741159939", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/uUSkp5Sgkv"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 995014166741159939, 
+            "id_str": "995014166741159939", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.71412, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.431613
+                            ], 
+                            [
+                                -75.71412, 
+                                38.431613
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Salisbury, MD", 
+                "id": "00caf39d503a84e9", 
+                "name": "Salisbury", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/00caf39d503a84e9.json"
+            }, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Thu May 10 13:55:09 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994576579073323009", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/XqpZYAdgst"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 2360, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994576579073323009, 
+                "id_str": "994576579073323009", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": {
+                    "attributes": {}, 
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    -82.5304326, 
+                                    38.375981
+                                ], 
+                                [
+                                    -82.349236, 
+                                    38.375981
+                                ], 
+                                [
+                                    -82.349236, 
+                                    38.439347
+                                ], 
+                                [
+                                    -82.5304326, 
+                                    38.439347
+                                ]
+                            ]
+                        ], 
+                        "type": "Polygon"
+                    }, 
+                    "contained_within": [], 
+                    "country": "United States", 
+                    "country_code": "US", 
+                    "full_name": "Huntington, WV", 
+                    "id": "e4197a23034fa912", 
+                    "name": "Huntington", 
+                    "place_type": "city", 
+                    "url": "https://api.twitter.com/1.1/geo/id/e4197a23034fa912.json"
+                }, 
+                "retweet_count": 1016, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "\u201cMy brother and I grew up in the same house with the same parents, and I\u2019m the US Surgeon General, while my brother\u2026 https://t.co/XqpZYAdgst", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 04 17:08:18 +0000 2012", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "U.S. Surgeon General VADM Jerome M. Adams. (Note: Tweets prior to 9/12/17 were from previous Surgeons General.)", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "surgeongeneral.gov", 
+                                    "expanded_url": "http://www.surgeongeneral.gov/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/7X9rbDmMWX"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 771, 
+                    "follow_request_sent": false, 
+                    "followers_count": 552754, 
+                    "following": false, 
+                    "friends_count": 158, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 455024343, 
+                    "id_str": "455024343", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 1528, 
+                    "location": "Washington, DC", 
+                    "name": "U.S. Surgeon General", 
+                    "notifications": false, 
+                    "profile_background_color": "022330", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000177144239/qLBwvbKI.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000177144239/qLBwvbKI.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/455024343/1492814102", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/932614359880171522/tLq-t-Se_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/932614359880171522/tLq-t-Se_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "Surgeon_General", 
+                    "statuses_count": 5578, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/7X9rbDmMWX", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "quoted_status_id": 994576579073323009, 
+            "quoted_status_id_str": "994576579073323009", 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "#recovery from #Addiction is possible, but there are cautionary tales, too, like this one. Reach out for the help y\u2026 https://t.co/uUSkp5Sgkv", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Jan 19 02:54:19 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Just a gay HIV positive addict in recovery. What's not to love? Award-winning writer and activist. Very married.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "MyFabulousDisease.com", 
+                                "expanded_url": "http://www.MyFabulousDisease.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/4stYnGjIUd"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 4470, 
+                "follow_request_sent": false, 
+                "followers_count": 5167, 
+                "following": false, 
+                "friends_count": 1971, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 240072525, 
+                "id_str": "240072525", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 161, 
+                "location": "Baltimore, MD", 
+                "name": "Mark S. King", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194601190/Click_Heels_Crop.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194601190/Click_Heels_Crop.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/240072525/1523987977", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/986303681451638784/WMLs_6ci_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/986303681451638784/WMLs_6ci_normal.jpg", 
+                "profile_link_color": "3000B3", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "MyFabDisease", 
+                "statuses_count": 5082, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/4stYnGjIUd", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 04:25:03 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "youtu.be/ctn4a40mlHY?a", 
+                        "expanded_url": "http://youtu.be/ctn4a40mlHY?a", 
+                        "indices": [
+                            39, 
+                            62
+                        ], 
+                        "url": "https://t.co/oaz1CD785A"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 10228272, 
+                        "id_str": "10228272", 
+                        "indices": [
+                            21, 
+                            29
+                        ], 
+                        "name": "YouTube", 
+                        "screen_name": "YouTube"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994795497402531841, 
+            "id_str": "994795497402531841", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>", 
+            "text": "I added a video to a @YouTube playlist https://t.co/oaz1CD785A Alcoholism: Road to Recovery", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Feb 07 21:28:24 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "I'm a senior at Salisbury University majoring in Communications: Media Production and minoring in Film.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ewashington2.blogspot.com", 
+                                "expanded_url": "http://ewashington2.blogspot.com", 
+                                "indices": [
+                                    0, 
+                                    20
+                                ], 
+                                "url": "http://t.co/pkKGvfwN"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 14, 
+                "follow_request_sent": false, 
+                "followers_count": 24, 
+                "following": false, 
+                "friends_count": 84, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 1158325531, 
+                "id_str": "1158325531", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Salisbury, MD", 
+                "name": "Edward Washington", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3230916549/3df2bfcae60d8add5ece264a66320c87_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3230916549/3df2bfcae60d8add5ece264a66320c87_normal.jpeg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ewashington2", 
+                "statuses_count": 257, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/pkKGvfwN", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 02:18:32 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "day9.tv/d/snehavern/se\u2026", 
+                        "expanded_url": "https://day9.tv/d/snehavern/service/", 
+                        "indices": [
+                            92, 
+                            115
+                        ], 
+                        "url": "https://t.co/0BT27b3qF8"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 96848570, 
+                        "id_str": "96848570", 
+                        "indices": [
+                            0, 
+                            7
+                        ], 
+                        "name": "Sean Plott", 
+                        "screen_name": "day9tv"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994763657140719616, 
+            "id_str": "994763657140719616", 
+            "in_reply_to_screen_name": "day9tv", 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": 96848570, 
+            "in_reply_to_user_id_str": "96848570", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.933768, 
+                                37.95513
+                            ], 
+                            [
+                                -75.048958, 
+                                37.95513
+                            ], 
+                            [
+                                -75.048958, 
+                                39.000112
+                            ], 
+                            [
+                                -75.933768, 
+                                39.000112
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Salisbury MD", 
+                "id": "fdb9a797dc6f5885", 
+                "name": "Salisbury MD", 
+                "place_type": "admin", 
+                "url": "https://api.twitter.com/1.1/geo/id/fdb9a797dc6f5885.json"
+            }, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+            "text": "@day9tv Was your site hacked? Or do you now offer termite control as well as data recovery: https://t.co/0BT27b3qF8", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Jan 26 04:24:07 +0000 2007", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I love Nintendo and strong story-based games. Always searching for the next castle. #HTID", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitch.tv/mattbisme", 
+                                "expanded_url": "http://twitch.tv/mattbisme", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/2cFTEjyD2L"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 210, 
+                "follow_request_sent": false, 
+                "followers_count": 152, 
+                "following": false, 
+                "friends_count": 179, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 706183, 
+                "id_str": "706183", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 7, 
+                "location": "Greensboro, MD, USA", 
+                "name": "Matthew Barton", 
+                "notifications": false, 
+                "profile_background_color": "022330", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/706183/1499764836", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/884703582574055424/wysR2IJk_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/884703582574055424/wysR2IJk_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "C0DFEC", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "mattbisme", 
+                "statuses_count": 9456, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/2cFTEjyD2L", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 08:24:45 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994131044315074560", 
+                        "indices": [
+                            121, 
+                            144
+                        ], 
+                        "url": "https://t.co/V2B2vxmXut"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 841374626093662208, 
+                        "id_str": "841374626093662208", 
+                        "indices": [
+                            0, 
+                            14
+                        ], 
+                        "name": "Gryffinpuff", 
+                        "screen_name": "MamaGettinFit"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994131044315074560, 
+            "id_str": "994131044315074560", 
+            "in_reply_to_screen_name": "MamaGettinFit", 
+            "in_reply_to_status_id": 994043994337431555, 
+            "in_reply_to_status_id_str": "994043994337431555", 
+            "in_reply_to_user_id": 841374626093662208, 
+            "in_reply_to_user_id_str": "841374626093662208", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@MamaGettinFit Took me at least 2-3 weeks!  1week is just how long you need to lay&amp; recoger from the actual surgery\u2026 https://t.co/V2B2vxmXut", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jan 04 02:10:07 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Handcrafted #CBD Body Care Products. \ud83c\udf43Natural Relief for everyday aches & pains, #chronicpain, & #chronicillnesses. Created by a woman with #endometriosis. \ud83d\udc9b", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "alnibodycare.com", 
+                                "expanded_url": "http://www.alnibodycare.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Y5C71SyeJC"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 313, 
+                "follow_request_sent": false, 
+                "followers_count": 154, 
+                "following": false, 
+                "friends_count": 810, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 948738282220695552, 
+                "id_str": "948738282220695552", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Salisbury, MD", 
+                "name": "Alni CBD Body Care", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/948738282220695552/1515032387", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993676158364540930/kkOJRYKf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993676158364540930/kkOJRYKf_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "alnicbd", 
+                "statuses_count": 380, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/Y5C71SyeJC", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 02:22:35 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994039900872892416", 
+                        "indices": [
+                            104, 
+                            127
+                        ], 
+                        "url": "https://t.co/iaOTldAMO0"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 848988177196961792, 
+                        "id_str": "848988177196961792", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Dianna Lazan", 
+                        "screen_name": "dianna_lazan"
+                    }, 
+                    {
+                        "id": 2830022552, 
+                        "id_str": "2830022552", 
+                        "indices": [
+                            14, 
+                            23
+                        ], 
+                        "name": "Kpie \ud83c\udf0a", 
+                        "screen_name": "kpie_kem"
+                    }, 
+                    {
+                        "id": 412947950, 
+                        "id_str": "412947950", 
+                        "indices": [
+                            24, 
+                            34
+                        ], 
+                        "name": "Winks says #NeverAgain", 
+                        "screen_name": "JustWinks"
+                    }, 
+                    {
+                        "id": 901390702059409408, 
+                        "id_str": "901390702059409408", 
+                        "indices": [
+                            35, 
+                            49
+                        ], 
+                        "name": "\ud83c\udf0a\ud83d\udc99SAMI\ud83d\udc99\ud83c\udf0a", 
+                        "screen_name": "SAMIdGILBERT1"
+                    }, 
+                    {
+                        "id": 181804257, 
+                        "id_str": "181804257", 
+                        "indices": [
+                            50, 
+                            62
+                        ], 
+                        "name": "Hillary Delacerda", 
+                        "screen_name": "hillary3197"
+                    }, 
+                    {
+                        "id": 43377128, 
+                        "id_str": "43377128", 
+                        "indices": [
+                            63, 
+                            74
+                        ], 
+                        "name": "\u2728Susan\u2728", 
+                        "screen_name": "susan19514"
+                    }, 
+                    {
+                        "id": 431153852, 
+                        "id_str": "431153852", 
+                        "indices": [
+                            75, 
+                            88
+                        ], 
+                        "name": "\u2708\ufe0f\ud83d\udd36Cameron Jones\ud83d\udd36\ud83d\uddfd", 
+                        "screen_name": "CameronCam29"
+                    }, 
+                    {
+                        "id": 993573864516055040, 
+                        "id_str": "993573864516055040", 
+                        "indices": [
+                            89, 
+                            102
+                        ], 
+                        "name": "C.  #OpBlueWave", 
+                        "screen_name": "OpBlueWaveOp"
+                    }
+                ]
+            }, 
+            "favorite_count": 3, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994039900872892416, 
+            "id_str": "994039900872892416", 
+            "in_reply_to_screen_name": "dianna_lazan", 
+            "in_reply_to_status_id": 994033473122779136, 
+            "in_reply_to_status_id_str": "994033473122779136", 
+            "in_reply_to_user_id": 848988177196961792, 
+            "in_reply_to_user_id_str": "848988177196961792", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -75.71412, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.28923
+                            ], 
+                            [
+                                -75.487032, 
+                                38.431613
+                            ], 
+                            [
+                                -75.71412, 
+                                38.431613
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Salisbury, MD", 
+                "id": "00caf39d503a84e9", 
+                "name": "Salisbury", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/00caf39d503a84e9.json"
+            }, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@dianna_lazan @kpie_kem @JustWinks @SAMIdGILBERT1 @hillary3197 @susan19514 @CameronCam29 @OpBlueWaveOp\u2026 https://t.co/iaOTldAMO0", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jun 16 02:03:55 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Mom of three. Queen of all! Animal lover. Political junkie. I rant on twitter! I do not like Donald Trump or anyone associated with him! #Resist", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 12240, 
+                "follow_request_sent": false, 
+                "followers_count": 873, 
+                "following": false, 
+                "friends_count": 1252, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 3328502986, 
+                "id_str": "3328502986", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "Planet Earth \ud83c\udf0f", 
+                "name": "queen mom \ud83c\udf0a \ud83d\udc78 \ud83c\udf0a \ud83d\udc51 \ud83d\udc36 \ud83c\udf7b", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3328502986/1516506841", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/923023932231430144/d1AxijyP_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/923023932231430144/d1AxijyP_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "hermajestyjane", 
+                "statuses_count": 3140, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 17:04:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993899452791341056", 
+                        "indices": [
+                            121, 
+                            144
+                        ], 
+                        "url": "https://t.co/Gi7zyQql1p"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 850080079661150210, 
+                        "id_str": "850080079661150210", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Allison Galbraith", 
+                        "screen_name": "AllisonforMD"
+                    }, 
+                    {
+                        "id": 4190630967, 
+                        "id_str": "4190630967", 
+                        "indices": [
+                            14, 
+                            23
+                        ], 
+                        "name": "gwynnfly", 
+                        "screen_name": "gwynnfly"
+                    }, 
+                    {
+                        "id": 241400800, 
+                        "id_str": "241400800", 
+                        "indices": [
+                            24, 
+                            40
+                        ], 
+                        "name": "\u2764\ufe0f Allison Berkowitz \u2764\ufe0f", 
+                        "screen_name": "SocialWorkItOut"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993899452791341056, 
+            "id_str": "993899452791341056", 
+            "in_reply_to_screen_name": "AllisonforMD", 
+            "in_reply_to_status_id": 993898339941920770, 
+            "in_reply_to_status_id_str": "993898339941920770", 
+            "in_reply_to_user_id": 850080079661150210, 
+            "in_reply_to_user_id_str": "850080079661150210", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@AllisonforMD @gwynnfly @SocialWorkItOut For themselves &amp; eventually meet criteria for addiction due to \u201cdrug-seeki\u2026 https://t.co/Gi7zyQql1p", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 07 19:50:22 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Salisbury University Social Work Prof|Naloxone/Narcan-Substance Misuse-Harm Reduction|Lover of IndyCars|Own views. Intentional in follows ask same of followers.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1336, 
+                "follow_request_sent": false, 
+                "followers_count": 136, 
+                "following": false, 
+                "friends_count": 118, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 248815547, 
+                "id_str": "248815547", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Salisbury, MD", 
+                "name": "Aaron Willis", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/248815547/1502853782", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/995471659799805952/CVwaS2fl_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/995471659799805952/CVwaS2fl_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "aaroncwillis", 
+                "statuses_count": 7165, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 06:42:23 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "nytimes.com/aponline/2018/\u2026", 
+                        "expanded_url": "https://www.nytimes.com/aponline/2018/05/08/us/ap-financial-markets-.html?partner=IFTTT", 
+                        "indices": [
+                            92, 
+                            115
+                        ], 
+                        "url": "https://t.co/hyaciEXuZg"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993742893675438080, 
+            "id_str": "993742893675438080", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>", 
+            "text": "\"Asian Shares Advance as China Reports Recovery in Exports\" by THE ASSOCIATED PRESS via NYT https://t.co/hyaciEXuZg", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Dec 23 20:41:52 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Interested in thinking green ideas, eating red curry and listening to blue music.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 0, 
+                "follow_request_sent": false, 
+                "followers_count": 305, 
+                "following": false, 
+                "friends_count": 239, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1031309779, 
+                "id_str": "1031309779", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 12, 
+                "location": "Princess Anne", 
+                "name": "Heriberto Hitzler", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/745887070/2710e519c535c3ddcd128907baa6229f.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/745887070/2710e519c535c3ddcd128907baa6229f.jpeg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031309779/1409544523", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3011879496/ffb01d94b26511ec9026f2db32bdcd33_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3011879496/ffb01d94b26511ec9026f2db32bdcd33_normal.jpeg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "heribertohmd", 
+                "statuses_count": 42411, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 02:36:30 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/jZGDRsHwg8", 
+                        "expanded_url": "https://twitter.com/SalisburySB/status/993681017780297729/photo/1", 
+                        "id": 993681008292589568, 
+                        "id_str": "993681008292589568", 
+                        "indices": [
+                            66, 
+                            89
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/DcpDnL9U8AAdSaz.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/DcpDnL9U8AAdSaz.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 2048, 
+                                "resize": "fit", 
+                                "w": 1536
+                            }, 
+                            "medium": {
+                                "h": 1200, 
+                                "resize": "fit", 
+                                "w": 900
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 510
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/jZGDRsHwg8"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/jZGDRsHwg8", 
+                        "expanded_url": "https://twitter.com/SalisburySB/status/993681017780297729/photo/1", 
+                        "id": 993681008292589568, 
+                        "id_str": "993681008292589568", 
+                        "indices": [
+                            66, 
+                            89
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/DcpDnL9U8AAdSaz.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/DcpDnL9U8AAdSaz.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 2048, 
+                                "resize": "fit", 
+                                "w": 1536
+                            }, 
+                            "medium": {
+                                "h": 1200, 
+                                "resize": "fit", 
+                                "w": 900
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 510
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/jZGDRsHwg8"
+                    }
+                ]
+            }, 
+            "favorite_count": 20, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993681017780297729, 
+            "id_str": "993681017780297729", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "A great recovery practice getting ready for the NCAA SB tourney ! https://t.co/jZGDRsHwg8", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Sep 04 02:16:54 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Salisbury University softball is one of 21 Sea Gull varsity sports. Fans are expected to be supportive of the Sea Gulls and all other teams on this page.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "suseagulls.com/sports/sball/i\u2026", 
+                                "expanded_url": "http://www.suseagulls.com/sports/sball/index", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/iL3XB7OSNj"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 423, 
+                "follow_request_sent": false, 
+                "followers_count": 649, 
+                "following": false, 
+                "friends_count": 30, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 1727257884, 
+                "id_str": "1727257884", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "Salisbury, Md.", 
+                "name": "Salisbury Softball", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727257884/1413115452", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000410356065/54d5723ee99d6b068326ffdfa9850595_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000410356065/54d5723ee99d6b068326ffdfa9850595_normal.png", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SalisburySB", 
+                "statuses_count": 1027, 
+                "time_zone": "Atlantic Time (Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/iL3XB7OSNj", 
+                "utc_offset": -10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 14:57:34 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 857997771218894849, 
+                        "id_str": "857997771218894849", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Regidor Delarosa", 
+                        "screen_name": "RegidorDelaros3"
+                    }, 
+                    {
+                        "id": 4102376488, 
+                        "id_str": "4102376488", 
+                        "indices": [
+                            21, 
+                            37
+                        ], 
+                        "name": "The Trump Train \ud83c\uddfa\ud83c\uddf8", 
+                        "screen_name": "The_Trump_Train"
+                    }, 
+                    {
+                        "id": 25073877, 
+                        "id_str": "25073877", 
+                        "indices": [
+                            38, 
+                            54
+                        ], 
+                        "name": "Donald J. Trump", 
+                        "screen_name": "realDonaldTrump"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993505124617216000, 
+            "id_str": "993505124617216000", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 14:22:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993496278842707968", 
+                            "indices": [
+                                116, 
+                                139
+                            ], 
+                            "url": "https://t.co/lhBLzIobYT"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 4102376488, 
+                            "id_str": "4102376488", 
+                            "indices": [
+                                0, 
+                                16
+                            ], 
+                            "name": "The Trump Train \ud83c\uddfa\ud83c\uddf8", 
+                            "screen_name": "The_Trump_Train"
+                        }, 
+                        {
+                            "id": 25073877, 
+                            "id_str": "25073877", 
+                            "indices": [
+                                17, 
+                                33
+                            ], 
+                            "name": "Donald J. Trump", 
+                            "screen_name": "realDonaldTrump"
+                        }
+                    ]
+                }, 
+                "favorite_count": 4, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993496278842707968, 
+                "id_str": "993496278842707968", 
+                "in_reply_to_screen_name": "The_Trump_Train", 
+                "in_reply_to_status_id": 993493092220243968, 
+                "in_reply_to_status_id_str": "993493092220243968", 
+                "in_reply_to_user_id": 4102376488, 
+                "in_reply_to_user_id_str": "4102376488", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+                "text": "@The_Trump_Train @realDonaldTrump 300 million Americans aren't blind,they are not stupid,hideously manipulated and\u2026 https://t.co/lhBLzIobYT", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Apr 28 16:39:44 +0000 2017", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "Born in The Philippines Islands, lived in many different countries due to Parent's Diplomatic Career,educated in the American educational system.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 13411, 
+                    "follow_request_sent": false, 
+                    "followers_count": 2865, 
+                    "following": false, 
+                    "friends_count": 4999, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 857997771218894849, 
+                    "id_str": "857997771218894849", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 7, 
+                    "location": "Salisbury, MD", 
+                    "name": "Regidor Delarosa", 
+                    "notifications": false, 
+                    "profile_background_color": "F5F8FA", 
+                    "profile_background_image_url": null, 
+                    "profile_background_image_url_https": null, 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/857997771218894849/1506823894", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "RegidorDelaros3", 
+                    "statuses_count": 30743, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @RegidorDelaros3: @The_Trump_Train @realDonaldTrump 300 million Americans aren't blind,they are not stupid,hideously manipulated and lie\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Oct 12 10:57:37 +0000 2012", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "IS: ProAmerica and Decency. Writer, old goat, liberal, English & ESOL teacher. . . . . WAS: PR Agency, politics & govt, US Senate Staff. I freely block  #FBR", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 79709, 
+                "follow_request_sent": false, 
+                "followers_count": 3127, 
+                "following": false, 
+                "friends_count": 2530, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 875390904, 
+                "id_str": "875390904", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 72, 
+                "location": "United States", 
+                "name": "marvymuse", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/875390904/1486389256", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/821801147644182529/Ai9Gx-ga_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/821801147644182529/Ai9Gx-ga_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "marvymuse", 
+                "statuses_count": 95527, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 14:57:31 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 857997771218894849, 
+                        "id_str": "857997771218894849", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Regidor Delarosa", 
+                        "screen_name": "RegidorDelaros3"
+                    }, 
+                    {
+                        "id": 4102376488, 
+                        "id_str": "4102376488", 
+                        "indices": [
+                            21, 
+                            37
+                        ], 
+                        "name": "The Trump Train \ud83c\uddfa\ud83c\uddf8", 
+                        "screen_name": "The_Trump_Train"
+                    }, 
+                    {
+                        "id": 25073877, 
+                        "id_str": "25073877", 
+                        "indices": [
+                            38, 
+                            54
+                        ], 
+                        "name": "Donald J. Trump", 
+                        "screen_name": "realDonaldTrump"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993505110260113409, 
+            "id_str": "993505110260113409", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 14:22:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993496278842707968", 
+                            "indices": [
+                                116, 
+                                139
+                            ], 
+                            "url": "https://t.co/lhBLzIobYT"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 4102376488, 
+                            "id_str": "4102376488", 
+                            "indices": [
+                                0, 
+                                16
+                            ], 
+                            "name": "The Trump Train \ud83c\uddfa\ud83c\uddf8", 
+                            "screen_name": "The_Trump_Train"
+                        }, 
+                        {
+                            "id": 25073877, 
+                            "id_str": "25073877", 
+                            "indices": [
+                                17, 
+                                33
+                            ], 
+                            "name": "Donald J. Trump", 
+                            "screen_name": "realDonaldTrump"
+                        }
+                    ]
+                }, 
+                "favorite_count": 4, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993496278842707968, 
+                "id_str": "993496278842707968", 
+                "in_reply_to_screen_name": "The_Trump_Train", 
+                "in_reply_to_status_id": 993493092220243968, 
+                "in_reply_to_status_id_str": "993493092220243968", 
+                "in_reply_to_user_id": 4102376488, 
+                "in_reply_to_user_id_str": "4102376488", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+                "text": "@The_Trump_Train @realDonaldTrump 300 million Americans aren't blind,they are not stupid,hideously manipulated and\u2026 https://t.co/lhBLzIobYT", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Apr 28 16:39:44 +0000 2017", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "Born in The Philippines Islands, lived in many different countries due to Parent's Diplomatic Career,educated in the American educational system.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 13411, 
+                    "follow_request_sent": false, 
+                    "followers_count": 2865, 
+                    "following": false, 
+                    "friends_count": 4999, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 857997771218894849, 
+                    "id_str": "857997771218894849", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 7, 
+                    "location": "Salisbury, MD", 
+                    "name": "Regidor Delarosa", 
+                    "notifications": false, 
+                    "profile_background_color": "F5F8FA", 
+                    "profile_background_image_url": null, 
+                    "profile_background_image_url_https": null, 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/857997771218894849/1506823894", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "RegidorDelaros3", 
+                    "statuses_count": 30743, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @RegidorDelaros3: @The_Trump_Train @realDonaldTrump 300 million Americans aren't blind,they are not stupid,hideously manipulated and lie\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Sep 07 16:27:32 +0000 2014", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "#RESIST  Proud Progressive Liberal Democrat.Music,photography, travel, husband, animals my passions,not in that order! NO LISTS! I BLOCK ALL RWNJ's & Bots", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 48948, 
+                "follow_request_sent": false, 
+                "followers_count": 2229, 
+                "following": false, 
+                "friends_count": 3597, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2764052433, 
+                "id_str": "2764052433", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 33, 
+                "location": "Michigan", 
+                "name": "Bonnie4progress", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2764052433/1499377555", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/950877438145433601/UP57seFs_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/950877438145433601/UP57seFs_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "BonnieRenouf", 
+                "statuses_count": 43030, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 14:22:25 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993496278842707968", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/lhBLzIobYT"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 4102376488, 
+                        "id_str": "4102376488", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "The Trump Train \ud83c\uddfa\ud83c\uddf8", 
+                        "screen_name": "The_Trump_Train"
+                    }, 
+                    {
+                        "id": 25073877, 
+                        "id_str": "25073877", 
+                        "indices": [
+                            17, 
+                            33
+                        ], 
+                        "name": "Donald J. Trump", 
+                        "screen_name": "realDonaldTrump"
+                    }
+                ]
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993496278842707968, 
+            "id_str": "993496278842707968", 
+            "in_reply_to_screen_name": "The_Trump_Train", 
+            "in_reply_to_status_id": 993493092220243968, 
+            "in_reply_to_status_id_str": "993493092220243968", 
+            "in_reply_to_user_id": 4102376488, 
+            "in_reply_to_user_id_str": "4102376488", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+            "text": "@The_Trump_Train @realDonaldTrump 300 million Americans aren't blind,they are not stupid,hideously manipulated and\u2026 https://t.co/lhBLzIobYT", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Apr 28 16:39:44 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Born in The Philippines Islands, lived in many different countries due to Parent's Diplomatic Career,educated in the American educational system.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13411, 
+                "follow_request_sent": false, 
+                "followers_count": 2865, 
+                "following": false, 
+                "friends_count": 4999, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 857997771218894849, 
+                "id_str": "857997771218894849", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 7, 
+                "location": "Salisbury, MD", 
+                "name": "Regidor Delarosa", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/857997771218894849/1506823894", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/925977952181014528/_UldveBk_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "RegidorDelaros3", 
+                "statuses_count": 30743, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }
+    ]
+}
