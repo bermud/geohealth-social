@@ -1,0 +1,2686 @@
+{
+    "search_metadata": {
+        "completed_in": 0.108, 
+        "count": 15, 
+        "max_id": 996518877004816384, 
+        "max_id_str": "996518877004816384", 
+        "next_results": "?max_id=993054889117913087&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%20OR%20popped%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal+OR+popped%29+AND+%28opiod+OR+opioids+OR+narcan+OR+opiates+OR+suboxone+OR+methadone+OR+hydromorphone+OR+dilaudid+OR+overdose%29%26geocode%3A39.283333%2C-76.616667%2C50km", 
+        "refresh_url": "?since_id=996518877004816384&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%20OR%20popped%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 22:33:09 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2350180554, 
+                        "id_str": "2350180554", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "ASHP Emergency Care", 
+                        "screen_name": "ASHP_EMPharm"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996518877004816384, 
+            "id_str": "996518877004816384", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 21:30:33 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996503124448894982", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/iYwSSwiXKS"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 4, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996503124448894982, 
+                "id_str": "996503124448894982", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "Analgesia in the ED in 2018...\nFentanyl? Hydromorphone? Morphine? All out!\nKetorolac? Ketamine?!? If you can find s\u2026 https://t.co/iYwSSwiXKS", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Tue Feb 18 14:17:13 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The ASHP Advisory Group on Emergency Care - Advancing the practice of and education relating to EM Pharmacy.\nRetweets and follows do not imply endorsement.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "ashp.org/Pharmacy-Pract\u2026", 
+                                    "expanded_url": "https://www.ashp.org/Pharmacy-Practice/Resource-Centers/Emergency-Care", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/XAsbTmgpjs"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 400, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1890, 
+                    "following": false, 
+                    "friends_count": 512, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2350180554, 
+                    "id_str": "2350180554", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 25, 
+                    "location": "Bethesda, MD", 
+                    "name": "ASHP Emergency Care", 
+                    "notifications": false, 
+                    "profile_background_color": "002233", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537266790808576000/CIheXcEZ.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537266790808576000/CIheXcEZ.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2350180554/1517264674", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/541461811598327808/JMyTKm7O_normal.png", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/541461811598327808/JMyTKm7O_normal.png", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "ASHP_EMPharm", 
+                    "statuses_count": 1258, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/XAsbTmgpjs", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @ASHP_EMPharm: Analgesia in the ED in 2018...\nFentanyl? Hydromorphone? Morphine? All out!\nKetorolac? Ketamine?!? If you can find some!\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Mar 13 18:17:48 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Consultant EM, GPwSI Acute Community COTE, Director Bangor Mountain Medicine project. #Remainer. Personal account: own tweets=own views, but RT may well not be!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "mountainmedicine.co.uk", 
+                                "expanded_url": "http://www.mountainmedicine.co.uk", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/QMMmdTQOEu"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 38870, 
+                "follow_request_sent": false, 
+                "followers_count": 7640, 
+                "following": false, 
+                "friends_count": 4127, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1265089662, 
+                "id_str": "1265089662", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 226, 
+                "location": "North West Wales, UK", 
+                "name": "Linda Dykes", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265089662/1409356589", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/787291299661615104/yJ5S2Ymv_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/787291299661615104/yJ5S2Ymv_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "mmbangor", 
+                "statuses_count": 118883, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/QMMmdTQOEu", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 22:23:52 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2350180554, 
+                        "id_str": "2350180554", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "ASHP Emergency Care", 
+                        "screen_name": "ASHP_EMPharm"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996516543134609408, 
+            "id_str": "996516543134609408", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 15 21:30:33 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/996503124448894982", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/iYwSSwiXKS"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 4, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996503124448894982, 
+                "id_str": "996503124448894982", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "Analgesia in the ED in 2018...\nFentanyl? Hydromorphone? Morphine? All out!\nKetorolac? Ketamine?!? If you can find s\u2026 https://t.co/iYwSSwiXKS", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Tue Feb 18 14:17:13 +0000 2014", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The ASHP Advisory Group on Emergency Care - Advancing the practice of and education relating to EM Pharmacy.\nRetweets and follows do not imply endorsement.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "ashp.org/Pharmacy-Pract\u2026", 
+                                    "expanded_url": "https://www.ashp.org/Pharmacy-Practice/Resource-Centers/Emergency-Care", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/XAsbTmgpjs"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 400, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1890, 
+                    "following": false, 
+                    "friends_count": 512, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 2350180554, 
+                    "id_str": "2350180554", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 25, 
+                    "location": "Bethesda, MD", 
+                    "name": "ASHP Emergency Care", 
+                    "notifications": false, 
+                    "profile_background_color": "002233", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537266790808576000/CIheXcEZ.png", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537266790808576000/CIheXcEZ.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2350180554/1517264674", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/541461811598327808/JMyTKm7O_normal.png", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/541461811598327808/JMyTKm7O_normal.png", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "ASHP_EMPharm", 
+                    "statuses_count": 1258, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/XAsbTmgpjs", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @ASHP_EMPharm: Analgesia in the ED in 2018...\nFentanyl? Hydromorphone? Morphine? All out!\nKetorolac? Ketamine?!? If you can find some!\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Jul 05 18:49:22 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "EM Algiatrist on a mission towards Pain-free ED. Proponent of Targeted ED Analgesia. Big fan of non-opiod analgesia. Aversion to Hydromorphone.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "painfree-ed.com", 
+                                "expanded_url": "http://www.painfree-ed.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/NOhFbH47IA"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 23415, 
+                "follow_request_sent": false, 
+                "followers_count": 4949, 
+                "following": false, 
+                "friends_count": 3171, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 1571154715, 
+                "id_str": "1571154715", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 143, 
+                "location": "New York", 
+                "name": "Sergey Motov", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571154715/1498877940", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/666798751298822144/jAfqo6QS_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/666798751298822144/jAfqo6QS_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "painfreeED", 
+                "statuses_count": 22940, 
+                "time_zone": "Atlantic Time (Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/NOhFbH47IA", 
+                "utc_offset": -10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 21:30:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996503124448894982", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/iYwSSwiXKS"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996503124448894982, 
+            "id_str": "996503124448894982", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Analgesia in the ED in 2018...\nFentanyl? Hydromorphone? Morphine? All out!\nKetorolac? Ketamine?!? If you can find s\u2026 https://t.co/iYwSSwiXKS", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Feb 18 14:17:13 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "The ASHP Advisory Group on Emergency Care - Advancing the practice of and education relating to EM Pharmacy.\nRetweets and follows do not imply endorsement.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ashp.org/Pharmacy-Pract\u2026", 
+                                "expanded_url": "https://www.ashp.org/Pharmacy-Practice/Resource-Centers/Emergency-Care", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/XAsbTmgpjs"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 400, 
+                "follow_request_sent": false, 
+                "followers_count": 1890, 
+                "following": false, 
+                "friends_count": 512, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2350180554, 
+                "id_str": "2350180554", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 25, 
+                "location": "Bethesda, MD", 
+                "name": "ASHP Emergency Care", 
+                "notifications": false, 
+                "profile_background_color": "002233", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537266790808576000/CIheXcEZ.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537266790808576000/CIheXcEZ.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2350180554/1517264674", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/541461811598327808/JMyTKm7O_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/541461811598327808/JMyTKm7O_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "ASHP_EMPharm", 
+                "statuses_count": 1258, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/XAsbTmgpjs", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 15:14:08 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            10, 
+                            19
+                        ], 
+                        "text": "hospital"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            86
+                        ], 
+                        "text": "opioids"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996408394654343170", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/ZTCqMNcoMj"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996408394654343170, 
+            "id_str": "996408394654343170", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>", 
+            "text": "Learn how #hospital employees who steal or misuse controlled substances, like #opioids, can enable patients like La\u2026 https://t.co/ZTCqMNcoMj", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Aug 06 18:57:46 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Protecting patient data using advanced analytics.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "protenus.com", 
+                                "expanded_url": "http://www.protenus.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/KYhJQke8IH"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 613, 
+                "follow_request_sent": false, 
+                "followers_count": 623, 
+                "following": false, 
+                "friends_count": 219, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 741216272, 
+                "id_str": "741216272", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 71, 
+                "location": "Baltimore, MD", 
+                "name": "Protenus", 
+                "notifications": false, 
+                "profile_background_color": "E6E4EE", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698413500629012480/hoPQF3cZ.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698413500629012480/hoPQF3cZ.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/741216272/1516934318", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/968595560440582144/lYu1gtPP_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/968595560440582144/lYu1gtPP_normal.jpg", 
+                "profile_link_color": "6447F2", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "99CC33", 
+                "profile_text_color": "3E4415", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Protenus", 
+                "statuses_count": 1338, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/KYhJQke8IH", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 17:45:00 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            9, 
+                            18
+                        ], 
+                        "text": "NRHA2018"
+                    }, 
+                    {
+                        "indices": [
+                            84, 
+                            96
+                        ], 
+                        "text": "ruralhealth"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994634423126626304", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/YagwK1J0SP"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994634423126626304, 
+            "id_str": "994634423126626304", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "text": "Today at #NRHA2018 at 3:45 pm! Listen to Michael Meit and Shena Popat as they share #ruralhealth tools and strategi\u2026 https://t.co/YagwK1J0SP", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue May 26 15:23:21 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Conducting policy analysis, research, and evaluation on #ruralhealth, #healthcare, and #publichealth issues with @NORCNews. RTs \u2260 endorsement.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "walshcenter.norc.org", 
+                                "expanded_url": "http://walshcenter.norc.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/QJ00Nq19pE"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 656, 
+                "follow_request_sent": false, 
+                "followers_count": 159, 
+                "following": false, 
+                "friends_count": 231, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 42645895, 
+                "id_str": "42645895", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 9, 
+                "location": "Bethesda, MD", 
+                "name": "NORC Walsh Center", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/42645895/1499797753", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/873204924422606849/79Kg6LWk_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/873204924422606849/79Kg6LWk_normal.jpg", 
+                "profile_link_color": "E57200", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "WalshCenter", 
+                "statuses_count": 621, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/QJ00Nq19pE", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 23:52:16 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            34, 
+                            43
+                        ], 
+                        "text": "Medicare"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 70837868, 
+                        "id_str": "70837868", 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "name": "CMSGov", 
+                        "screen_name": "CMSGov"
+                    }, 
+                    {
+                        "id": 822191111414444034, 
+                        "id_str": "822191111414444034", 
+                        "indices": [
+                            131, 
+                            140
+                        ], 
+                        "name": "Administrator Seema Verma", 
+                        "screen_name": "SeemaCMS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994002072394698752, 
+            "id_str": "994002072394698752", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 20:29:02 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                22, 
+                                31
+                            ], 
+                            "text": "Medicare"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993950927383130113", 
+                            "indices": [
+                                120, 
+                                143
+                            ], 
+                            "url": "https://t.co/FlA7OGRr9D"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993950927383130113, 
+                "id_str": "993950927383130113", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+                "text": "Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator\u2026 https://t.co/FlA7OGRr9D", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Sep 02 00:51:13 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account for the Centers for Medicare & Medicaid Services (CMS).", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cms.gov", 
+                                    "expanded_url": "http://www.cms.gov", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/G5m5r2aha0"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 582, 
+                    "follow_request_sent": false, 
+                    "followers_count": 136624, 
+                    "following": false, 
+                    "friends_count": 86, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 70837868, 
+                    "id_str": "70837868", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 2299, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "CMSGov", 
+                    "notifications": false, 
+                    "profile_background_color": "031485", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/70837868/1524569234", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "A8C7F7", 
+                    "profile_sidebar_fill_color": "C0DFEC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "CMSGov", 
+                    "statuses_count": 14565, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/G5m5r2aha0", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @CMSGov: Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator @SeemaCMS &amp;\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon May 07 15:00:40 +0000 2012", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Founder and Chairman of Gorman Health Group, the plumbers under the sink of the health insurance industry on government programs. Views are my own.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "gormanhealthgroup.com", 
+                                "expanded_url": "http://www.gormanhealthgroup.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/JNJlz7Gi1T"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 323, 
+                "follow_request_sent": false, 
+                "followers_count": 1197, 
+                "following": false, 
+                "friends_count": 511, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 573712162, 
+                "id_str": "573712162", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 45, 
+                "location": "Washington, DC", 
+                "name": "John Gorman", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/573712162/1462546164", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/591328652211527680/KQkoupgA_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/591328652211527680/KQkoupgA_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "JohnGorman18", 
+                "statuses_count": 5659, 
+                "time_zone": "Atlantic Time (Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/JNJlz7Gi1T", 
+                "utc_offset": -10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 23:31:13 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 50064480, 
+                        "id_str": "50064480", 
+                        "indices": [
+                            3, 
+                            11
+                        ], 
+                        "name": "Aaditya Goswami", 
+                        "screen_name": "mdlogix"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993996773860560896, 
+            "id_str": "993996773860560896", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "quoted_status_id": 991377048005480453, 
+            "quoted_status_id_str": "991377048005480453", 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 01 18:34:12 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/991385313045106694", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/SnBLoqgrkv"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 991385313045106694, 
+                "id_str": "991385313045106694", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": true, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "quoted_status": {
+                    "contributors": null, 
+                    "coordinates": null, 
+                    "created_at": "Tue May 01 18:01:21 +0000 2018", 
+                    "entities": {
+                        "hashtags": [], 
+                        "symbols": [], 
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/9\u2026", 
+                                "expanded_url": "https://twitter.com/i/web/status/991377048005480453", 
+                                "indices": [
+                                    117, 
+                                    140
+                                ], 
+                                "url": "https://t.co/KC32Pe2qG9"
+                            }
+                        ], 
+                        "user_mentions": [
+                            {
+                                "id": 16188518, 
+                                "id_str": "16188518", 
+                                "indices": [
+                                    11, 
+                                    17
+                                ], 
+                                "name": "Aetna", 
+                                "screen_name": "Aetna"
+                            }
+                        ]
+                    }, 
+                    "favorite_count": 2, 
+                    "favorited": false, 
+                    "geo": null, 
+                    "id": 991377048005480453, 
+                    "id_str": "991377048005480453", 
+                    "in_reply_to_screen_name": null, 
+                    "in_reply_to_status_id": null, 
+                    "in_reply_to_status_id_str": null, 
+                    "in_reply_to_user_id": null, 
+                    "in_reply_to_user_id_str": null, 
+                    "is_quote_status": false, 
+                    "lang": "en", 
+                    "metadata": {
+                        "iso_language_code": "en", 
+                        "result_type": "recent"
+                    }, 
+                    "place": null, 
+                    "possibly_sensitive": false, 
+                    "retweet_count": 0, 
+                    "retweeted": false, 
+                    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>", 
+                    "text": "As part of @Aetna\u2019s commitment to enhancing access to evidence-based addiction treatment options for its members, m\u2026 https://t.co/KC32Pe2qG9", 
+                    "truncated": true, 
+                    "user": {
+                        "contributors_enabled": false, 
+                        "created_at": "Thu Sep 26 18:17:45 +0000 2013", 
+                        "default_profile": true, 
+                        "default_profile_image": false, 
+                        "description": "Physician, Executive VP & CMO @Aetna. Focused on clinical innovation & tech solutions to facilitate personalized healthcare & improve patient outcomes", 
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }, 
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "aetna.com", 
+                                        "expanded_url": "http://aetna.com", 
+                                        "indices": [
+                                            0, 
+                                            23
+                                        ], 
+                                        "url": "https://t.co/z2VDibVj0H"
+                                    }
+                                ]
+                            }
+                        }, 
+                        "favourites_count": 41, 
+                        "follow_request_sent": false, 
+                        "followers_count": 541, 
+                        "following": false, 
+                        "friends_count": 548, 
+                        "geo_enabled": false, 
+                        "has_extended_profile": false, 
+                        "id": 1908769994, 
+                        "id_str": "1908769994", 
+                        "is_translation_enabled": false, 
+                        "is_translator": false, 
+                        "lang": "en", 
+                        "listed_count": 29, 
+                        "location": "Hartford, CT", 
+                        "name": "Harold L. Paz, MD", 
+                        "notifications": false, 
+                        "profile_background_color": "C0DEED", 
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                        "profile_background_tile": false, 
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908769994/1497291357", 
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/979065650181099521/R7lpY33e_normal.jpg", 
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979065650181099521/R7lpY33e_normal.jpg", 
+                        "profile_link_color": "1DA1F2", 
+                        "profile_sidebar_border_color": "C0DEED", 
+                        "profile_sidebar_fill_color": "DDEEF6", 
+                        "profile_text_color": "333333", 
+                        "profile_use_background_image": true, 
+                        "protected": false, 
+                        "screen_name": "drhpaz", 
+                        "statuses_count": 858, 
+                        "time_zone": null, 
+                        "translator_type": "none", 
+                        "url": "https://t.co/z2VDibVj0H", 
+                        "utc_offset": null, 
+                        "verified": false
+                    }
+                }, 
+                "quoted_status_id": 991377048005480453, 
+                "quoted_status_id_str": "991377048005480453", 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "Lots of stigma associated w/ medications like buprenorphine and methadone. These medications come with their fair s\u2026 https://t.co/SnBLoqgrkv", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Tue Jun 23 18:54:27 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "CEO @ mdlogix, developing tech to evolve integrated care, #mentalhealth advocate, #behavioralhealth integrator, #HIT", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "bh-works.com", 
+                                    "expanded_url": "http://www.bh-works.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/kSqLuPEnxM"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 130, 
+                    "follow_request_sent": false, 
+                    "followers_count": 353, 
+                    "following": false, 
+                    "friends_count": 1012, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 50064480, 
+                    "id_str": "50064480", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 6, 
+                    "location": "Baltimore, MD", 
+                    "name": "Aaditya Goswami", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/50064480/1520864899", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/972172610258661377/LUfMK9Kj_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/972172610258661377/LUfMK9Kj_normal.jpg", 
+                    "profile_link_color": "FF691F", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "mdlogix", 
+                    "statuses_count": 152, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": "https://t.co/kSqLuPEnxM", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @mdlogix: Lots of stigma associated w/ medications like buprenorphine and methadone. These medications come with their fair share of pro\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Sep 28 12:35:46 +0000 2009", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Life-course implementation science, neuro-psychiatry, epidemiology-biostat, sickle cell, semantics, network science, informatics, behavioral health ecosystem", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "bh-works.com", 
+                                "expanded_url": "http://bh-works.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/g7nCA1ZJIT"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5186, 
+                "follow_request_sent": false, 
+                "followers_count": 14012, 
+                "following": false, 
+                "friends_count": 13423, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 78001994, 
+                "id_str": "78001994", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 532, 
+                "location": "Baltimore, \u5730\u7403, Cape Breton ", 
+                "name": "Allen Y. Tien MD MHS", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/78001994/1457916675", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/667744765123952641/QokXuJKN_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/667744765123952641/QokXuJKN_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "allentien", 
+                "statuses_count": 125367, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/g7nCA1ZJIT", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 22:20:24 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            34, 
+                            43
+                        ], 
+                        "text": "Medicare"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 70837868, 
+                        "id_str": "70837868", 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "name": "CMSGov", 
+                        "screen_name": "CMSGov"
+                    }, 
+                    {
+                        "id": 822191111414444034, 
+                        "id_str": "822191111414444034", 
+                        "indices": [
+                            131, 
+                            140
+                        ], 
+                        "name": "Administrator Seema Verma", 
+                        "screen_name": "SeemaCMS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993978953676328960, 
+            "id_str": "993978953676328960", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 20:29:02 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                22, 
+                                31
+                            ], 
+                            "text": "Medicare"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993950927383130113", 
+                            "indices": [
+                                120, 
+                                143
+                            ], 
+                            "url": "https://t.co/FlA7OGRr9D"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993950927383130113, 
+                "id_str": "993950927383130113", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+                "text": "Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator\u2026 https://t.co/FlA7OGRr9D", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Sep 02 00:51:13 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account for the Centers for Medicare & Medicaid Services (CMS).", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cms.gov", 
+                                    "expanded_url": "http://www.cms.gov", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/G5m5r2aha0"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 582, 
+                    "follow_request_sent": false, 
+                    "followers_count": 136624, 
+                    "following": false, 
+                    "friends_count": 86, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 70837868, 
+                    "id_str": "70837868", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 2299, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "CMSGov", 
+                    "notifications": false, 
+                    "profile_background_color": "031485", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/70837868/1524569234", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "A8C7F7", 
+                    "profile_sidebar_fill_color": "C0DFEC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "CMSGov", 
+                    "statuses_count": 14565, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/G5m5r2aha0", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @CMSGov: Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator @SeemaCMS &amp;\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Jun 22 20:58:05 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1140, 
+                "follow_request_sent": false, 
+                "followers_count": 149, 
+                "following": false, 
+                "friends_count": 175, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 49762990, 
+                "id_str": "49762990", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 9, 
+                "location": "Middletown, RI", 
+                "name": "Kelly Valente", 
+                "notifications": false, 
+                "profile_background_color": "FF6699", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/277131970/PICT1046_normal.JPG", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/277131970/PICT1046_normal.JPG", 
+                "profile_link_color": "B40B43", 
+                "profile_sidebar_border_color": "CC3366", 
+                "profile_sidebar_fill_color": "E5507E", 
+                "profile_text_color": "362720", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "kval75", 
+                "statuses_count": 3187, 
+                "time_zone": "America/New_York", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 20:46:38 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            34, 
+                            43
+                        ], 
+                        "text": "Medicare"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 70837868, 
+                        "id_str": "70837868", 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "name": "CMSGov", 
+                        "screen_name": "CMSGov"
+                    }, 
+                    {
+                        "id": 822191111414444034, 
+                        "id_str": "822191111414444034", 
+                        "indices": [
+                            131, 
+                            140
+                        ], 
+                        "name": "Administrator Seema Verma", 
+                        "screen_name": "SeemaCMS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993955356081643520, 
+            "id_str": "993955356081643520", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 20:29:02 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                22, 
+                                31
+                            ], 
+                            "text": "Medicare"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993950927383130113", 
+                            "indices": [
+                                120, 
+                                143
+                            ], 
+                            "url": "https://t.co/FlA7OGRr9D"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993950927383130113, 
+                "id_str": "993950927383130113", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+                "text": "Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator\u2026 https://t.co/FlA7OGRr9D", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Sep 02 00:51:13 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account for the Centers for Medicare & Medicaid Services (CMS).", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cms.gov", 
+                                    "expanded_url": "http://www.cms.gov", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/G5m5r2aha0"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 582, 
+                    "follow_request_sent": false, 
+                    "followers_count": 136624, 
+                    "following": false, 
+                    "friends_count": 86, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 70837868, 
+                    "id_str": "70837868", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 2299, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "CMSGov", 
+                    "notifications": false, 
+                    "profile_background_color": "031485", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/70837868/1524569234", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "A8C7F7", 
+                    "profile_sidebar_fill_color": "C0DFEC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "CMSGov", 
+                    "statuses_count": 14565, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/G5m5r2aha0", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @CMSGov: Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator @SeemaCMS &amp;\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Feb 08 20:56:59 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Former @CRS4Congress and @CMSGov. Health policy and administration. @Illinois_Alma and @JHUCarey Work in DC but live in wine country. Opinions are my own", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "linkedin.com/in/markanewsom/", 
+                                "expanded_url": "https://www.linkedin.com/in/markanewsom/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/sU0vBOGvpJ"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 8026, 
+                "follow_request_sent": false, 
+                "followers_count": 264, 
+                "following": false, 
+                "friends_count": 987, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 829433868826583044, 
+                "id_str": "829433868826583044", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "Washington, DC", 
+                "name": "Mark A. Newsom", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/829433868826583044/1502024827", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/836663323462623233/939U_gPG_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/836663323462623233/939U_gPG_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Mark20004DC", 
+                "statuses_count": 1936, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/sU0vBOGvpJ", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 20:32:02 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            34, 
+                            43
+                        ], 
+                        "text": "Medicare"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 70837868, 
+                        "id_str": "70837868", 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "name": "CMSGov", 
+                        "screen_name": "CMSGov"
+                    }, 
+                    {
+                        "id": 822191111414444034, 
+                        "id_str": "822191111414444034", 
+                        "indices": [
+                            131, 
+                            140
+                        ], 
+                        "name": "Administrator Seema Verma", 
+                        "screen_name": "SeemaCMS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993951684433981442, 
+            "id_str": "993951684433981442", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 20:29:02 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                22, 
+                                31
+                            ], 
+                            "text": "Medicare"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993950927383130113", 
+                            "indices": [
+                                120, 
+                                143
+                            ], 
+                            "url": "https://t.co/FlA7OGRr9D"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993950927383130113, 
+                "id_str": "993950927383130113", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+                "text": "Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator\u2026 https://t.co/FlA7OGRr9D", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Sep 02 00:51:13 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account for the Centers for Medicare & Medicaid Services (CMS).", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cms.gov", 
+                                    "expanded_url": "http://www.cms.gov", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/G5m5r2aha0"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 582, 
+                    "follow_request_sent": false, 
+                    "followers_count": 136624, 
+                    "following": false, 
+                    "friends_count": 86, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 70837868, 
+                    "id_str": "70837868", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 2299, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "CMSGov", 
+                    "notifications": false, 
+                    "profile_background_color": "031485", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/70837868/1524569234", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "A8C7F7", 
+                    "profile_sidebar_fill_color": "C0DFEC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "CMSGov", 
+                    "statuses_count": 14565, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/G5m5r2aha0", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @CMSGov: Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator @SeemaCMS &amp;\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Sep 21 21:18:38 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Hooper, Lundy & Bookman, P.C. is the largest law firm in the U.S. dedicated exclusively to the representation of health care providers and suppliers.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "health-law.com", 
+                                "expanded_url": "http://www.health-law.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/U490FJsRCX"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 34, 
+                "follow_request_sent": false, 
+                "followers_count": 131, 
+                "following": false, 
+                "friends_count": 187, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 3641752633, 
+                "id_str": "3641752633", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 12, 
+                "location": "5 Offices in the U.S.", 
+                "name": "Hooper Lundy Bookman", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3641752633/1442871378", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/646074652037484544/zyWy8fiv_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/646074652037484544/zyWy8fiv_normal.jpg", 
+                "profile_link_color": "4A913C", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "HLBHealthLaw", 
+                "statuses_count": 515, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/U490FJsRCX", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 20:30:34 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            34, 
+                            43
+                        ], 
+                        "text": "Medicare"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 70837868, 
+                        "id_str": "70837868", 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "name": "CMSGov", 
+                        "screen_name": "CMSGov"
+                    }, 
+                    {
+                        "id": 822191111414444034, 
+                        "id_str": "822191111414444034", 
+                        "indices": [
+                            131, 
+                            140
+                        ], 
+                        "name": "Administrator Seema Verma", 
+                        "screen_name": "SeemaCMS"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993951314676678662, 
+            "id_str": "993951314676678662", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 20:29:02 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                22, 
+                                31
+                            ], 
+                            "text": "Medicare"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993950927383130113", 
+                            "indices": [
+                                120, 
+                                143
+                            ], 
+                            "url": "https://t.co/FlA7OGRr9D"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993950927383130113, 
+                "id_str": "993950927383130113", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 6, 
+                "retweeted": false, 
+                "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+                "text": "Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator\u2026 https://t.co/FlA7OGRr9D", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Sep 02 00:51:13 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account for the Centers for Medicare & Medicaid Services (CMS).", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cms.gov", 
+                                    "expanded_url": "http://www.cms.gov", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/G5m5r2aha0"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 582, 
+                    "follow_request_sent": false, 
+                    "followers_count": 136624, 
+                    "following": false, 
+                    "friends_count": 86, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 70837868, 
+                    "id_str": "70837868", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 2299, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "CMSGov", 
+                    "notifications": false, 
+                    "profile_background_color": "031485", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/70837868/1524569234", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "A8C7F7", 
+                    "profile_sidebar_fill_color": "C0DFEC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "CMSGov", 
+                    "statuses_count": 14565, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/G5m5r2aha0", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @CMSGov: Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator @SeemaCMS &amp;\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jan 19 21:16:51 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Administrator for the Centers for Medicare & Medicaid Services (CMS). Mother and Wife. Proud alum of @UofMaryland and @JohnsHopkins Univ.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 320, 
+                "follow_request_sent": false, 
+                "followers_count": 10227, 
+                "following": false, 
+                "friends_count": 217, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 822191111414444034, 
+                "id_str": "822191111414444034", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 192, 
+                "location": "Baltimore, MD", 
+                "name": "Administrator Seema Verma", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/822191111414444034/1520269087", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/951259828617469952/sfA3q-HW_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/951259828617469952/sfA3q-HW_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SeemaCMS", 
+                "statuses_count": 1036, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": true
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 20:29:02 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            22, 
+                            31
+                        ], 
+                        "text": "Medicare"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993950927383130113", 
+                        "indices": [
+                            120, 
+                            143
+                        ], 
+                        "url": "https://t.co/FlA7OGRr9D"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993950927383130113, 
+            "id_str": "993950927383130113", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+            "text": "Join CMS for the 2018 #Medicare Advantage &amp; Prescription Drug Plan Spring Conference\u2019s webcast.  CMS Administrator\u2026 https://t.co/FlA7OGRr9D", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Sep 02 00:51:13 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Official Twitter account for the Centers for Medicare & Medicaid Services (CMS).", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "cms.gov", 
+                                "expanded_url": "http://www.cms.gov", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/G5m5r2aha0"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 582, 
+                "follow_request_sent": false, 
+                "followers_count": 136624, 
+                "following": false, 
+                "friends_count": 86, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 70837868, 
+                "id_str": "70837868", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2299, 
+                "location": "Baltimore, Maryland", 
+                "name": "CMSGov", 
+                "notifications": false, 
+                "profile_background_color": "031485", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705883121925816320/5JheQ8Tw.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/70837868/1524569234", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/705884066520805376/mfv7zNmJ_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "A8C7F7", 
+                "profile_sidebar_fill_color": "C0DFEC", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "CMSGov", 
+                "statuses_count": 14565, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/G5m5r2aha0", 
+                "utc_offset": -14400, 
+                "verified": true
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 21:20:43 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993601545857064970", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/wWxUwvqEMF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 16855062, 
+                        "id_str": "16855062", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "Jeff Siegel", 
+                        "screen_name": "jeffsiegel"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993601545857064970, 
+            "id_str": "993601545857064970", 
+            "in_reply_to_screen_name": "jeffsiegel", 
+            "in_reply_to_status_id": 993582961848147968, 
+            "in_reply_to_status_id_str": "993582961848147968", 
+            "in_reply_to_user_id": 16855062, 
+            "in_reply_to_user_id_str": "16855062", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@jeffsiegel What's the deal with that? Why make the consumer jump through a bunch of hoops? You should have to jump\u2026 https://t.co/wWxUwvqEMF", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jun 02 22:36:11 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Gold investor, writer, monetary history/theory & behavioral economics student, numismatist, science/history buff; too many interests to list. Traveling East.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "energyandcapital.com", 
+                                "expanded_url": "http://www.energyandcapital.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/ZnRFHsFTZ3"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 465, 
+                "follow_request_sent": false, 
+                "followers_count": 1790, 
+                "following": false, 
+                "friends_count": 284, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 44227343, 
+                "id_str": "44227343", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 47, 
+                "location": "Baltimore, MD", 
+                "name": "Luke Burgess", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673895061923504129/iLFzh6xc.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673895061923504129/iLFzh6xc.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44227343/1449504166", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/909113028582559745/tBk0erYk_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/909113028582559745/tBk0erYk_normal.jpg", 
+                "profile_link_color": "000000", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "lukemburgess", 
+                "statuses_count": 6885, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/ZnRFHsFTZ3", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 17:17:21 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993540300407631872", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/4jbrsBaJie"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993540300407631872, 
+            "id_str": "993540300407631872", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Walmart is simply cashing-in on a frenzy about a class of drugs that are apparently NOT being abused via legal pres\u2026 https://t.co/4jbrsBaJie", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed May 02 00:42:40 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\ud83c\udfa8 Visual Artist, \ud83d\udd8b\ufe0f Creative Writer, \ud83e\udd23 Humorist, \ud83d\udd74\ufe0f Entrepreneur. Focus on Art & the Arts, Writing, Publishing, Business, Current Events, and Greed, via Humor.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "huffingtonpost.com/author/colinje\u2026", 
+                                "expanded_url": "https://www.huffingtonpost.com/author/colinjeffrey-867", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/kqNjjRUg41"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 58, 
+                "follow_request_sent": false, 
+                "followers_count": 70, 
+                "following": false, 
+                "friends_count": 267, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 991478041971900416, 
+                "id_str": "991478041971900416", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "New Mexico, USA", 
+                "name": "JP Colin Design", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/991478041971900416/1526407268", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991478326689644544/UeUAftv5_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991478326689644544/UeUAftv5_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "JPColinDesign", 
+                "statuses_count": 1091, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/kqNjjRUg41", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sun May 06 09:08:30 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993054889117913088", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/SJCg2kRByt"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993054889117913088, 
+            "id_str": "993054889117913088", 
+            "in_reply_to_screen_name": "_AverageAshley_", 
+            "in_reply_to_status_id": 993054631147266049, 
+            "in_reply_to_status_id_str": "993054631147266049", 
+            "in_reply_to_user_id": 713745413, 
+            "in_reply_to_user_id_str": "713745413", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "My mom has 2 college degrees and they won\u2019t fucking help her but will help some lady who just popped out her fifth\u2026 https://t.co/SJCg2kRByt", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Oct 14 02:26:23 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Hella Nutella", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 16971, 
+                "follow_request_sent": false, 
+                "followers_count": 895, 
+                "following": false, 
+                "friends_count": 837, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 713745413, 
+                "id_str": "713745413", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "Suburbia", 
+                "name": "Lifesaver", 
+                "notifications": false, 
+                "profile_background_color": "642D8B", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/713745413/1473215441", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/954773124133859328/IcereWBA_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/954773124133859328/IcereWBA_normal.jpg", 
+                "profile_link_color": "9266CC", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "7AC3EE", 
+                "profile_text_color": "3D1957", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "_AverageAshley_", 
+                "statuses_count": 17494, 
+                "time_zone": "Mountain Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -21600, 
+                "verified": false
+            }
+        }
+    ]
+}

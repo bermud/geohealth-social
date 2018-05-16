@@ -1,0 +1,13 @@
+{
+    "search_metadata": {
+        "completed_in": 0.087, 
+        "count": 15, 
+        "max_id": 996553785278455808, 
+        "max_id_str": "996553785278455808", 
+        "query": "%28need+OR+want+OR+max+OR+too+many%29+AND+%28opiod+OR+opioids+OR+narcan+OR+opiates+OR+suboxone+OR+methadone+OR+hydromorphone+OR+dilaudid+OR+overdose%29%26geocode%3A39.660027%2C-78.7818776%2C60km", 
+        "refresh_url": "?since_id=996553785278455808&q=%28need%20OR%20want%20OR%20max%20OR%20too%20many%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A39.660027%2C-78.7818776%2C60km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": []
+}

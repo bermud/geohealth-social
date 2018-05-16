@@ -1,0 +1,13 @@
+{
+    "search_metadata": {
+        "completed_in": 0.03, 
+        "count": 15, 
+        "max_id": 996553581363949568, 
+        "max_id_str": "996553581363949568", 
+        "query": "%28pop+OR+popping+OR+not+enough+OR+another%29+AND+%28opiod+OR+opioids+OR+narcan+OR+opiates+OR+suboxone+OR+methadone+OR+hydromorphone+OR+dilaudid+OR+overdose%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=996553581363949568&q=%28pop%20OR%20popping%20OR%20not%20enough%20OR%20another%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": []
+}

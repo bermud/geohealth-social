@@ -1,0 +1,1596 @@
+{
+    "search_metadata": {
+        "completed_in": 0.132, 
+        "count": 15, 
+        "max_id": 996477641166290944, 
+        "max_id_str": "996477641166290944", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal+OR+popped%29+AND+%28opiod+OR+opioids+OR+narcan+OR+opiates+OR+suboxone+OR+methadone+OR+hydromorphone+OR+dilaudid+OR+overdose%29%26geocode%3A38.708889%2C-76.335%2C50km", 
+        "refresh_url": "?since_id=996477641166290944&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%20OR%20popped%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A38.708889%2C-76.335%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 15 19:49:17 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            58, 
+                            65
+                        ], 
+                        "text": "opioid"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/996477641166290944", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/bg3LmHkfL4"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996477641166290944, 
+            "id_str": "996477641166290944", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "text": "Honored to have the opportunity to share our views on the #opioid epidemic and what we're doing to help combat the\u2026 https://t.co/bg3LmHkfL4", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Sep 23 19:58:24 +0000 2008", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Waismann Method Rapid Detox, Drug Addiction Treatment and Medical Opioid Detoxification in exclusive a private hospital in Southern California. 1-310-205-0808", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "opiates.com", 
+                                "expanded_url": "https://www.opiates.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/9sPaO3YS7I"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 561, 
+                "follow_request_sent": false, 
+                "followers_count": 1140, 
+                "following": false, 
+                "friends_count": 216, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 16424512, 
+                "id_str": "16424512", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 34, 
+                "location": "California", 
+                "name": "Opioid Treatment Specialists Waismann Method \u00ae", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16424512/1487371997", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/799370562799685632/PPX7QPwK_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/799370562799685632/PPX7QPwK_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "opiates", 
+                "statuses_count": 5623, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/9sPaO3YS7I", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 14 16:55:14 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 924779782822178817, 
+                        "id_str": "924779782822178817", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "julieish  #NeverAgain #BlackLivesMatter", 
+                        "screen_name": "julieannewells"
+                    }, 
+                    {
+                        "id": 193365375, 
+                        "id_str": "193365375", 
+                        "indices": [
+                            20, 
+                            33
+                        ], 
+                        "name": "Melissa McEwan", 
+                        "screen_name": "Shakestweetz"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996071451617890306, 
+            "id_str": "996071451617890306", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 14 15:56:27 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": [
+                        {
+                            "id": 193365375, 
+                            "id_str": "193365375", 
+                            "indices": [
+                                0, 
+                                13
+                            ], 
+                            "name": "Melissa McEwan", 
+                            "screen_name": "Shakestweetz"
+                        }
+                    ]
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 996056656050929664, 
+                "id_str": "996056656050929664", 
+                "in_reply_to_screen_name": "Shakestweetz", 
+                "in_reply_to_status_id": 996047899757867008, 
+                "in_reply_to_status_id_str": "996047899757867008", 
+                "in_reply_to_user_id": 193365375, 
+                "in_reply_to_user_id_str": "193365375", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "@Shakestweetz Just in time to trade one addiction (opioids) for another. Damn.", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Oct 29 23:27:36 +0000 2017", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "Music, guitars, books and shenanigans make me happy. And loops. I like loops. Trying not to cry in public or be political but it's hard. #Dreamers #DACA #Resist", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "Everytown.org", 
+                                    "expanded_url": "http://www.Everytown.org", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/UUT1YRAfep"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 25751, 
+                    "follow_request_sent": false, 
+                    "followers_count": 2277, 
+                    "following": false, 
+                    "friends_count": 3606, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 924779782822178817, 
+                    "id_str": "924779782822178817", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 1, 
+                    "location": "California, USA", 
+                    "name": "julieish  #NeverAgain #BlackLivesMatter", 
+                    "notifications": false, 
+                    "profile_background_color": "F5F8FA", 
+                    "profile_background_image_url": null, 
+                    "profile_background_image_url_https": null, 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/924779782822178817/1521955563", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/977743050922328064/gBEQ_B5Q_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/977743050922328064/gBEQ_B5Q_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "julieannewells", 
+                    "statuses_count": 11521, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": "https://t.co/UUT1YRAfep", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @julieannewells: @Shakestweetz Just in time to trade one addiction (opioids) for another. Damn.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Apr 05 21:44:41 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Happily married to @MurbsSox ! I love you forever, Quinn \ud83d\udc24 #NastyWoman No lists, please.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13286, 
+                "follow_request_sent": false, 
+                "followers_count": 2308, 
+                "following": false, 
+                "friends_count": 4371, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 29073978, 
+                "id_str": "29073978", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 13, 
+                "location": "", 
+                "name": "#TheGOPisCOMPLICIT \ud83c\udf69\ud83e\udd40", 
+                "notifications": false, 
+                "profile_background_color": "89C9FA", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/29073978/1521264234", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/941375106382749704/6XPmuHPf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/941375106382749704/6XPmuHPf_normal.jpg", 
+                "profile_link_color": "F58EA8", 
+                "profile_sidebar_border_color": "181A1E", 
+                "profile_sidebar_fill_color": "252429", 
+                "profile_text_color": "666666", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Kaffe_Takk", 
+                "statuses_count": 247483, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 14 15:56:27 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 193365375, 
+                        "id_str": "193365375", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Melissa McEwan", 
+                        "screen_name": "Shakestweetz"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996056656050929664, 
+            "id_str": "996056656050929664", 
+            "in_reply_to_screen_name": "Shakestweetz", 
+            "in_reply_to_status_id": 996047899757867008, 
+            "in_reply_to_status_id_str": "996047899757867008", 
+            "in_reply_to_user_id": 193365375, 
+            "in_reply_to_user_id_str": "193365375", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@Shakestweetz Just in time to trade one addiction (opioids) for another. Damn.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Oct 29 23:27:36 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Music, guitars, books and shenanigans make me happy. And loops. I like loops. Trying not to cry in public or be political but it's hard. #Dreamers #DACA #Resist", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "Everytown.org", 
+                                "expanded_url": "http://www.Everytown.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/UUT1YRAfep"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 25751, 
+                "follow_request_sent": false, 
+                "followers_count": 2277, 
+                "following": false, 
+                "friends_count": 3606, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 924779782822178817, 
+                "id_str": "924779782822178817", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "California, USA", 
+                "name": "julieish  #NeverAgain #BlackLivesMatter", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/924779782822178817/1521955563", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/977743050922328064/gBEQ_B5Q_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/977743050922328064/gBEQ_B5Q_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "julieannewells", 
+                "statuses_count": 11521, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/UUT1YRAfep", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sun May 13 23:10:09 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/995803412984823808", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/kwpUKW1N3R"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 995803412984823808, 
+            "id_str": "995803412984823808", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+            "text": "\u201cUnder the proposal, patients would be allowed to take an opioid prescription and a signed doctor\u2019s note into a mar\u2026 https://t.co/kwpUKW1N3R", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun May 31 19:09:16 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time. James A. Baldwin   Stay Woke\u270a\ud83c\udffe", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 35958, 
+                "follow_request_sent": false, 
+                "followers_count": 745, 
+                "following": false, 
+                "friends_count": 1303, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 43736466, 
+                "id_str": "43736466", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 43, 
+                "location": "California, USA", 
+                "name": "JT Styl", 
+                "notifications": false, 
+                "profile_background_color": "FF6699", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/43736466/1412750537", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/519739542480228352/QJDOFftu_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/519739542480228352/QJDOFftu_normal.jpeg", 
+                "profile_link_color": "B40B43", 
+                "profile_sidebar_border_color": "CC3366", 
+                "profile_sidebar_fill_color": "E5507E", 
+                "profile_text_color": "362720", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "JTSTYL", 
+                "statuses_count": 70391, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 16:55:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994621960301658113", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/0hsrBbrg3f"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 860654500431880192, 
+                        "id_str": "860654500431880192", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Thomas Kaine", 
+                        "screen_name": "thomaskaine5"
+                    }, 
+                    {
+                        "id": 37270422, 
+                        "id_str": "37270422", 
+                        "indices": [
+                            14, 
+                            30
+                        ], 
+                        "name": "Impeach Trump\u2744\ufe0f", 
+                        "screen_name": "iamLucretiaMott"
+                    }, 
+                    {
+                        "id": 722793491059769344, 
+                        "id_str": "722793491059769344", 
+                        "indices": [
+                            31, 
+                            35
+                        ], 
+                        "name": "Democratic Party", 
+                        "screen_name": "DNC"
+                    }, 
+                    {
+                        "id": 713839291210792960, 
+                        "id_str": "713839291210792960", 
+                        "indices": [
+                            36, 
+                            52
+                        ], 
+                        "name": "Democratic Coalition", 
+                        "screen_name": "TheDemCoalition"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994621960301658113, 
+            "id_str": "994621960301658113", 
+            "in_reply_to_screen_name": "thomaskaine5", 
+            "in_reply_to_status_id": 989581142637531139, 
+            "in_reply_to_status_id_str": "989581142637531139", 
+            "in_reply_to_user_id": 860654500431880192, 
+            "in_reply_to_user_id_str": "860654500431880192", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+            "text": "@thomaskaine5 @iamLucretiaMott @DNC @TheDemCoalition I agree. We could use the tax revenue marijuana would generate\u2026 https://t.co/0hsrBbrg3f", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Jul 09 03:37:43 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "UNITED We Stand. DIVIDED We Fall.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1722, 
+                "follow_request_sent": false, 
+                "followers_count": 1598, 
+                "following": false, 
+                "friends_count": 2028, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 751621327635656704, 
+                "id_str": "751621327635656704", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "California", 
+                "name": "Murph Talks", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/751621327635656704/1519144969", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/781866787461660673/a4LL4ekf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/781866787461660673/a4LL4ekf_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "MurphyLawson1", 
+                "statuses_count": 1778, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 12:08:38 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994187384748044289", 
+                        "indices": [
+                            110, 
+                            133
+                        ], 
+                        "url": "https://t.co/oNcAx8Nu7e"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 3294480240, 
+                        "id_str": "3294480240", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Jennifer Gilbert", 
+                        "screen_name": "JennyFear666"
+                    }, 
+                    {
+                        "id": 50843619, 
+                        "id_str": "50843619", 
+                        "indices": [
+                            14, 
+                            24
+                        ], 
+                        "name": "Carmen Castro", 
+                        "screen_name": "silentkry"
+                    }, 
+                    {
+                        "id": 2896625957, 
+                        "id_str": "2896625957", 
+                        "indices": [
+                            25, 
+                            32
+                        ], 
+                        "name": "celtic princess", 
+                        "screen_name": "TBGTNT"
+                    }, 
+                    {
+                        "id": 3882022437, 
+                        "id_str": "3882022437", 
+                        "indices": [
+                            33, 
+                            49
+                        ], 
+                        "name": "Mar\u00eda", 
+                        "screen_name": "AdeleSpiritTrap"
+                    }, 
+                    {
+                        "id": 4838994911, 
+                        "id_str": "4838994911", 
+                        "indices": [
+                            50, 
+                            63
+                        ], 
+                        "name": "Cheryl Olver", 
+                        "screen_name": "cheryl_olver"
+                    }, 
+                    {
+                        "id": 4425981613, 
+                        "id_str": "4425981613", 
+                        "indices": [
+                            64, 
+                            77
+                        ], 
+                        "name": "CELTIC CACOPHONY", 
+                        "screen_name": "CailinCeltic"
+                    }, 
+                    {
+                        "id": 2781096634, 
+                        "id_str": "2781096634", 
+                        "indices": [
+                            78, 
+                            88
+                        ], 
+                        "name": "Just a girl", 
+                        "screen_name": "atheart62"
+                    }, 
+                    {
+                        "id": 706330707556085765, 
+                        "id_str": "706330707556085765", 
+                        "indices": [
+                            89, 
+                            97
+                        ], 
+                        "name": "Bruce Neeley", 
+                        "screen_name": "Arts_42"
+                    }, 
+                    {
+                        "id": 3044672730, 
+                        "id_str": "3044672730", 
+                        "indices": [
+                            98, 
+                            108
+                        ], 
+                        "name": "Jay  stray", 
+                        "screen_name": "7ay_stray"
+                    }
+                ]
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994187384748044289, 
+            "id_str": "994187384748044289", 
+            "in_reply_to_screen_name": "JennyFear666", 
+            "in_reply_to_status_id": 994093996959064066, 
+            "in_reply_to_status_id_str": "994093996959064066", 
+            "in_reply_to_user_id": 3294480240, 
+            "in_reply_to_user_id_str": "3294480240", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@JennyFear666 @silentkry @TBGTNT @AdeleSpiritTrap @cheryl_olver @CailinCeltic @atheart62 @Arts_42 @7ay_stray\u2026 https://t.co/oNcAx8Nu7e", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Nov 27 20:15:16 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Hello my name is Courtney. I'm a 37 year old Women , mother of 4 Beautiful Children.. I would like to Share my message of LOVE with all of you. Please Enjoy!", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 5223, 
+                "follow_request_sent": false, 
+                "followers_count": 278, 
+                "following": false, 
+                "friends_count": 328, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 935240626584502272, 
+                "id_str": "935240626584502272", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "California, USA", 
+                "name": "Courtney Leilani Matthews", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/935240626584502272/1511816385", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/935251127385300992/ra0gMkXO_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/935251127385300992/ra0gMkXO_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "SanDiegoMama37", 
+                "statuses_count": 16585, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 22:18:04 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993615977014181888", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/x0d8c31X9r"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993615977014181888, 
+            "id_str": "993615977014181888", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 00:53:54 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                104, 
+                                118
+                            ], 
+                            "text": "SanctuaryCity"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993292809472888833", 
+                            "indices": [
+                                121, 
+                                144
+                            ], 
+                            "url": "https://t.co/mlSCOUlbao"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 19834403, 
+                            "id_str": "19834403", 
+                            "indices": [
+                                34, 
+                                43
+                            ], 
+                            "name": "Bill de Blasio", 
+                            "screen_name": "NYCMayor"
+                        }
+                    ]
+                }, 
+                "favorite_count": 699, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993292809472888833, 
+                "id_str": "993292809472888833", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 894, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Come In &amp; Inject Heroin, says @NYCMayor Bill de Blasio.\n\nExcuse me, Heroin is illegal. But NYC is a #SanctuaryCity,\u2026 https://t.co/mlSCOUlbao", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Mon Oct 09 21:26:25 +0000 2017", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "Trump\ud83d\udcaf StandForTheAnthem \ud83c\uddfa\ud83c\uddf8MAGA\u203c\ufe0f NO Sanctuary State or Cities JamielShaw KateSteinle IStandWithIsrael Followed By @GenFlynn @DineshDSouza", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 63729, 
+                    "follow_request_sent": false, 
+                    "followers_count": 50213, 
+                    "following": false, 
+                    "friends_count": 41971, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 917501529480765441, 
+                    "id_str": "917501529480765441", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 74, 
+                    "location": "California, USA", 
+                    "name": "\ud83c\uddfa\ud83c\uddf8RespectTheAnthem\ud83c\uddfa\ud83c\uddf8", 
+                    "notifications": false, 
+                    "profile_background_color": "F5F8FA", 
+                    "profile_background_image_url": null, 
+                    "profile_background_image_url_https": null, 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/917501529480765441/1519491160", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/963390556490539009/IPuiK4u9_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/963390556490539009/IPuiK4u9_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "AnthemRespect", 
+                    "statuses_count": 63864, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "quoted_status_id": 993292809472888833, 
+            "quoted_status_id_str": "993292809472888833", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "How sad that someone could spend resources on providing shooting galleries, instead of the much needed medical and\u2026 https://t.co/x0d8c31X9r", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Sep 23 19:58:24 +0000 2008", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Waismann Method Rapid Detox, Drug Addiction Treatment and Medical Opioid Detoxification in exclusive a private hospital in Southern California. 1-310-205-0808", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "opiates.com", 
+                                "expanded_url": "https://www.opiates.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/9sPaO3YS7I"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 561, 
+                "follow_request_sent": false, 
+                "followers_count": 1140, 
+                "following": false, 
+                "friends_count": 216, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 16424512, 
+                "id_str": "16424512", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 34, 
+                "location": "California", 
+                "name": "Opioid Treatment Specialists Waismann Method \u00ae", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16424512/1487371997", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/799370562799685632/PPX7QPwK_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/799370562799685632/PPX7QPwK_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "opiates", 
+                "statuses_count": 5623, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/9sPaO3YS7I", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 22:17:46 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993615903504850944", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/5s3GkhBNDW"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 917501529480765441, 
+                        "id_str": "917501529480765441", 
+                        "indices": [
+                            0, 
+                            14
+                        ], 
+                        "name": "\ud83c\uddfa\ud83c\uddf8RespectTheAnthem\ud83c\uddfa\ud83c\uddf8", 
+                        "screen_name": "AnthemRespect"
+                    }, 
+                    {
+                        "id": 19834403, 
+                        "id_str": "19834403", 
+                        "indices": [
+                            15, 
+                            24
+                        ], 
+                        "name": "Bill de Blasio", 
+                        "screen_name": "NYCMayor"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993615903504850944, 
+            "id_str": "993615903504850944", 
+            "in_reply_to_screen_name": "AnthemRespect", 
+            "in_reply_to_status_id": 993292809472888833, 
+            "in_reply_to_status_id_str": "993292809472888833", 
+            "in_reply_to_user_id": 917501529480765441, 
+            "in_reply_to_user_id_str": "917501529480765441", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@AnthemRespect @NYCMayor How sad that someone could spend resources on providing shooting galleries, instead of the\u2026 https://t.co/5s3GkhBNDW", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Sep 23 19:58:24 +0000 2008", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Waismann Method Rapid Detox, Drug Addiction Treatment and Medical Opioid Detoxification in exclusive a private hospital in Southern California. 1-310-205-0808", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "opiates.com", 
+                                "expanded_url": "https://www.opiates.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/9sPaO3YS7I"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 561, 
+                "follow_request_sent": false, 
+                "followers_count": 1140, 
+                "following": false, 
+                "friends_count": 216, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 16424512, 
+                "id_str": "16424512", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 34, 
+                "location": "California", 
+                "name": "Opioid Treatment Specialists Waismann Method \u00ae", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16424512/1487371997", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/799370562799685632/PPX7QPwK_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/799370562799685632/PPX7QPwK_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "opiates", 
+                "statuses_count": 5623, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/9sPaO3YS7I", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 17:47:13 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993547815719596032", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/yrIgmveT79"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 25073877, 
+                        "id_str": "25073877", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "Donald J. Trump", 
+                        "screen_name": "realDonaldTrump"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993547815719596032, 
+            "id_str": "993547815719596032", 
+            "in_reply_to_screen_name": "realDonaldTrump", 
+            "in_reply_to_status_id": 993541175511527425, 
+            "in_reply_to_status_id_str": "993541175511527425", 
+            "in_reply_to_user_id": 25073877, 
+            "in_reply_to_user_id_str": "25073877", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@realDonaldTrump next you have to see what they are doing to old folks with that dilaudid drug, they don't recover\u2026 https://t.co/yrIgmveT79", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Jul 03 08:21:38 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Every time you feel twitter change the game, buy someone a flag or a flag decal for their car", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13026, 
+                "follow_request_sent": false, 
+                "followers_count": 3668, 
+                "following": false, 
+                "friends_count": 4579, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 328388476, 
+                "id_str": "328388476", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 166, 
+                "location": "California, USA", 
+                "name": "Julie Gannon", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/328388476/1484928444", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/860990648303796224/p_chr3p6_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/860990648303796224/p_chr3p6_normal.jpg", 
+                "profile_link_color": "F58EA8", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "julieagannon", 
+                "statuses_count": 131541, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sun May 06 23:46:13 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 818905450091425792, 
+                        "id_str": "818905450091425792", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Red Squirrel in CA Blue World", 
+                        "screen_name": "RedSqrrlBluWrld"
+                    }, 
+                    {
+                        "id": 275276082, 
+                        "id_str": "275276082", 
+                        "indices": [
+                            21, 
+                            37
+                        ], 
+                        "name": "Thomas Paine", 
+                        "screen_name": "Thomas1774Paine"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993275774617735170, 
+            "id_str": "993275774617735170", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Sun May 06 23:45:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993275499026628608", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/g4MS9mc0Zn"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 275276082, 
+                            "id_str": "275276082", 
+                            "indices": [
+                                0, 
+                                16
+                            ], 
+                            "name": "Thomas Paine", 
+                            "screen_name": "Thomas1774Paine"
+                        }
+                    ]
+                }, 
+                "favorite_count": 3, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993275499026628608, 
+                "id_str": "993275499026628608", 
+                "in_reply_to_screen_name": "Thomas1774Paine", 
+                "in_reply_to_status_id": 993266671904272384, 
+                "in_reply_to_status_id_str": "993266671904272384", 
+                "in_reply_to_user_id": 275276082, 
+                "in_reply_to_user_id_str": "275276082", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+                "text": "@Thomas1774Paine I take it they\u2019re going to have attendants walking around with Narcan and mops so that when they b\u2026 https://t.co/g4MS9mc0Zn", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Tue Jan 10 19:40:48 +0000 2017", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Red small town Squirrel, living in lonely Blue world... fighting for Truth, Justice & American Way of Life, Liberty & the Pursuit of Happiness. \ud83d\ude82\u26ea\ufe0f\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 651, 
+                    "follow_request_sent": false, 
+                    "followers_count": 487, 
+                    "following": false, 
+                    "friends_count": 686, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 818905450091425792, 
+                    "id_str": "818905450091425792", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 0, 
+                    "location": "California, USA", 
+                    "name": "Red Squirrel in CA Blue World", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/818905450091425792/1523381469", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/838235318402723840/1IAZULaZ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/838235318402723840/1IAZULaZ_normal.jpg", 
+                    "profile_link_color": "E81C4F", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "RedSqrrlBluWrld", 
+                    "statuses_count": 752, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @RedSqrrlBluWrld: @Thomas1774Paine I take it they\u2019re going to have attendants walking around with Narcan and mops so that when they brin\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Nov 23 15:59:48 +0000 2012", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Married Christian, conservative.   MAGA  I block Trump bashers and idiots.  NO PORN    No Twitter pals or pickups.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 151491, 
+                "follow_request_sent": false, 
+                "followers_count": 9742, 
+                "following": false, 
+                "friends_count": 10261, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 966358014, 
+                "id_str": "966358014", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 53, 
+                "location": "", 
+                "name": "Linda K", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/966358014/1458060211", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/978288107027124224/iNYlVsUV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/978288107027124224/iNYlVsUV_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LindaEpai457450", 
+                "statuses_count": 154072, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sun May 06 23:45:07 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993275499026628608", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/g4MS9mc0Zn"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 275276082, 
+                        "id_str": "275276082", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "Thomas Paine", 
+                        "screen_name": "Thomas1774Paine"
+                    }
+                ]
+            }, 
+            "favorite_count": 3, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993275499026628608, 
+            "id_str": "993275499026628608", 
+            "in_reply_to_screen_name": "Thomas1774Paine", 
+            "in_reply_to_status_id": 993266671904272384, 
+            "in_reply_to_status_id_str": "993266671904272384", 
+            "in_reply_to_user_id": 275276082, 
+            "in_reply_to_user_id_str": "275276082", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+            "text": "@Thomas1774Paine I take it they\u2019re going to have attendants walking around with Narcan and mops so that when they b\u2026 https://t.co/g4MS9mc0Zn", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jan 10 19:40:48 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Red small town Squirrel, living in lonely Blue world... fighting for Truth, Justice & American Way of Life, Liberty & the Pursuit of Happiness. \ud83d\ude82\u26ea\ufe0f\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 651, 
+                "follow_request_sent": false, 
+                "followers_count": 487, 
+                "following": false, 
+                "friends_count": 686, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 818905450091425792, 
+                "id_str": "818905450091425792", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Red Squirrel in CA Blue World", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/818905450091425792/1523381469", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/838235318402723840/1IAZULaZ_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/838235318402723840/1IAZULaZ_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "RedSqrrlBluWrld", 
+                "statuses_count": 752, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }
+    ]
+}

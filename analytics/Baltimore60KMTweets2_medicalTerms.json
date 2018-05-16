@@ -1,0 +1,3143 @@
+{
+    "search_metadata": {
+        "completed_in": 0.118, 
+        "count": 15, 
+        "max_id": 996027891556278272, 
+        "max_id_str": "996027891556278272", 
+        "next_results": "?max_id=993935220922634240&q=%28need%20OR%20want%20OR%20max%20OR%20too%20many%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "query": "%28need+OR+want+OR+max+OR+too+many%29+AND+%28opiod+OR+opioids+OR+narcan+OR+opiates+OR+suboxone+OR+methadone+OR+hydromorphone+OR+dilaudid+OR+overdose%29%26geocode%3A39.283333%2C-76.616667%2C50km", 
+        "refresh_url": "?since_id=996027891556278272&q=%28need%20OR%20want%20OR%20max%20OR%20too%20many%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A39.283333%2C-76.616667%2C50km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 14 14:02:09 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 996027891556278272, 
+            "id_str": "996027891556278272", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Feb 18 16:26:45 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "#Vets are often victims of unsavory business practices & #abuse by those who claim to be a source of help. I seek to expose the wrong doers. Please help #Vets.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 84, 
+                "follow_request_sent": false, 
+                "followers_count": 13, 
+                "following": false, 
+                "friends_count": 65, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 832989742283292672, 
+                "id_str": "832989742283292672", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Michigan, USA", 
+                "name": "Forward Observer", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/834066542841114624/Blzd0fWq_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/834066542841114624/Blzd0fWq_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "exposethewicked", 
+                "statuses_count": 360, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 14 08:45:17 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/995948150761418752", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/9dpVUBORtk"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 52360480, 
+                        "id_str": "52360480", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "The Wright Stuff", 
+                        "screen_name": "5WrightStuff"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 995948150761418752, 
+            "id_str": "995948150761418752", 
+            "in_reply_to_screen_name": "5WrightStuff", 
+            "in_reply_to_status_id": 995923034279174144, 
+            "in_reply_to_status_id_str": "995923034279174144", 
+            "in_reply_to_user_id": 52360480, 
+            "in_reply_to_user_id_str": "52360480", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@5WrightStuff Canniabis Oil with the high taken out should be ready available on prescription on the NHS for many c\u2026 https://t.co/9dpVUBORtk", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Jan 01 13:07:14 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "#EthicalBlogger #aesthetics https://t.co/j2Xov4dadj https://t.co/zA7nSjmBT7 #PRFriendly just.jenny1@hotmail.co.uk", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "jenjustjenny.blogspot.co.uk", 
+                                "expanded_url": "http://jenjustjenny.blogspot.co.uk", 
+                                "indices": [
+                                    28, 
+                                    51
+                                ], 
+                                "url": "https://t.co/j2Xov4dadj"
+                            }, 
+                            {
+                                "display_url": "instagram.com/justjennyfromt\u2026", 
+                                "expanded_url": "https://www.instagram.com/justjennyfromtheblog/", 
+                                "indices": [
+                                    52, 
+                                    75
+                                ], 
+                                "url": "https://t.co/zA7nSjmBT7"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "jenjustjenny.blogspot.co.uk", 
+                                "expanded_url": "http://jenjustjenny.blogspot.co.uk", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/j2Xov4dadj"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 11605, 
+                "follow_request_sent": false, 
+                "followers_count": 3325, 
+                "following": false, 
+                "friends_count": 4541, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 452127706, 
+                "id_str": "452127706", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 164, 
+                "location": "Essex", 
+                "name": "Just Jenny Essex", 
+                "notifications": false, 
+                "profile_background_color": "0099B9", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000090411743/aa2a088f9633cb5dfeb7764e02e28ce1.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000090411743/aa2a088f9633cb5dfeb7764e02e28ce1.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/452127706/1520380065", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/975669190848925696/42weOr_3_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/975669190848925696/42weOr_3_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "E5507E", 
+                "profile_text_color": "362720", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "JustJennyEssex", 
+                "statuses_count": 73583, 
+                "time_zone": "London", 
+                "translator_type": "none", 
+                "url": "https://t.co/j2Xov4dadj", 
+                "utc_offset": 3600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 15:32:43 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994963521669562369, 
+            "id_str": "994963521669562369", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Apr 14 16:42:49 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Our purpose is to create one voice for prevention in North Carolina for advocacy, central communication and networking for substance abuse prevention providers.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "preventionistheanswer.org", 
+                                "expanded_url": "http://www.preventionistheanswer.org", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/f4ZWLBWcO0"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 100, 
+                "follow_request_sent": false, 
+                "followers_count": 517, 
+                "following": false, 
+                "friends_count": 195, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 132957964, 
+                "id_str": "132957964", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 15, 
+                "location": "North Carolina", 
+                "name": "NC Prevention", 
+                "notifications": false, 
+                "profile_background_color": "FFFFFF", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/92107750/background.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/92107750/background.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/132957964/1434470753", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/825451668/1voice_logo_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/825451668/1voice_logo_normal.png", 
+                "profile_link_color": "004162", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "FCFCFC", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "NCSAPrevention", 
+                "statuses_count": 831, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/f4ZWLBWcO0", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 23:27:55 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994358331878920193, 
+            "id_str": "994358331878920193", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Feb 03 11:48:59 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Law enforcement practitioner and scholar in search of empirical and practical drug policy solutions.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 496, 
+                "follow_request_sent": false, 
+                "followers_count": 62, 
+                "following": false, 
+                "friends_count": 186, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 4873774973, 
+                "id_str": "4873774973", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 7, 
+                "location": "", 
+                "name": "Calvin Higgins", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/817012725876334592/_HmG9IIX_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/817012725876334592/_HmG9IIX_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "CalvinHigginsJr", 
+                "statuses_count": 1429, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 14:33:22 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994223807996006400, 
+            "id_str": "994223807996006400", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Feb 05 05:14:36 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Vessel Medical                                   Area Director.                             Genuine, results driven, compassionate, and thriving", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "vesselmedical.com", 
+                                "expanded_url": "http://www.vesselmedical.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/10Ogwa0IGI"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1824, 
+                "follow_request_sent": false, 
+                "followers_count": 16, 
+                "following": false, 
+                "friends_count": 51, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 1150013276, 
+                "id_str": "1150013276", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Winterville, NC", 
+                "name": "Jessica Barfield", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/855243023755640832/uMRNMWQZ_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/855243023755640832/uMRNMWQZ_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "JessicaBarfiel", 
+                "statuses_count": 1846, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/10Ogwa0IGI", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 14:14:02 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994218942515294209, 
+            "id_str": "994218942515294209", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Oct 05 19:20:30 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 13, 
+                "follow_request_sent": false, 
+                "followers_count": 360, 
+                "following": false, 
+                "friends_count": 3146, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 783748715966115840, 
+                "id_str": "783748715966115840", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "Nebraska, USA", 
+                "name": "NEOpioidSummit", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/783748715966115840/1475867557", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/783772059625070592/OTKivpNy_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/783772059625070592/OTKivpNy_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "NEOpioidSummit", 
+                "statuses_count": 311, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 14:02:05 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994215938131087360, 
+            "id_str": "994215938131087360", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 16 03:48:56 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": true, 
+                "description": "empowering school wellness since 2010", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "wellnessgeeksblog.wordpress.com", 
+                                "expanded_url": "http://wellnessgeeksblog.wordpress.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/6LQnnuXpVu"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 765, 
+                "follow_request_sent": false, 
+                "followers_count": 28, 
+                "following": false, 
+                "friends_count": 172, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 3021890858, 
+                "id_str": "3021890858", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "", 
+                "name": "NomitaBajwa", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "WellGeeks", 
+                "statuses_count": 437, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/6LQnnuXpVu", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 13:52:03 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994213411549581312, 
+            "id_str": "994213411549581312", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Aug 05 19:04:08 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 6892, 
+                "follow_request_sent": false, 
+                "followers_count": 1193, 
+                "following": false, 
+                "friends_count": 277, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 3404548611, 
+                "id_str": "3404548611", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 40, 
+                "location": "", 
+                "name": "Waxhaw NC Police", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3404548611/1438805460", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/629020743645405184/qKNY_wP4_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/629020743645405184/qKNY_wP4_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "WaxhawPolice", 
+                "statuses_count": 9670, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 07:32:25 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994117873097498625, 
+            "id_str": "994117873097498625", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Apr 09 23:12:06 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "R\u00e9seau d\u00e9di\u00e9 \u00e0 Fran\u00e7ois Fillon, homme d\u2019Etat fran\u00e7ais lucide,s'est distingu\u00e9 par le courage face \u00e0 l'adversit\u00e9, projet r\u00e9forme France et lutte contre terrorisme", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 167357, 
+                "follow_request_sent": false, 
+                "followers_count": 4223, 
+                "following": false, 
+                "friends_count": 3321, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 851211143238602754, 
+                "id_str": "851211143238602754", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "fr", 
+                "listed_count": 27, 
+                "location": "France :", 
+                "name": "France Afrique", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/932308589758136320/LRD98jeg.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/932308589758136320/LRD98jeg.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/851211143238602754/1511114666", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/932309059130281984/YWdtBnQL_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/932309059130281984/YWdtBnQL_normal.jpg", 
+                "profile_link_color": "000000", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "fillonafrique", 
+                "statuses_count": 172774, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 02:40:38 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994044442578386944, 
+            "id_str": "994044442578386944", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 07 15:47:26 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Safe in-home disposal of your Pharmaceuticals-OTC Medication-Vitamins.  Inventor of \"THE ENHANCED DRUG TAKE BACK PROGRAM", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "statmeddisposal.net", 
+                                "expanded_url": "http://statmeddisposal.net", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/AzIhn17vhB"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1106, 
+                "follow_request_sent": false, 
+                "followers_count": 373, 
+                "following": false, 
+                "friends_count": 669, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 706868869151870976, 
+                "id_str": "706868869151870976", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 17, 
+                "location": "California, United States", 
+                "name": "Stat-Medicament-Disp", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/706868869151870976/1507811161", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/844379304909725696/fiRhIh2A_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/844379304909725696/fiRhIh2A_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "statMedDisp", 
+                "statuses_count": 727, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/AzIhn17vhB", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 21:11:42 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993961665837387776, 
+            "id_str": "993961665837387776", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jan 15 01:09:08 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Educational advocate and consultant.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "gerhardteducation.org", 
+                                "expanded_url": "http://gerhardteducation.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/4vXl2ZSPhJ"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10676, 
+                "follow_request_sent": false, 
+                "followers_count": 229, 
+                "following": false, 
+                "friends_count": 246, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 19004778, 
+                "id_str": "19004778", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 82, 
+                "location": "Columbus, OH", 
+                "name": "Brenda Gerhardt", 
+                "notifications": false, 
+                "profile_background_color": "0099B9", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000005683664/6963746a5d265ba42eb808ce240aa077.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000005683664/6963746a5d265ba42eb808ce240aa077.jpeg", 
+                "profile_background_tile": true, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/795668062/bRENDA_PICTURE_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/795668062/bRENDA_PICTURE_normal.jpg", 
+                "profile_link_color": "0099B9", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "95E8EC", 
+                "profile_text_color": "3C3940", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Brenda64", 
+                "statuses_count": 15784, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/4vXl2ZSPhJ", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 20:30:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993951292853837824, 
+            "id_str": "993951292853837824", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Jan 10 21:26:33 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "U.S. Department of Health and Human Services, Office of the Regional Director. Region 6 includes Arkansas, Louisiana, New Mexico, Oklahoma and Texas.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "hhs.gov", 
+                                "expanded_url": "http://www.hhs.gov/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/19GRRvRAgM"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 3050, 
+                "follow_request_sent": false, 
+                "followers_count": 1699, 
+                "following": false, 
+                "friends_count": 1432, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 460534166, 
+                "id_str": "460534166", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 78, 
+                "location": "Dallas, TX", 
+                "name": "HHSRegion6", 
+                "notifications": false, 
+                "profile_background_color": "B2DFDA", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542054987719655425/1uBJNktw.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542054987719655425/1uBJNktw.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/460534166/1487193783", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/543040938239463424/EDKl1cMR_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/543040938239463424/EDKl1cMR_normal.jpeg", 
+                "profile_link_color": "68A644", 
+                "profile_sidebar_border_color": "DB1144", 
+                "profile_sidebar_fill_color": "E8CB3C", 
+                "profile_text_color": "140208", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "HHSRegion6", 
+                "statuses_count": 3776, 
+                "time_zone": "Hawaii", 
+                "translator_type": "none", 
+                "url": "https://t.co/19GRRvRAgM", 
+                "utc_offset": -36000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 20:13:08 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993946925778063360, 
+            "id_str": "993946925778063360", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Oct 16 10:44:31 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "#UK \ud83c\uddec\ud83c\udde7& #IRELAND\ud83c\uddee\ud83c\uddealeading #MEDTECH #MarketAccess experts https://t.co/q6aLRXE7Pc", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/playlist?list=\u2026", 
+                                "expanded_url": "https://www.youtube.com/playlist?list=PLLApBemRXYLKvS2H0JUYbCUYFSc35VTKu", 
+                                "indices": [
+                                    57, 
+                                    80
+                                ], 
+                                "url": "https://t.co/q6aLRXE7Pc"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "nisusmedical.com", 
+                                "expanded_url": "http://www.nisusmedical.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/f9Cea0SfHa"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5686, 
+                "follow_request_sent": false, 
+                "followers_count": 1163, 
+                "following": false, 
+                "friends_count": 5000, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 2833822655, 
+                "id_str": "2833822655", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 17, 
+                "location": "London & Manchester UK", 
+                "name": "Nisus Medical UK", 
+                "notifications": false, 
+                "profile_background_color": "D7E2E4", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2833822655/1515272793", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/537228947692744704/-1XyU6Q9_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/537228947692744704/-1XyU6Q9_normal.jpeg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "nisusmedical", 
+                "statuses_count": 7305, 
+                "time_zone": "London", 
+                "translator_type": "none", 
+                "url": "https://t.co/f9Cea0SfHa", 
+                "utc_offset": 3600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 19:39:28 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993938454328233984, 
+            "id_str": "993938454328233984", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Jan 16 15:17:23 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u201cNo work is insignificant. All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.\u201d  MLK", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 19549, 
+                "follow_request_sent": false, 
+                "followers_count": 293, 
+                "following": false, 
+                "friends_count": 26, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1095484248, 
+                "id_str": "1095484248", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 51, 
+                "location": "", 
+                "name": "Sam", 
+                "notifications": false, 
+                "profile_background_color": "022330", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432555685767692288/Or2aPSpd.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432555685767692288/Or2aPSpd.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095484248/1448126280", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/668116060587999232/bGDuxjLf_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/668116060587999232/bGDuxjLf_normal.jpg", 
+                "profile_link_color": "3B94D9", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "C0DFEC", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "sax_0909", 
+                "statuses_count": 25941, 
+                "time_zone": "Central Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 19:26:37 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 102234123, 
+                        "id_str": "102234123", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "NIDAnews", 
+                        "screen_name": "NIDAnews"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993935220922634241, 
+            "id_str": "993935220922634241", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 62, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon May 07 21:20:07 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/993601394123988993", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "url": "https://t.co/wFdilDeKvl"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 51, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993601394123988993, 
+                "id_str": "993601394123988993", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 62, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many.\u2026 https://t.co/wFdilDeKvl", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Wed Jan 06 01:45:05 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Official Twitter account of the National Institute on Drug Abuse. NIDA\u2026Advancing #AddictionScience. Comment Policy: https://t.co/ImaotCGDtF", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "1.usa.gov/GFdwOz", 
+                                    "expanded_url": "http://1.usa.gov/GFdwOz", 
+                                    "indices": [
+                                        116, 
+                                        139
+                                    ], 
+                                    "url": "https://t.co/ImaotCGDtF"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "drugabuse.gov", 
+                                    "expanded_url": "http://www.drugabuse.gov", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/5PXFUDK0yR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 273, 
+                    "follow_request_sent": false, 
+                    "followers_count": 43269, 
+                    "following": false, 
+                    "friends_count": 250, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 102234123, 
+                    "id_str": "102234123", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 968, 
+                    "location": "Bethesda, MD", 
+                    "name": "NIDAnews", 
+                    "notifications": false, 
+                    "profile_background_color": "027095", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075699366/fbfec375e7e03a34f9079d1a40a4d2b5.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102234123/1522082504", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/486602558618619904/tn8ayBUD_normal.jpeg", 
+                    "profile_link_color": "009999", 
+                    "profile_sidebar_border_color": "FFFFFF", 
+                    "profile_sidebar_fill_color": "B6C8ED", 
+                    "profile_text_color": "0F0E0F", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "NIDAnews", 
+                    "statuses_count": 9763, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "http://t.co/5PXFUDK0yR", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "RT @NIDAnews: Teen overdoses from opioids like heroin and fentanyl are on the rise\u2014and even one teen overdose is too many. https://t.co/HJd\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Jan 30 17:29:04 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "We are dedicated to spreading knowledge and collaborating with the Boone County community to prevent substance abuse to create a drug-free environment for all.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 18, 
+                "follow_request_sent": false, 
+                "followers_count": 221, 
+                "following": false, 
+                "friends_count": 319, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 3006074866, 
+                "id_str": "3006074866", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 3, 
+                "location": "Boone County", 
+                "name": "BC Alliance", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3006074866/1498752085", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/880456114139271168/cRo2TJbM_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/880456114139271168/cRo2TJbM_normal.jpg", 
+                "profile_link_color": "7FDBB6", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "alliance_bc", 
+                "statuses_count": 921, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }
+    ]
+}

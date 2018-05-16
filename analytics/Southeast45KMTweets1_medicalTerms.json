@@ -1,0 +1,13 @@
+{
+    "search_metadata": {
+        "completed_in": 0.042, 
+        "count": 15, 
+        "max_id": 996553580432814080, 
+        "max_id_str": "996553580432814080", 
+        "query": "%28buy+OR+sell+OR+trade+OR+share+OR+spend+OR+bring+OR+steal+OR+popped%29+AND+%28opiod+OR+opioids+OR+narcan+OR+opiates+OR+suboxone+OR+methadone+OR+hydromorphone+OR+dilaudid+OR+overdose%29%26geocode%3A38.1756072%2C-75.5437228%2C45km", 
+        "refresh_url": "?since_id=996553580432814080&q=%28buy%20OR%20sell%20OR%20trade%20OR%20share%20OR%20spend%20OR%20bring%20OR%20steal%20OR%20popped%29%20AND%20%28opiod%20OR%20opioids%20OR%20narcan%20OR%20opiates%20OR%20suboxone%20OR%20methadone%20OR%20hydromorphone%20OR%20dilaudid%20OR%20overdose%29%26geocode%3A38.1756072%2C-75.5437228%2C45km&include_entities=1", 
+        "since_id": 0, 
+        "since_id_str": "0"
+    }, 
+    "statuses": []
+}
