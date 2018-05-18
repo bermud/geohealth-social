@@ -1,2 +1,2 @@
-Ready for upload to server and user interface.
-I did not include the empty files (from search strings with 0 results).
+Script for tweet processing: togeo_ProjectFinal.py
+Once run against the search result jsons, the processed tweets can be uploaded to server and user interface.
