@@ -1,9 +1,0 @@
-{'type': 'FeatureCollection',    'features': [
-{"type": "Feature","properties" : {
-"id": 992827771326906368
-"date": "Sat May 05 18:06:01 +0000 2018",
-"text":"Always turn pain into power. Those words can't bring you down."
-}"geometry" : {
-"type": "Point", "coordinates": [-78.81128617638817,39.800791900277154]
-}}
-]}
