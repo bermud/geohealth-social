@@ -75,5 +75,5 @@ for d in tweets:
         yLong = y + y0
         print('"type": "Point", "coordinates": [{},{}]'.format(yLong,xLat), file=output)
     print(endF, file=output)
-    print(endAll, file=output)
+print(endAll, file=output)
 
