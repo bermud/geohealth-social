@@ -1,0 +1,57 @@
+{'type': 'FeatureCollection',    'features': [
+{"type": "Feature","properties" : {
+"id": 993365438703767553
+"date": "Mon May 07 05:42:31 +0000 2018",
+"text":"RT @Jazzyhenryboo: You know you mature when you can smack a bitch and choose not too😂"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.25140053319218,38.09754053909254]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993322432915177472
+"date": "Mon May 07 02:51:37 +0000 2018",
+"text":"RT @Jazzyhenryboo: You know you mature when you can smack a bitch and choose not too😂"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.298560513324,38.42444346553094]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993220084750540802
+"date": "Sun May 06 20:04:55 +0000 2018",
+"text":"RT @Jazzyhenryboo: You know you mature when you can smack a bitch and choose not too😂"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.68019986055137,37.83462238182444]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993206220801572865
+"date": "Sun May 06 19:09:50 +0000 2018",
+"text":"RT @Jazzyhenryboo: You know you mature when you can smack a bitch and choose not too😂"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.32428608603358,38.331784151300724]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993205724170907649
+"date": "Sun May 06 19:07:52 +0000 2018",
+"text":"RT @Jazzyhenryboo: You know you mature when you can smack a bitch and choose not too😂"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.93893108444678,38.159328326946756]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993203589798645760
+"date": "Sun May 06 18:59:23 +0000 2018",
+"text":"You know you mature when you can smack a bitch and choose not too😂"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.2806892,38.3856154]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 992834097281228800
+"date": "Sat May 05 18:31:09 +0000 2018",
+"text":"@lauratrags tbh i think that’s why so many serial killers spawn in the midwest"
+}"geometry" : {
+"type": "Point", "coordinates": [-75.472976,37.8305045]
+}}
+]}
