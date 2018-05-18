@@ -1,0 +1,17 @@
+{'type': 'FeatureCollection',    'features': [
+{"type": "Feature","properties" : {
+"id": 993582794155741189
+"date": "Mon May 07 20:06:12 +0000 2018",
+"text":""Rather than rule the world through pain... I wish you had moved past the pain and harnessed your power to bring ab… https://t.co/2tyCcrUUVl"
+}"geometry" : {
+"type": "Point", "coordinates": [-77.4999269,39.3252186]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 991767386616467458
+"date": "Wed May 02 19:52:25 +0000 2018",
+"text":"Diamond and Silk would be working at a laundry mat that only washes klan robes.  Ben Carson would be the family doc… https://t.co/mP59KEODQE"
+}"geometry" : {
+"type": "Point", "coordinates": [-77.48996250799053,39.54782368894781]
+}}
+]}
