@@ -1,2 +1,5 @@
 Script for tweet processing: togeo_ProjectFinal.py
+
+Note: lines 63, 66-67, 79, 82-83 need to be changed according to the region the tweets are from.
+
 Once run against the search result jsons, the processed tweets can be uploaded to server and user interface.
