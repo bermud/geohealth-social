@@ -1,0 +1,33 @@
+{'type': 'FeatureCollection',    'features': [
+{"type": "Feature","properties" : {
+"id": 993909030136565761
+"date": "Tue May 08 17:42:33 +0000 2018",
+"text":"pop perc get chills"
+}"geometry" : {
+"type": "Point", "coordinates": [-76.6607400755637,38.95539113020452]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993676527505199104
+"date": "Tue May 08 02:18:40 +0000 2018",
+"text":"Pop me a perc and take off..."
+}"geometry" : {
+"type": "Point", "coordinates": [-76.36814862822662,39.150521789044824]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 993125256926724096
+"date": "Sun May 06 13:48:07 +0000 2018",
+"text":"I just took a perc and now I’m on another level"
+}"geometry" : {
+"type": "Point", "coordinates": [-76.622759,39.3028816]
+}}
+]}
+{"type": "Feature","properties" : {
+"id": 992064114460712966
+"date": "Thu May 03 15:31:31 +0000 2018",
+"text":"@GiveEmTwoo Nigga probably popping damn percs, shit lame but he aint on no heroin🤷🏾‍♂️ I just feel like niggas taking him to serious"
+}"geometry" : {
+"type": "Point", "coordinates": [-76.6478508629454,38.960231748051626]
+}}
+]}
