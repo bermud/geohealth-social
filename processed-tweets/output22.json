@@ -6,7 +6,6 @@
 }"geometry" : {
 "type": "Point", "coordinates": [-78.69729241353579,39.39188760270798]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 994493052793176066
 "date": "Thu May 10 08:23:15 +0000 2018",
@@ -14,7 +13,6 @@
 }"geometry" : {
 "type": "Point", "coordinates": [-78.60000969396589,39.69456028550717]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 993584088895324167
 "date": "Mon May 07 20:11:21 +0000 2018",
@@ -24,7 +22,6 @@ Poppin… https://t.co/jVJgQoPYY8"
 }"geometry" : {
 "type": "Point", "coordinates": [-78.68322235111947,39.869867300293976]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 991694634928693249
 "date": "Wed May 02 15:03:20 +0000 2018",

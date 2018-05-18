@@ -1,4 +1,4 @@
-{'type': 'FeatureCollection',    'features': [
+{'type': 'FeatureCollection', 'features': [
 {"type": "Feature","properties" : {
 "id": 994493052793176066
 "date": "Thu May 10 08:23:15 +0000 2018",
@@ -6,7 +6,6 @@
 }"geometry" : {
 "type": "Point", "coordinates": [-79.03779307452335,39.46251599867201]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 993622784776470529
 "date": "Mon May 07 22:45:07 +0000 2018",
