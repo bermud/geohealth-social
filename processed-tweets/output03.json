@@ -6,7 +6,6 @@
 }"geometry" : {
 "type": "Point", "coordinates": [-76.7172036659836,39.371903794748846]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 993822256143962112
 "date": "Tue May 08 11:57:44 +0000 2018",
@@ -14,7 +13,6 @@
 }"geometry" : {
 "type": "Point", "coordinates": [-77.2327573,39.004005400000004]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 993660634628874240
 "date": "Tue May 08 01:15:31 +0000 2018",
@@ -22,7 +20,6 @@
 }"geometry" : {
 "type": "Point", "coordinates": [-76.559759,39.3418816]
 }}
-]}
 {"type": "Feature","properties" : {
 "id": 993601432510222337
 "date": "Mon May 07 21:20:16 +0000 2018",
