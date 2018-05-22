@@ -1,0 +1,67 @@
+
+var radii = 
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.616667,39.283333 ]
+    },
+    "properties": {
+    "OBJECT_ID":1,
+    "LOC":"Baltimore",
+    "RAD":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4500538,39.4689151 ]
+    },
+    "properties": {
+    "OBJECT_ID":2,
+    "LOC":"Western MD",
+    "RAD":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.335,38.708889 ]
+    },
+    "properties": {
+    "OBJECT_ID":3,
+    "LOC":"Southern MD",
+    "RAD":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5437228,38.1756072 ]
+    },
+    "properties": {
+    "OBJECT_ID":4,
+    "LOC":"Southeast MD",
+    "RAD":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7818776,39.660027 ]
+    },
+    "properties": {
+    "OBJECT_ID":5,
+    "LOC":"Panhandle",
+    "RAD":60
+    }
+  }
+]
+}

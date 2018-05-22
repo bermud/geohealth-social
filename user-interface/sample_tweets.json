@@ -1,0 +1,67 @@
+
+var sampleTweets = 
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '992064114460712966'},
+"date": "Thu May 03 15:31:31 +0000 2018",
+"text":"@GiveEmTwoo Nigga probably popping damn percs, shit lame but he aint on no heroin🤷🏾‍♂️ I just feel like niggas taking him to serious"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.4891359448923,39.66307318129303]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993125256926724096'},
+"date": "Sun May 06 13:48:07 +0000 2018",
+"text":"I just took a perc and now I’m on another level"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.526759,39.3748816]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '991502658157596672'},
+"date": "Wed May 02 02:20:29 +0000 2018",
+"text":"@LilTae_RBC You Say you need Gass? WaMM. You say you need need Percs? WaMM. Shit Crank bro🔥"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.915536,38.884882999999995]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993676527505199104'},
+"date": "Tue May 08 02:18:40 +0000 2018",
+"text":"Pop me a perc and take off..."
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.55187073817957,39.37480405418526]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993909030136565761'},
+"date": "Tue May 08 17:42:33 +0000 2018",
+"text":"pop perc get chills"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.40005399270551,39.403183817955195]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '992840493527642115'},
+"date": "Sat May 05 18:56:34 +0000 2018",
+"text":"HEART HURT NEED A PERC"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.900809,38.950384]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994969452734242821'},
+"date": "Fri May 11 15:56:17 +0000 2018",
+"text":"Is a sew in supposed to hurt? Bc this joint ridiculous. Been popping pills since last night"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.8376397,38.8750002]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994353932766994432'},
+"date": "Wed May 09 23:10:26 +0000 2018",
+"text":"I will mess myself up, I will bring myself pain. You will stay out of it, You will stay away. Hurting me is not your problem."
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.55628741080517,39.41258887629866]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994772159519232000'},
+"date": "Fri May 11 02:52:19 +0000 2018",
+"text":"@cloverdynx Oh yes, they hurt. But not bad enough to make me not get them repierced! Twice xD Then again, I have a higher pain tolerance"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.681759,39.3618816]
+}}
+]}

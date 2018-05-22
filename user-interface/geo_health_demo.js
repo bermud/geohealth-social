@@ -10,41 +10,40 @@ var baseLayers = {
     "Streets": streets
 };
 
-
-<!-- Mock data of Shady Grove campus for adding polygons -->
-var shadyCoords = [          
-                    [39.095431, -77.201409],
-                    [39.093194, -77.197503],
-                    [39.092994, -77.196757],
-                    [39.091408, -77.197956],
-                    [39.090456, -77.201567],
-                    [39.093537, -77.202562],
-					[39.095272, -77.201869]
-        ];
-
-var shadygrove = L.polygon(shadyCoords, {
-		color : 'green',
-		fillcolor : 'green',
-		fillopacity : 1
-		});		
-<!-- End Shady Grove data -->
 		
 var map = L.map('map', {
 		center: [38.922778, -76.628333],
 		zoom: 8,
 		layers: [grayscale]
 	});
-	
 
-var countystyle = {
-	fillColor: "#0000ff",
-	color: "#33cc33",
-	weight: 3,
-	opacity: 1,
-	fillopacity: 1
-	};
-	
-var opiates_MarkerOptions = {
+var clusterSettings = { 
+	maxClusterRadius : 30,
+	showCoverageOnHover: true
+  };
+
+var markerClustersMock = L.markerClusterGroup(clusterSettings);
+var markerClustersSample = L.markerClusterGroup(clusterSettings);
+
+
+
+var radiiStyle =  {
+		fill : false,
+		weight : 5,
+		color : 'red',
+		radius : 20000
+};	
+
+
+
+radiiLayer = L.geoJson(radii, {
+    pointToLayer: function (feature, latlng) {
+        return L.circle(latlng, radiiStyle).setStyle(radiiStyle).setRadius(1000 * feature.properties.RAD);
+    }, onEachFeature: onEachFeature
+});
+
+
+var mock_MarkerOptions = {
     radius: 10,
     fillColor: "#ff0000",
 	color: "#33cc33",
@@ -53,17 +52,13 @@ var opiates_MarkerOptions = {
     fillOpacity: 0.6
 };
 
-/* COMMENT OUT THIS PART WHILE I FIGURE OUT THE REST
-var narcan_MarkerOptions = {
-    radius: 10,
-    fillColor: "#0000ff",
-    color: "#33cc33",
-    weight: 2,
-    opacity: 1,
-    fillOpacity: 0.6
-};
+mockTweetsLayer = L.geoJson(myTweets, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, mock_MarkerOptions);
+    }, onEachFeature: onEachFeature
+});
 
-var overdose_MarkerOptions = {
+var sample_MarkerOptions = {
     radius: 10,
     fillColor: "#55bc36",
     color: "#33cc33",
@@ -72,34 +67,24 @@ var overdose_MarkerOptions = {
     fillOpacity: 0.6
 };
 
-
-narcanTweetsLayer = L.geoJson(sarah_tweets, {
+sampleTweetsLayerRef = L.geoJson(sampleTweets, {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng,narcan_MarkerOptions);
+        return L.circleMarker(latlng, sample_MarkerOptions);
     }, onEachFeature: onEachFeature
 });
 
-overdoseTweetsLayer = L.geoJson(hunt_tweets, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng,overdose_MarkerOptions);
-    }, onEachFeature: onEachFeature
+
+countiesLayer = L.geoJson(counties, {
+	color: "#0000ff",
+	weight: 2,
+	fill: false
 });
-
-var tweets = L.layerGroup([opiatesTweetsLayer, narcanTweetsLayer, overdoseTweetsLayer]);
-*/
-var markerClusters = L.markerClusterGroup();
-
-
-opiatesTweetsLayer = L.geoJson(myTweets, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, opiates_MarkerOptions);
-    }, onEachFeature: onEachFeature
-});
-
 	
 var overlays = {
-	"Shady Grove" : shadygrove,
-	"Opiates Tweets" : markerClusters.addLayer(opiatesTweetsLayer)
+	"Counties" : countiesLayer,
+	"Twitter Search Radii" : radiiLayer,
+	"Mock Tweets" : markerClustersMock.addLayer(mockTweetsLayer),
+	"Sample Tweets" : markerClustersSample.addLayer(sampleTweetsLayerRef)
 };
 
 
@@ -109,8 +94,9 @@ map.addControl(lc);
 
  function onEachFeature(feature, layer) {
  if (feature.properties && feature.properties.text) {
- layer.bindPopup('<b>User: </b>' + feature.properties.username + '<br><br>'
-		+ '<b>Tweet: </b>' + feature.properties.text + '<br><br>'
+ layer.bindPopup('<b>ID: </b>' + feature.properties.id.$numberLong + '<br>'
+		+ '<b>Date/Time: </b>' + feature.properties.date + '<br><br>'
+		+ '<b>Tweet: </b>' + feature.properties.text
 		);
  }
  }

@@ -1,0 +1,20 @@
+var sampleTweetsRef = 
+{ "features": [
+	{"geometry" : {"type": "Point", "coordinates": [-77.4891359448923,39.66307318129303]},
+	"type": "Feature",
+	"properties" : {
+		"id": {'$numberLong': '992064114460712966'},
+		"date": "Thu May 03 15:31:31 +0000 2018",
+		"text":"@GiveEmTwoo Nigga probably popping damn percs, shit lame but he aint on no heroinðŸ¤·ðŸ¾â€â™‚ï¸ I just feel like niggas taking him to serious"
+	} 
+	},
+	{"geometry" : {"type": "Point", "coordinates": [-76.526759,39.3748816]},
+	"type": "Feature",
+	"properties" : {
+		"id": {'$numberLong': '991502658157596672'},
+		"date": "Wed May 02 02:20:29 +0000 2018",
+		"text":"@LilTae_RBC You Say you need Gass? WaMM. You say you need need Percs? WaMM. Shit Crank broðŸ”¥"
+	}
+	}
+], "type": "FeatureCollection"
+}
