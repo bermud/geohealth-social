@@ -1,11 +1,11 @@
 # Overview
 
-The Twitter layer contains tweets related to opioid use and recovery. Using the Python Twitter Tools API ([https://pypi.org/project/twitter/](https://pypi.org/project/twitter/)), tweets around opioid use were collected and stored in JSON files. (Note: This API appears to return only the first 15 results of a search. To scale up this project, it may be necessary to adopt a method like: https://github.com/janezkranjc/twitter-tap)
+The Twitter layer contains tweets related to opioid use and recovery. Using the Python Twitter Tools API (https://pypi.org/project/twitter/), tweets around opioid use were collected and stored in JSON files. (Note: This API appears to return only the first 15 results of a search. To scale up this project, it may be necessary to adopt a method like: https://github.com/janezkranjc/twitter-tap)
 
-The Twitter API requires that the user have a twitter account and verified token. The tokens were stored in a Text file that was referred to in the python script. The [projectTest.py](https://github.com/bermud/geohealth-social/blob/master/analytics/projectTest.py) in the analytics folder contains the reference. 
+The Twitter API requires that the user have a twitter account and verified token. The tokens were stored in a Text file that was referred to in the python script. The https://github.com/bermud/geohealth-social/blob/master/analytics/projectTest.py in the analytics folder contains the reference. 
 
 ## First Set of Tweets
-We developed several sets of keywords for search queries. The [projectTest.py](https://github.com/bermud/geohealth-social/blob/master/analytics/projectTest.py) in the analytics folder is the script used to extract these tweets.
+We developed several sets of keywords for search queries. The https://github.com/bermud/geohealth-social/blob/master/analytics/projectTest.py in the analytics folder is the script used to extract these tweets.
 
 ### Opioid use and behavior
 * need OR want OR needing OR wanting
@@ -36,6 +36,6 @@ Additional keywords were generated, and searched using the same geographic limit
 * overdoes OR opioidcrisis OR recovery OR formeraddict OR relapse OR safeinjectionsites OR dependency
 
 # Geocoding
-We transformed the output using a Python script called [togeo_ProjectFinal.py](https://github.com/bermud/geohealth-social/blob/master/analytics/togeo_ProjectFinal.py) .  The script kept only the tweet properties we were interested in and geocoded each Tweet, using the GeoPy library where necessary ([https://geopy.readthedocs.io/en/stable/](https://geopy.readthedocs.io/en/stable/)). In order to display the Tweets as points on a map, we need each to have a set of lat/long coordinates.  We created a series of if...else statements to account for the various ways Twitter describes location.
+We transformed the output using a Python script called https://github.com/bermud/geohealth-social/blob/master/analytics/togeo_ProjectFinal.py .  The script kept only the tweet properties we were interested in and geocoded each Tweet, using the GeoPy library where necessary (https://geopy.readthedocs.io/en/stable/). In order to display the Tweets as points on a map, we need each to have a set of lat/long coordinates.  We created a series of if...else statements to account for the various ways Twitter describes location.
 
 If a tweet had precise coordinates already, those were kept. If a tweet has a city-level location, the script finds the lat/long center point of the city's bounding box and then randomly adds or subtracts a fraction.  This randomization serves to prevent multiple tweets being stacked on top of each other in the map. If a tweet has no city identified, the script uses the user's self identified profile location along with geopy's geocoding function to generate coordinates. Finally, if there is no available location data, a random lat/long point in Maryland will be generated.
