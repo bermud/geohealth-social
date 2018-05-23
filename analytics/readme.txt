@@ -1,6 +1,6 @@
 # Overview
 
-The Twitter layer contains tweets related to opioid use and recovery. Using the Python Twitter Tools API ([https://pypi.org/project/twitter/](https://pypi.org/project/twitter/)), tweets around opioid use were collected and stored in JSON files. (Note: This API appears to return only the first 15 results of a search. To scale up this project, it may be necessary to adopt a method like: [https://github.com/janezkranjc/twitter-tap](https://github.com/janezkranjc/twitter-tap) )
+The Twitter layer contains tweets related to opioid use and recovery. Using the Python Twitter Tools API ([https://pypi.org/project/twitter/](https://pypi.org/project/twitter/)), tweets around opioid use were collected and stored in JSON files. (Note: This API appears to return only the first 15 results of a search. To scale up this project, it may be necessary to adopt a method like: https://github.com/janezkranjc/twitter-tap)
 
 The Twitter API requires that the user have a twitter account and verified token. The tokens were stored in a Text file that was referred to in the python script. The [projectTest.py](https://github.com/bermud/geohealth-social/blob/master/analytics/projectTest.py) in the analytics folder contains the reference. 
 
