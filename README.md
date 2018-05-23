@@ -1,7 +1,7 @@
 # geohealth-social
 A geospatial application that uses social media data for health analytics.
 
-This project is for UMBC GES 772 - 2018
+This project is for UMBC GES 771 - 2018
 
 Sonsored by HSR http://healthsolutionsresearch.org/
 
