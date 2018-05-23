@@ -1,0 +1,196 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 20:06:12 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993582794155741189", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/2tyCcrUUVl"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 3, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993582794155741189, 
+            "id_str": "993582794155741189", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "\"Rather than rule the world through pain... I wish you had moved past the pain and harnessed your power to bring ab\u2026 https://t.co/2tyCcrUUVl", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri May 17 01:25:57 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "all life is precious", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 8433, 
+                "follow_request_sent": false, 
+                "followers_count": 318, 
+                "following": false, 
+                "friends_count": 289, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 1434433261, 
+                "id_str": "1434433261", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Frederick, MD", 
+                "name": "Brett", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434433261/1510873726", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/951344958925045760/n055M_KE_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/951344958925045760/n055M_KE_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "brettsonny", 
+                "statuses_count": 2061, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 19:52:25 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/991767386616467458", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/mP59KEODQE"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991767386616467458, 
+            "id_str": "991767386616467458", 
+            "in_reply_to_screen_name": "GPhat1", 
+            "in_reply_to_status_id": 991767384728985600, 
+            "in_reply_to_status_id_str": "991767384728985600", 
+            "in_reply_to_user_id": 86260116, 
+            "in_reply_to_user_id_str": "86260116", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "Diamond and Silk would be working at a laundry mat that only washes klan robes.  Ben Carson would be the family doc\u2026 https://t.co/mP59KEODQE", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Oct 30 07:17:50 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Music, Architecture,", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "gphat.com", 
+                                "expanded_url": "http://gphat.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/c0C0if246W"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 0, 
+                "follow_request_sent": false, 
+                "followers_count": 69, 
+                "following": false, 
+                "friends_count": 137, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 86260116, 
+                "id_str": "86260116", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "Frederick, Md", 
+                "name": "E G", 
+                "notifications": false, 
+                "profile_background_color": "1A1B1F", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/990488694921531392/HU2VRcfY_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/990488694921531392/HU2VRcfY_normal.jpg", 
+                "profile_link_color": "2FC2EF", 
+                "profile_sidebar_border_color": "181A1E", 
+                "profile_sidebar_fill_color": "252429", 
+                "profile_text_color": "666666", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "GPhat1", 
+                "statuses_count": 199, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/c0C0if246W", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }
+]

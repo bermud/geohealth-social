@@ -1,0 +1,1991 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:08:25 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994942307282583552", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/smPJRzPj2A"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994942307282583552, 
+            "id_str": "994942307282583552", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+            "text": "One of the leading killers of Australia's endearing koalas is a debilitating bacterial infection: chlamydia. Go to\u2026 https://t.co/smPJRzPj2A", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Dec 02 07:44:06 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Latest News & Updated Information from different part of the world. | Facebook : https://t.co/TS7Cqjq2Dp", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "facebbok.com/globalnewsviews", 
+                                "expanded_url": "http://facebbok.com/globalnewsviews", 
+                                "indices": [
+                                    81, 
+                                    104
+                                ], 
+                                "url": "https://t.co/TS7Cqjq2Dp"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "global-news-views.news", 
+                                "expanded_url": "http://global-news-views.news", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/Tb64ZQuc40"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 0, 
+                "follow_request_sent": false, 
+                "followers_count": 50, 
+                "following": false, 
+                "friends_count": 0, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 936863529893740544, 
+                "id_str": "936863529893740544", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Global News Views", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/936863529893740544/1518698638", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/964114436091867136/VMqP0xpL_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/964114436091867136/VMqP0xpL_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "GNewsViews", 
+                "statuses_count": 23114, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/Tb64ZQuc40", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:05:36 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 1911823716, 
+                        "id_str": "1911823716", 
+                        "indices": [
+                            3, 
+                            17
+                        ], 
+                        "name": "\u2b50\ufe0f Li Da God \u2744\ufe0f", 
+                        "screen_name": "LiStarChillin"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994941598482956288, 
+            "id_str": "994941598482956288", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 13:54:49 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994938882365054976", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/SE1TF25QLs"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 1, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994938882365054976, 
+                "id_str": "994938882365054976", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Why dont yall females put in yall bio \u201cdont go smack at me\u201d cause yall only interested in what yall interested in .\u2026 https://t.co/SE1TF25QLs", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Sep 27 18:04:17 +0000 2013", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "\u2b50\ufe0f \u30b9\u30bf\u30fc\u30c1\u30ea\u30f3 \ud83e\udd88\u2744\ufe0fBOOKING:marshallithegod@gmail.com", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "spnr.la/5tumrRsb", 
+                                    "expanded_url": "http://spnr.la/5tumrRsb", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/0KFNidxskS"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5682, 
+                    "follow_request_sent": false, 
+                    "followers_count": 377, 
+                    "following": false, 
+                    "friends_count": 170, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": true, 
+                    "id": 1911823716, 
+                    "id_str": "1911823716", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 1, 
+                    "location": "Landover, MD", 
+                    "name": "\u2b50\ufe0f Li Da God \u2744\ufe0f", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911823716/1510858703", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "LiStarChillin", 
+                    "statuses_count": 17514, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/0KFNidxskS", 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @LiStarChillin: Why dont yall females put in yall bio \u201cdont go smack at me\u201d cause yall only interested in what yall interested in .....\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Apr 25 17:48:09 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "22 Years Young - Official Producer of SKULLBOYZ ENT - For Beats or Business: itzz1UP@gmail.com #GloryToGod \u2620\ufe0f#SKULLZ\u2620\ufe0f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4837, 
+                "follow_request_sent": false, 
+                "followers_count": 855, 
+                "following": false, 
+                "friends_count": 613, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 287789841, 
+                "id_str": "287789841", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 8, 
+                "location": "", 
+                "name": "#SKULLZ", 
+                "notifications": false, 
+                "profile_background_color": "0099B9", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520966413716971520/yZABGSxo.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520966413716971520/yZABGSxo.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/287789841/1517642417", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/992034108208484352/pz4RKjO7_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/992034108208484352/pz4RKjO7_normal.jpg", 
+                "profile_link_color": "0099B9", 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "profile_sidebar_fill_color": "95E8EC", 
+                "profile_text_color": "3C3940", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "iTz1UP", 
+                "statuses_count": 40929, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 13:54:49 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994938882365054976", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/SE1TF25QLs"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994938882365054976, 
+            "id_str": "994938882365054976", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Why dont yall females put in yall bio \u201cdont go smack at me\u201d cause yall only interested in what yall interested in .\u2026 https://t.co/SE1TF25QLs", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Sep 27 18:04:17 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u2b50\ufe0f \u30b9\u30bf\u30fc\u30c1\u30ea\u30f3 \ud83e\udd88\u2744\ufe0fBOOKING:marshallithegod@gmail.com", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "spnr.la/5tumrRsb", 
+                                "expanded_url": "http://spnr.la/5tumrRsb", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/0KFNidxskS"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 5682, 
+                "follow_request_sent": false, 
+                "followers_count": 377, 
+                "following": false, 
+                "friends_count": 170, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 1911823716, 
+                "id_str": "1911823716", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Landover, MD", 
+                "name": "\u2b50\ufe0f Li Da God \u2744\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441342686780325888/n8gocajC.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911823716/1510858703", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/975804221533630465/bz4dkOZK_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LiStarChillin", 
+                "statuses_count": 17514, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/0KFNidxskS", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 11:25:19 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994901260406022144", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/QGXRgwceTt"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 34756550, 
+                        "id_str": "34756550", 
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "name": "CHIZ \ud83d\ude82\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8", 
+                        "screen_name": "CHIZMAGA"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994901260406022144, 
+            "id_str": "994901260406022144", 
+            "in_reply_to_screen_name": "CHIZMAGA", 
+            "in_reply_to_status_id": 994799746421350401, 
+            "in_reply_to_status_id_str": "994799746421350401", 
+            "in_reply_to_user_id": 34756550, 
+            "in_reply_to_user_id_str": "34756550", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@CHIZMAGA 1st they said he was going to cause a war now they say he is being too nice =which I believe the correct\u2026 https://t.co/QGXRgwceTt", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Mar 20 15:11:30 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Love my Lord Jesus Christ &in love with my husband, luv our great military Pres Trump FREEDOM of speech Back the Blue& luv critters music art & Harley Davidson", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 61210, 
+                "follow_request_sent": false, 
+                "followers_count": 4052, 
+                "following": false, 
+                "friends_count": 4846, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 711570869479284736, 
+                "id_str": "711570869479284736", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 27, 
+                "location": "California, USA", 
+                "name": "Ziggy Williamson", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/711570869479284736/1521641645", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/722997770781528064/3o3D2ZNC_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/722997770781528064/3o3D2ZNC_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "zigzdiamondz2", 
+                "statuses_count": 45656, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 07:01:11 +0000 2018", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            76, 
+                            84
+                        ], 
+                        "text": "vrai777"
+                    }
+                ], 
+                "symbols": [
+                    {
+                        "indices": [
+                            87, 
+                            89
+                        ], 
+                        "text": "v"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "display_url": "news.google.com/news/url?sa=t&\u2026", 
+                        "expanded_url": "http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHjKWSbgfjAjnpXvAlVsZUWcCMrWw&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=iT71WqCKB5nY3gHborXoBQ&url=https://www.economist.com/news/united-states/21742159-children-whose-parents-are-eligible-medicaid-are-much-more-likely-be-prescribed", 
+                        "indices": [
+                            104, 
+                            127
+                        ], 
+                        "url": "https://t.co/94pFliDWza"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994834788182904832, 
+            "id_str": "994834788182904832", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>", 
+            "text": "Attention deficitToo often, poverty is treated with pills - The Economist \u2604 #vrai777 \u26f1 $v \u2105 Economist $ https://t.co/94pFliDWza", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Mar 07 02:13:26 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Startup Zealot \u2604 archiving best \u262f News & latest\u23f3Trend #1st \u27a4 retweet \u267b\ufe0f \u2100 @Verified \u2105 Twitter\u00ae \u23f0 Retweets:endorphins #Tweets\u26a1Endorsement \u274c Everywhere \u25b6\ufe0f vrai777", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "vrai777.me", 
+                                "expanded_url": "http://www.vrai777.me", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/pQjtBr5aMV"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 14, 
+                "follow_request_sent": false, 
+                "followers_count": 7810, 
+                "following": false, 
+                "friends_count": 67, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 23152434, 
+                "id_str": "23152434", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4236, 
+                "location": "California, USA", 
+                "name": "Vishma Rai\u26a1\ufe0f (\u03d1 \u211bai)", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/664246496125018112/h8FYP7om.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/664246496125018112/h8FYP7om.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/23152434/1447378577", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/688775800284266496/qhWTo08H_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/688775800284266496/qhWTo08H_normal.png", 
+                "profile_link_color": "DD2E44", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "vrai777", 
+                "statuses_count": 1224494, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "regular", 
+                "url": "https://t.co/pQjtBr5aMV", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 06:15:32 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994823298927284224, 
+            "id_str": "994823298927284224", 
+            "in_reply_to_screen_name": "AbbyStein39", 
+            "in_reply_to_status_id": 994456591553331200, 
+            "in_reply_to_status_id_str": "994456591553331200", 
+            "in_reply_to_user_id": 4285910839, 
+            "in_reply_to_user_id_str": "4285910839", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "Day 835: Tried to meditate my headache away. It almost worked. Of course, I took a painkiller too. \u263a", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Nov 19 04:01:22 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I have OCD. Don't make me retweet myself.\nSupporter of the gay agenda. Writer, speaker, storyteller.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "ocdocdocdocdblog.com", 
+                                "expanded_url": "http://ocdocdocdocdblog.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/HLQJbTbXjb"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 19471, 
+                "follow_request_sent": false, 
+                "followers_count": 457, 
+                "following": false, 
+                "friends_count": 690, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 4285910839, 
+                "id_str": "4285910839", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 18, 
+                "location": "California, USA", 
+                "name": "Abby Redstone", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/667200830865453057/w7Sc-ush.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/667200830865453057/w7Sc-ush.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4285910839/1476645408", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/987391829954838528/tNnnUQ0X_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/987391829954838528/tNnnUQ0X_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "AbbyStein39", 
+                "statuses_count": 7111, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/HLQJbTbXjb", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 03:25:43 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994780563507765248", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/nr3DCaQE0a"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1010297498, 
+                        "id_str": "1010297498", 
+                        "indices": [
+                            0, 
+                            16
+                        ], 
+                        "name": "~*Euphoria*~", 
+                        "screen_name": "PrincessJanai20"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994780563507765248, 
+            "id_str": "994780563507765248", 
+            "in_reply_to_screen_name": "PrincessJanai20", 
+            "in_reply_to_status_id": 994780134732390400, 
+            "in_reply_to_status_id_str": "994780134732390400", 
+            "in_reply_to_user_id": 1010297498, 
+            "in_reply_to_user_id_str": "1010297498", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@PrincessJanai20 The 29th ahhh I\u2019m too excited !!!! And that\u2019s good do you have to take medication? They have me on\u2026 https://t.co/nr3DCaQE0a", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Nov 26 15:32:05 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "You on a Queens Page \ud83d\udc51\ud83d\ude4c\ud83c\udffe#Juuuuuaawwaaan\ud83d\ude2b\ud83d\udc95 #APU'20\ud83c\udf93 R.I.P moms\ud83d\ude14 God brought me a lovely friend.\ud83d\udc95 Proverbs 4:26 | Bury me in the ocean | #TheBlackMovement", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "teamworkonline.com", 
+                                "expanded_url": "http://teamworkonline.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/yypqWdureK"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 15956, 
+                "follow_request_sent": false, 
+                "followers_count": 790, 
+                "following": false, 
+                "friends_count": 778, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2215912554, 
+                "id_str": "2215912554", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "California, USA", 
+                "name": "Masterpiece \ud83d\udc51\ud83d\ude4c\ud83c\udffe\ud83d\udc8d", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2215912554/1522815642", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994686190774206464/U7XjuW80_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994686190774206464/U7XjuW80_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "jayyswoorld_", 
+                "statuses_count": 28378, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/yypqWdureK", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 00:21:48 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994734281833549825", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/B2Y1rbW23u"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 5, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994734281833549825, 
+            "id_str": "994734281833549825", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.608815, 
+                                38.9536925
+                            ], 
+                            [
+                                -76.502639, 
+                                38.9536925
+                            ], 
+                            [
+                                -76.502639, 
+                                39.03047
+                            ], 
+                            [
+                                -76.608815, 
+                                39.03047
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Parole, MD", 
+                "id": "4e1f10a172f7a2ab", 
+                "name": "Parole", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/4e1f10a172f7a2ab.json"
+            }, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "SERIOUS KIDS ONLY.. Need to find two 17U killers for the upcoming July Live period. Looking at all positions but wo\u2026 https://t.co/B2Y1rbW23u", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 05 23:32:37 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Category 6", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 55, 
+                "follow_request_sent": false, 
+                "followers_count": 2746, 
+                "following": false, 
+                "friends_count": 3414, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 515977268, 
+                "id_str": "515977268", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 15, 
+                "location": "Grind Central Station", 
+                "name": "My \ud83c\udf0a Wave Different", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/515977268/1519701446", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/968323352304680964/7bYaCYIF_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/968323352304680964/7bYaCYIF_normal.jpg", 
+                "profile_link_color": "0071B3", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "willie_anderson", 
+                "statuses_count": 7991, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 00:19:57 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 237040801, 
+                        "id_str": "237040801", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "R.I.P Ma\u2764\ufe0f", 
+                        "screen_name": "Swaggn_Domo"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994733815364046853, 
+            "id_str": "994733815364046853", 
+            "in_reply_to_screen_name": "Swaggn_Domo", 
+            "in_reply_to_status_id": 994704238327533568, 
+            "in_reply_to_status_id_str": "994704238327533568", 
+            "in_reply_to_user_id": 237040801, 
+            "in_reply_to_user_id_str": "237040801", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@Swaggn_Domo Vitamin C pills too and if possible get rest", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Dec 22 19:42:08 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Graduate #TeamMSU #TeamBeautiful #TeamBSinAccounting #TeamMBA", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 68, 
+                "follow_request_sent": false, 
+                "followers_count": 289, 
+                "following": false, 
+                "friends_count": 242, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 229582682, 
+                "id_str": "229582682", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "Bowie Maryland", 
+                "name": "Jazmyn \u264b\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "FF6699", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437124204/qukhv.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437124204/qukhv.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/229582682/1509195833", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/924260427177046016/Y58GOO8I_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/924260427177046016/Y58GOO8I_normal.jpg", 
+                "profile_link_color": "B40B43", 
+                "profile_sidebar_border_color": "CC3366", 
+                "profile_sidebar_fill_color": "E5507E", 
+                "profile_text_color": "362720", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "lovejazzee", 
+                "statuses_count": 32451, 
+                "time_zone": "Central Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 00:15:32 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994732704208957441", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/QtsIqNESBE"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 11, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994732704208957441, 
+            "id_str": "994732704208957441", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.608815, 
+                                38.9536925
+                            ], 
+                            [
+                                -76.502639, 
+                                38.9536925
+                            ], 
+                            [
+                                -76.502639, 
+                                39.03047
+                            ], 
+                            [
+                                -76.608815, 
+                                39.03047
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Parole, MD", 
+                "id": "4e1f10a172f7a2ab", 
+                "name": "Parole", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/4e1f10a172f7a2ab.json"
+            }, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "SERIOUS KIDS ONLY.. Need to find two 17U killers for the upcoming July Live period. Looking at all positions but wo\u2026 https://t.co/QtsIqNESBE", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 05 23:32:37 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Category 6", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 55, 
+                "follow_request_sent": false, 
+                "followers_count": 2746, 
+                "following": false, 
+                "friends_count": 3414, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 515977268, 
+                "id_str": "515977268", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 15, 
+                "location": "Grind Central Station", 
+                "name": "My \ud83c\udf0a Wave Different", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/515977268/1519701446", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/968323352304680964/7bYaCYIF_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/968323352304680964/7bYaCYIF_normal.jpg", 
+                "profile_link_color": "0071B3", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "willie_anderson", 
+                "statuses_count": 7991, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 23:01:26 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/MrGz49wcYB", 
+                        "expanded_url": "https://twitter.com/amariamontoya/status/994714057738412032/photo/1", 
+                        "id": 994713994085593088, 
+                        "id_str": "994713994085593088", 
+                        "indices": [
+                            47, 
+                            70
+                        ], 
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dc3vG36U8AAPTCl.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dc3vG36U8AAPTCl.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 408, 
+                                "resize": "fit", 
+                                "w": 426
+                            }, 
+                            "medium": {
+                                "h": 408, 
+                                "resize": "fit", 
+                                "w": 426
+                            }, 
+                            "small": {
+                                "h": 408, 
+                                "resize": "fit", 
+                                "w": 426
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/MrGz49wcYB"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/MrGz49wcYB", 
+                        "expanded_url": "https://twitter.com/amariamontoya/status/994714057738412032/photo/1", 
+                        "id": 994713994085593088, 
+                        "id_str": "994713994085593088", 
+                        "indices": [
+                            47, 
+                            70
+                        ], 
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dc3vG36U8AAPTCl.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dc3vG36U8AAPTCl.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 408, 
+                                "resize": "fit", 
+                                "w": 426
+                            }, 
+                            "medium": {
+                                "h": 408, 
+                                "resize": "fit", 
+                                "w": 426
+                            }, 
+                            "small": {
+                                "h": 408, 
+                                "resize": "fit", 
+                                "w": 426
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "animated_gif", 
+                        "url": "https://t.co/MrGz49wcYB", 
+                        "video_info": {
+                            "aspect_ratio": [
+                                71, 
+                                68
+                            ], 
+                            "variants": [
+                                {
+                                    "bitrate": 0, 
+                                    "content_type": "video/mp4", 
+                                    "url": "https://video.twimg.com/tweet_video/Dc3vG36U8AAPTCl.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994714057738412032, 
+            "id_str": "994714057738412032", 
+            "in_reply_to_screen_name": "amariamontoya", 
+            "in_reply_to_status_id": 994713380219842564, 
+            "in_reply_to_status_id_str": "994713380219842564", 
+            "in_reply_to_user_id": 3875076134, 
+            "in_reply_to_user_id_str": "3875076134", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "And I got two red pills to take the blues away https://t.co/MrGz49wcYB", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Oct 13 00:36:28 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Writer/Director // Sundance Latino Screenwriting Project // Nicholl SF // UCLA // Mgmt: Fourth Wall", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 24639, 
+                "follow_request_sent": false, 
+                "followers_count": 510, 
+                "following": false, 
+                "friends_count": 972, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 3875076134, 
+                "id_str": "3875076134", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 15, 
+                "location": "California, USA", 
+                "name": "Ana Maria Montoya", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3875076134/1519457323", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/967290456840183808/CP_PJhp4_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/967290456840183808/CP_PJhp4_normal.jpg", 
+                "profile_link_color": "DD2E44", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "amariamontoya", 
+                "statuses_count": 9333, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 22:45:15 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 17888709, 
+                        "id_str": "17888709", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "Karol \ud83c\udf3f", 
+                        "screen_name": "karolcummins"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994709983819251712, 
+            "id_str": "994709983819251712", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 09 01:23:17 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994024980043022336", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/5kE2tnFzJ2"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 3, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994024980043022336, 
+                "id_str": "994024980043022336", 
+                "in_reply_to_screen_name": "karolcummins", 
+                "in_reply_to_status_id": 994024255133118469, 
+                "in_reply_to_status_id_str": "994024255133118469", 
+                "in_reply_to_user_id": 17888709, 
+                "in_reply_to_user_id_str": "17888709", 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Cardinal Health Executive Chairman George Barrett said he is sorry that the company did not act faster to halt mill\u2026 https://t.co/5kE2tnFzJ2", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Fri Dec 05 03:24:19 +0000 2008", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "#PAM Positive Active Measures #TrumpRussia #TeamPatriot #CountryOverPartyDEM #Photography #Art Honor/Respect: JB, DOJ, DOD, FBI, NSA, CIA. #WorldRenaissance", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "citjourno.org", 
+                                    "expanded_url": "http://www.citjourno.org/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/yjviq4HHMR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 142891, 
+                    "follow_request_sent": false, 
+                    "followers_count": 8372, 
+                    "following": false, 
+                    "friends_count": 4444, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 17888709, 
+                    "id_str": "17888709", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 55, 
+                    "location": "California, USA", 
+                    "name": "Karol \ud83c\udf3f", 
+                    "notifications": false, 
+                    "profile_background_color": "9AE4E8", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17888709/1524600191", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/990800133963923461/ptpO4qSR_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/990800133963923461/ptpO4qSR_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "BDDCAD", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "karolcummins", 
+                    "statuses_count": 181852, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/yjviq4HHMR", 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+            "text": "RT @karolcummins: Cardinal Health Executive Chairman George Barrett said he is sorry that the company did not act faster to halt millions o\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Apr 25 14:11:34 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I knew all was lost when my PhD advisor didn't understand \"SKOOKUM.\"\n\n\u2022 Eclipse, Ted Hesser, https://t.co/ah905i11Br\n\u2022 1905-2015 Top 10% Income, @Gabriel_Zucman", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/p/BZOp2BKABiP/", 
+                                "expanded_url": "http://instagram.com/p/BZOp2BKABiP/", 
+                                "indices": [
+                                    93, 
+                                    116
+                                ], 
+                                "url": "https://t.co/ah905i11Br"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 22751, 
+                "follow_request_sent": false, 
+                "followers_count": 165, 
+                "following": false, 
+                "friends_count": 1020, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 35218640, 
+                "id_str": "35218640", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en-gb", 
+                "listed_count": 1, 
+                "location": "Humanistan, Left Coast", 
+                "name": "J SS", 
+                "notifications": false, 
+                "profile_background_color": "1A1B1F", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/35218640/1505866540", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/910288026076536833/48g9QIvH_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/910288026076536833/48g9QIvH_normal.jpg", 
+                "profile_link_color": "2FC2EF", 
+                "profile_sidebar_border_color": "181A1E", 
+                "profile_sidebar_fill_color": "252429", 
+                "profile_text_color": "666666", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "J_SS_", 
+                "statuses_count": 15408, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 21:59:52 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/wFCnClk1y4", 
+                        "expanded_url": "https://twitter.com/PoptartGinger/status/994698561034977280/photo/1", 
+                        "id": 994698548712095744, 
+                        "id_str": "994698548712095744", 
+                        "indices": [
+                            110, 
+                            133
+                        ], 
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dc3hD1aUwAAIVLU.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dc3hD1aUwAAIVLU.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 480
+                            }, 
+                            "medium": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 480
+                            }, 
+                            "small": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 480
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/wFCnClk1y4"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2427977184, 
+                        "id_str": "2427977184", 
+                        "indices": [
+                            0, 
+                            14
+                        ], 
+                        "name": "Adriana Albuquerque", 
+                        "screen_name": "EarperAdriana"
+                    }, 
+                    {
+                        "id": 788080063275204609, 
+                        "id_str": "788080063275204609", 
+                        "indices": [
+                            15, 
+                            27
+                        ], 
+                        "name": "Nancy \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+                        "screen_name": "lifeadance1"
+                    }, 
+                    {
+                        "id": 479764180, 
+                        "id_str": "479764180", 
+                        "indices": [
+                            28, 
+                            41
+                        ], 
+                        "name": "Vale\u2122", 
+                        "screen_name": "Dark_Light82"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/wFCnClk1y4", 
+                        "expanded_url": "https://twitter.com/PoptartGinger/status/994698561034977280/photo/1", 
+                        "id": 994698548712095744, 
+                        "id_str": "994698548712095744", 
+                        "indices": [
+                            110, 
+                            133
+                        ], 
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dc3hD1aUwAAIVLU.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dc3hD1aUwAAIVLU.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 480
+                            }, 
+                            "medium": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 480
+                            }, 
+                            "small": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 480
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "animated_gif", 
+                        "url": "https://t.co/wFCnClk1y4", 
+                        "video_info": {
+                            "aspect_ratio": [
+                                4, 
+                                3
+                            ], 
+                            "variants": [
+                                {
+                                    "bitrate": 0, 
+                                    "content_type": "video/mp4", 
+                                    "url": "https://video.twimg.com/tweet_video/Dc3hD1aUwAAIVLU.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994698561034977280, 
+            "id_str": "994698561034977280", 
+            "in_reply_to_screen_name": "EarperAdriana", 
+            "in_reply_to_status_id": 994688645536854016, 
+            "in_reply_to_status_id_str": "994688645536854016", 
+            "in_reply_to_user_id": 2427977184, 
+            "in_reply_to_user_id_str": "2427977184", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@EarperAdriana @lifeadance1 @Dark_Light82 Anybody else think Vale might be ready to smack all three of us? \ud83d\ude02\ud83d\ude02 https://t.co/wFCnClk1y4", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Jul 09 14:47:16 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Nerd. Lesbian. Earper. Not necessarily in that order. Sometimes I write things...", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "archiveofourown.org/works/11883480", 
+                                "expanded_url": "http://archiveofourown.org/works/11883480", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/qCVFYTXz5V"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 14758, 
+                "follow_request_sent": false, 
+                "followers_count": 520, 
+                "following": false, 
+                "friends_count": 804, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 884061396480081922, 
+                "id_str": "884061396480081922", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "California, USA", 
+                "name": "Erin", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/884061396480081922/1510788469", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/983187310098366464/5CZ3NhO4_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/983187310098366464/5CZ3NhO4_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "PoptartGinger", 
+                "statuses_count": 5856, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/qCVFYTXz5V", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 21:01:27 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994683862012825600", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/NbNZ1bd9hO"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994683862012825600, 
+            "id_str": "994683862012825600", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>", 
+            "text": "Killers of 3 Mexican students dissolved 12 victims in acid Mexican authorities say drug cartel assassins who killed\u2026 https://t.co/NbNZ1bd9hO", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jun 08 15:09:58 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 0, 
+                "follow_request_sent": false, 
+                "followers_count": 9, 
+                "following": false, 
+                "friends_count": 51, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 872833083526922240, 
+                "id_str": "872833083526922240", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Charles Cora", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/872833083526922240/1496985803", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/873047706490388481/7lvdOKml_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/873047706490388481/7lvdOKml_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "CharlesCorapd", 
+                "statuses_count": 14389, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 20:24:55 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994674665388818432", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/MZuXuyOF7G"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 215207998, 
+                        "id_str": "215207998", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "Kurt Eichenwald", 
+                        "screen_name": "kurteichenwald"
+                    }, 
+                    {
+                        "id": 720374682436767744, 
+                        "id_str": "720374682436767744", 
+                        "indices": [
+                            16, 
+                            29
+                        ], 
+                        "name": "polly", 
+                        "screen_name": "polllllyyyyy"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994674665388818432, 
+            "id_str": "994674665388818432", 
+            "in_reply_to_screen_name": "kurteichenwald", 
+            "in_reply_to_status_id": 994644311030534144, 
+            "in_reply_to_status_id_str": "994644311030534144", 
+            "in_reply_to_user_id": 215207998, 
+            "in_reply_to_user_id_str": "215207998", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@kurteichenwald @polllllyyyyy 84 million laundered in plain view, you fucking idiot. But keep speculating until you\u2026 https://t.co/MZuXuyOF7G", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Feb 06 15:41:06 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Joined recently with no intention of adding or following others. Here to voice my opinion. Conservative living in CA.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 160, 
+                "follow_request_sent": false, 
+                "followers_count": 1, 
+                "following": false, 
+                "friends_count": 0, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 960901168338579458, 
+                "id_str": "960901168338579458", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "C Wilson", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/960901168338579458/1518122099", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/963298259958509568/GjOff84S_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/963298259958509568/GjOff84S_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "phuck2itter", 
+                "statuses_count": 231, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+]

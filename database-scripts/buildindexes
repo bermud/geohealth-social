@@ -1,0 +1,5 @@
+mongo tweets --eval "db.Baltimore.ensureIndex({ 'text':'text'})"
+mongo tweets --eval "db.Panhandle.ensureIndex({ 'text':'text'})"
+mongo tweets --eval "db.Southeast.ensureIndex({ 'text':'text'})"
+mongo tweets --eval "db.Southern.ensureIndex({ 'text':'text'})"
+mongo tweets --eval "db.Western.ensureIndex({ 'text':'text'})"

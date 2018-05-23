@@ -1,0 +1,2196 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 17:38:27 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994995164316712965, 
+            "id_str": "994995164316712965", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "friends with back pain: do you have any secret weapons/tips/tricks to share?", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 30 03:52:06 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "PhD candidate in health policy & ethics, dissertating on #abortionfunds. l tweet abt politics, (repro) health policy, feminism, judaism, latinx & queer stuff", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 32156, 
+                "follow_request_sent": false, 
+                "followers_count": 866, 
+                "following": false, 
+                "friends_count": 1829, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 27578677, 
+                "id_str": "27578677", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 50, 
+                "location": "Baltimore, MD", 
+                "name": "Ariella", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/27578677/1493669303", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/924106569440210944/IwoVQqXn_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/924106569440210944/IwoVQqXn_normal.jpg", 
+                "profile_link_color": "009999", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "aBigMess", 
+                "statuses_count": 56362, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 16:55:20 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994984313509810177", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/ezIKNZGKEB"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994984313509810177, 
+            "id_str": "994984313509810177", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Neck pain on the bike? This could be your problem, and it is NOT your \"bike fit.\" Have a look, and share if you kno\u2026 https://t.co/ezIKNZGKEB", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Oct 04 21:43:49 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Cycling-Specific Physical Therapy and Performance Improvement", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "fundamentalvelo.com", 
+                                "expanded_url": "https://www.fundamentalvelo.com/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/UUDd9VwPJa"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 26, 
+                "follow_request_sent": false, 
+                "followers_count": 6, 
+                "following": false, 
+                "friends_count": 75, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 783422397429014530, 
+                "id_str": "783422397429014530", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "North Bethesda, MD", 
+                "name": "Fundamental Velo", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/783422397429014530/1516822362", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/963182001917440000/aqrn38t9_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/963182001917440000/aqrn38t9_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "fundamentalvelo", 
+                "statuses_count": 8, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/UUDd9VwPJa", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 07:08:48 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994836704983908353", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/l8N9rjai8V"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 702856798445895680, 
+                        "id_str": "702856798445895680", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "Dr Ben Janaway #WWCSD", 
+                        "screen_name": "drjanaway"
+                    }, 
+                    {
+                        "id": 54176836, 
+                        "id_str": "54176836", 
+                        "indices": [
+                            11, 
+                            16
+                        ], 
+                        "name": "A6er", 
+                        "screen_name": "A6er"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994836704983908353, 
+            "id_str": "994836704983908353", 
+            "in_reply_to_screen_name": "drjanaway", 
+            "in_reply_to_status_id": 994707699433603072, 
+            "in_reply_to_status_id_str": "994707699433603072", 
+            "in_reply_to_user_id": 702856798445895680, 
+            "in_reply_to_user_id_str": "702856798445895680", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@drjanaway @A6er I can only agree with euthanasia when there is too much pain to bear seems this gentleman could ta\u2026 https://t.co/l8N9rjai8V", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Jun 23 14:49:42 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\ud83e\udd2b\ud83e\udd10 \ud83e\udd14\ud83d\ude20 \ud83d\udc69\u200d\ud83d\udcbb retweets are not always endorsements", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 70155, 
+                "follow_request_sent": false, 
+                "followers_count": 4825, 
+                "following": false, 
+                "friends_count": 4478, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 322656247, 
+                "id_str": "322656247", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 8, 
+                "location": "Essex", 
+                "name": "Paulette \ud83c\udf39\ud83d\udc1d\ud83d\udc1e\ud83d\udc1a\ud83d\udc2c\ud83c\udf08\ud83d\udc23\u2764\ufe0f\u262e\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/322656247/1525630070", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993190610269102080/nTMQ2P4l_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993190610269102080/nTMQ2P4l_normal.jpg", 
+                "profile_link_color": "000000", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "twychy1", 
+                "statuses_count": 104524, 
+                "time_zone": "London", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": 3600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 22:33:50 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994707110846922757, 
+            "id_str": "994707110846922757", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Being loyal bring you pain", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Dec 30 00:08:59 +0000 2014", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Ms. Independent", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4222, 
+                "follow_request_sent": false, 
+                "followers_count": 247, 
+                "following": false, 
+                "friends_count": 216, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2951163301, 
+                "id_str": "2951163301", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "Baltimore, MD", 
+                "name": "Jaee.", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951163301/1525841092", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994071605696483328/fHMMTTx6_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994071605696483328/fHMMTTx6_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "DatsJaee", 
+                "statuses_count": 13239, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 17:14:25 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994626727421804544", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/I5QQZ5xQhi"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2733488566, 
+                        "id_str": "2733488566", 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "name": "Luke", 
+                        "screen_name": "lukeygaga"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994626727421804544, 
+            "id_str": "994626727421804544", 
+            "in_reply_to_screen_name": "lukeygaga", 
+            "in_reply_to_status_id": 994626492289224706, 
+            "in_reply_to_status_id_str": "994626492289224706", 
+            "in_reply_to_user_id": 2733488566, 
+            "in_reply_to_user_id_str": "2733488566", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@lukeygaga But why does she have to use social media ? Why can\u2019t she just take a break it\u2019s kind of hard to tour th\u2026 https://t.co/I5QQZ5xQhi", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Feb 06 19:46:57 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "filled with poison but blessed with beauty and rage", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 3481, 
+                "follow_request_sent": false, 
+                "followers_count": 464, 
+                "following": false, 
+                "friends_count": 977, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 3022051499, 
+                "id_str": "3022051499", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 5, 
+                "location": "Baltimore, MD", 
+                "name": "Jordan", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022051499/1520784216", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/984138744482721805/k0sHAJwW_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/984138744482721805/k0sHAJwW_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "AntiSJW12", 
+                "statuses_count": 5030, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 13:32:08 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 8861752, 
+                        "id_str": "8861752", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "The Baltimore Sun", 
+                        "screen_name": "baltimoresun"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994570786563338241, 
+            "id_str": "994570786563338241", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 09 17:24:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994266857011122181", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/asNWyDdEb0"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 9, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994266857011122181, 
+                "id_str": "994266857011122181", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and somet\u2026 https://t.co/asNWyDdEb0", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Sep 13 20:21:39 +0000 2007", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Light for all. For customer service, customersatisfaction@baltsun.com. For our journalists: http://t.co/NrQDTYSV3V", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "bsun.md/staff", 
+                                    "expanded_url": "http://bsun.md/staff", 
+                                    "indices": [
+                                        92, 
+                                        114
+                                    ], 
+                                    "url": "http://t.co/NrQDTYSV3V"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "checkout.baltimoresun.com/subscriptionPa\u2026", 
+                                    "expanded_url": "https://checkout.baltimoresun.com/subscriptionPanel/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/bndNpB3RmP"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2177, 
+                    "follow_request_sent": false, 
+                    "followers_count": 312698, 
+                    "following": false, 
+                    "friends_count": 12312, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 8861752, 
+                    "id_str": "8861752", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3796, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "The Baltimore Sun", 
+                    "notifications": false, 
+                    "profile_background_color": "75CBF0", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8861752/1414186163", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_link_color": "15225E", 
+                    "profile_sidebar_border_color": "C6E2EE", 
+                    "profile_sidebar_fill_color": "FFE600", 
+                    "profile_text_color": "663B12", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "baltimoresun", 
+                    "statuses_count": 162621, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": "https://t.co/bndNpB3RmP", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @baltimoresun: EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and something c\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Aug 07 20:31:27 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "University of Maryland School of Nursing Office of Global Health #sdoh #globalhealth", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 74, 
+                "follow_request_sent": false, 
+                "followers_count": 340, 
+                "following": false, 
+                "friends_count": 760, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1653840655, 
+                "id_str": "1653840655", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 14, 
+                "location": "Baltimore, MD", 
+                "name": "Global_Health_UMSON", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000047448705/2b103c35a40725bfadcf2586f84c4cd4.jpeg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000047448705/2b103c35a40725bfadcf2586f84c4cd4.jpeg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653840655/1416161477", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/890666271532081152/sHruC1OA_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/890666271532081152/sHruC1OA_normal.jpg", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "OGH_UMSON", 
+                "statuses_count": 873, 
+                "time_zone": "Atlantic Time (Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 12:39:52 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 754010029414551553, 
+                        "id_str": "754010029414551553", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "bring_wine_plz", 
+                        "screen_name": "bring_wine_plz"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994557635553787905, 
+            "id_str": "994557635553787905", 
+            "in_reply_to_screen_name": "bring_wine_plz", 
+            "in_reply_to_status_id": 994524044946001920, 
+            "in_reply_to_status_id_str": "994524044946001920", 
+            "in_reply_to_user_id": 754010029414551553, 
+            "in_reply_to_user_id_str": "754010029414551553", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@bring_wine_plz Feel your pain!", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Nov 17 14:41:20 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Married.#bi #bdsm #swinging couple looking for other couples & singles. Hubs the #master, Wife the #sub Over 18s no eggs #RWSW Disrespect = Blocked. #hotwife", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 10319, 
+                "follow_request_sent": false, 
+                "followers_count": 9729, 
+                "following": false, 
+                "friends_count": 965, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 799261142262677504, 
+                "id_str": "799261142262677504", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 35, 
+                "location": "essex", 
+                "name": "Beast and his Beauty", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/799261142262677504/1525336391", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991958970242945024/GkixKX-E_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991958970242945024/GkixKX-E_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "WhoreCoup5", 
+                "statuses_count": 3636, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 09:14:21 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994505914186129408", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/qxL6xI1rh1"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 909421714743971841, 
+                        "id_str": "909421714743971841", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "#RENEWB99", 
+                        "screen_name": "acregger17"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994505914186129408, 
+            "id_str": "994505914186129408", 
+            "in_reply_to_screen_name": "zegolf", 
+            "in_reply_to_status_id": 994505585080102913, 
+            "in_reply_to_status_id_str": "994505585080102913", 
+            "in_reply_to_user_id": 14932406, 
+            "in_reply_to_user_id_str": "14932406", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "text": "@acregger17 You can take nearly anything and say, \"Hey, don't complain about ___________.  You chose to ___________\u2026 https://t.co/qxL6xI1rh1", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed May 28 10:29:55 +0000 2008", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "VT Class of '06, Owner of @zegolf_photo, Husband, Father, Fan of new technology. My tweets may contain affiliate links (these gadgets don't pay for themselves)", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "zegolfphotography.com", 
+                                "expanded_url": "http://www.zegolfphotography.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/nWxZW06JHE"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 6022, 
+                "follow_request_sent": false, 
+                "followers_count": 919, 
+                "following": false, 
+                "friends_count": 965, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 14932406, 
+                "id_str": "14932406", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 112, 
+                "location": "Baltimore, MD", 
+                "name": "zegolf", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14932406/1409315088", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/722774745134080000/5g4COxzl_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/722774745134080000/5g4COxzl_normal.jpg", 
+                "profile_link_color": "19CF86", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "zegolf", 
+                "statuses_count": 103746, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "http://t.co/nWxZW06JHE", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 06:02:02 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994457517643182080", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/nddXl8OD2A"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 16, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994457517643182080, 
+            "id_str": "994457517643182080", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+            "text": "So, I got 5 exams in total in 2 days and one every day next two weeks, and gum infection that's pressuring a main n\u2026 https://t.co/nddXl8OD2A", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Mar 10 08:47:19 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Pyro/Rubick main, Founder of @BlapatureCo, Veterinary Medicine student suffering through university, donate me sleep.\n\n@BluestFeather is a very cute person.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/user/TeemoTheS\u2026", 
+                                "expanded_url": "https://www.youtube.com/user/TeemoTheScientist", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/KudSftmMrq"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 6600, 
+                "follow_request_sent": false, 
+                "followers_count": 3980, 
+                "following": false, 
+                "friends_count": 92, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 1256506771, 
+                "id_str": "1256506771", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 11, 
+                "location": "Narnia", 
+                "name": "TTS", 
+                "notifications": false, 
+                "profile_background_color": "4B0082", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689469738632654848/1q4-4yRb.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689469738632654848/1q4-4yRb.png", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256506771/1517313715", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/958309530651197441/RUCtkon0_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/958309530651197441/RUCtkon0_normal.jpg", 
+                "profile_link_color": "4B0082", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "TeemoTheScienti", 
+                "statuses_count": 16260, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/KudSftmMrq", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 03:07:49 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 8861752, 
+                        "id_str": "8861752", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "The Baltimore Sun", 
+                        "screen_name": "baltimoresun"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994413673102954496, 
+            "id_str": "994413673102954496", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 09 17:24:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994266857011122181", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/asNWyDdEb0"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 9, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994266857011122181, 
+                "id_str": "994266857011122181", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and somet\u2026 https://t.co/asNWyDdEb0", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Sep 13 20:21:39 +0000 2007", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Light for all. For customer service, customersatisfaction@baltsun.com. For our journalists: http://t.co/NrQDTYSV3V", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "bsun.md/staff", 
+                                    "expanded_url": "http://bsun.md/staff", 
+                                    "indices": [
+                                        92, 
+                                        114
+                                    ], 
+                                    "url": "http://t.co/NrQDTYSV3V"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "checkout.baltimoresun.com/subscriptionPa\u2026", 
+                                    "expanded_url": "https://checkout.baltimoresun.com/subscriptionPanel/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/bndNpB3RmP"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2177, 
+                    "follow_request_sent": false, 
+                    "followers_count": 312698, 
+                    "following": false, 
+                    "friends_count": 12312, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 8861752, 
+                    "id_str": "8861752", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3796, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "The Baltimore Sun", 
+                    "notifications": false, 
+                    "profile_background_color": "75CBF0", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8861752/1414186163", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_link_color": "15225E", 
+                    "profile_sidebar_border_color": "C6E2EE", 
+                    "profile_sidebar_fill_color": "FFE600", 
+                    "profile_text_color": "663B12", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "baltimoresun", 
+                    "statuses_count": 162621, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": "https://t.co/bndNpB3RmP", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @baltimoresun: EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and something c\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Aug 20 02:45:49 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Mom of college student, love spending time w/ my family, friends, simply enjoying life, trying to be the best me I can be\u264d\u262e\u2665\u2600\u263b\u263a", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "Lataesha.itworks.com", 
+                                "expanded_url": "http://Lataesha.itworks.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/6pu4qHMDzQ"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 107826, 
+                "follow_request_sent": false, 
+                "followers_count": 1628, 
+                "following": false, 
+                "friends_count": 2759, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 180630706, 
+                "id_str": "180630706", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 211, 
+                "location": "My Secret Garden", 
+                "name": "Tae Ajenifuja", 
+                "notifications": false, 
+                "profile_background_color": "F9D4DE", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598566966207451138/KejjDv_m.png", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598566966207451138/KejjDv_m.png", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/180630706/1356706668", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2667437938/45b3c11475e422539ab9efb4b6b2fc62_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2667437938/45b3c11475e422539ab9efb4b6b2fc62_normal.png", 
+                "profile_link_color": "7FDBB6", 
+                "profile_sidebar_border_color": "613654", 
+                "profile_sidebar_fill_color": "38052B", 
+                "profile_text_color": "DB0067", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "blssfulserndpty", 
+                "statuses_count": 114909, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/6pu4qHMDzQ", 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 23:10:26 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994353932766994432, 
+            "id_str": "994353932766994432", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "I will mess myself up, I will bring myself pain. You will stay out of it, You will stay away. \nHurting me is not your problem.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Oct 11 14:51:33 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "I could talk about myself but I don't know who myself is.  \ud83e\uddda\ud83c\udffe\u200d\u2640\ufe0f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/allysmarts/", 
+                                "expanded_url": "http://www.instagram.com/allysmarts/", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/bNaO9gOBoA"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 15505, 
+                "follow_request_sent": false, 
+                "followers_count": 1460, 
+                "following": false, 
+                "friends_count": 2898, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 873760454, 
+                "id_str": "873760454", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "Baltimore", 
+                "name": "Alaina\u264d", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/886703687841665024/uqgVWn4m.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/886703687841665024/uqgVWn4m.jpg", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/873760454/1525907194", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/974760966964502528/ZmOGzA_L_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/974760966964502528/ZmOGzA_L_normal.jpg", 
+                "profile_link_color": "F58EA8", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "allysmarts", 
+                "statuses_count": 12724, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/bNaO9gOBoA", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 21:01:49 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 947651810428198914, 
+                        "id_str": "947651810428198914", 
+                        "indices": [
+                            3, 
+                            18
+                        ], 
+                        "name": "Paws of Heaven", 
+                        "screen_name": "Paws_of_Heaven"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994321567491543040, 
+            "id_str": "994321567491543040", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon Apr 16 21:01:19 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/985986519310786560", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/K9XwTnTvS5"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 985986519310786560, 
+                "id_str": "985986519310786560", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>", 
+                "text": "Bring me joy, bring me peace, Bring the chance to be free, Bring me anything that brings You glory, And I know ther\u2026 https://t.co/K9XwTnTvS5", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Mon Jan 01 02:12:52 +0000 2018", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Christian therapy dog ministry just getting started! We seek to provide comfort to anyone in need. Please visit https://t.co/eGZCrbOyLH and join our email list.", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "pawsofheaven.org", 
+                                    "expanded_url": "http://pawsofheaven.org", 
+                                    "indices": [
+                                        112, 
+                                        135
+                                    ], 
+                                    "url": "https://t.co/eGZCrbOyLH"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "pawsofheaven.org", 
+                                    "expanded_url": "http://pawsofheaven.org", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/eGZCrbOyLH"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 107, 
+                    "follow_request_sent": false, 
+                    "followers_count": 200, 
+                    "following": false, 
+                    "friends_count": 478, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 947651810428198914, 
+                    "id_str": "947651810428198914", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 0, 
+                    "location": "New Mexico, USA", 
+                    "name": "Paws of Heaven", 
+                    "notifications": false, 
+                    "profile_background_color": "000000", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/947651810428198914/1516837626", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/947658488422875136/ZT5TD5yB_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/947658488422875136/ZT5TD5yB_normal.jpg", 
+                    "profile_link_color": "1B95E0", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "Paws_of_Heaven", 
+                    "statuses_count": 849, 
+                    "time_zone": "Mountain Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/eGZCrbOyLH", 
+                    "utc_offset": -21600, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>", 
+            "text": "RT @Paws_of_Heaven: Bring me joy, bring me peace, Bring the chance to be free, Bring me anything that brings You glory, And I know there'll\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Jan 01 02:12:52 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Christian therapy dog ministry just getting started! We seek to provide comfort to anyone in need. Please visit https://t.co/eGZCrbOyLH and join our email list.", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "pawsofheaven.org", 
+                                "expanded_url": "http://pawsofheaven.org", 
+                                "indices": [
+                                    112, 
+                                    135
+                                ], 
+                                "url": "https://t.co/eGZCrbOyLH"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "pawsofheaven.org", 
+                                "expanded_url": "http://pawsofheaven.org", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/eGZCrbOyLH"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 107, 
+                "follow_request_sent": false, 
+                "followers_count": 200, 
+                "following": false, 
+                "friends_count": 478, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 947651810428198914, 
+                "id_str": "947651810428198914", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "New Mexico, USA", 
+                "name": "Paws of Heaven", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/947651810428198914/1516837626", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/947658488422875136/ZT5TD5yB_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/947658488422875136/ZT5TD5yB_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Paws_of_Heaven", 
+                "statuses_count": 849, 
+                "time_zone": "Mountain Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/eGZCrbOyLH", 
+                "utc_offset": -21600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 19:32:49 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 8861752, 
+                        "id_str": "8861752", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "The Baltimore Sun", 
+                        "screen_name": "baltimoresun"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994299166653378560, 
+            "id_str": "994299166653378560", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 09 17:24:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994266857011122181", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/asNWyDdEb0"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 9, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994266857011122181, 
+                "id_str": "994266857011122181", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and somet\u2026 https://t.co/asNWyDdEb0", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Sep 13 20:21:39 +0000 2007", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Light for all. For customer service, customersatisfaction@baltsun.com. For our journalists: http://t.co/NrQDTYSV3V", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "bsun.md/staff", 
+                                    "expanded_url": "http://bsun.md/staff", 
+                                    "indices": [
+                                        92, 
+                                        114
+                                    ], 
+                                    "url": "http://t.co/NrQDTYSV3V"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "checkout.baltimoresun.com/subscriptionPa\u2026", 
+                                    "expanded_url": "https://checkout.baltimoresun.com/subscriptionPanel/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/bndNpB3RmP"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2177, 
+                    "follow_request_sent": false, 
+                    "followers_count": 312698, 
+                    "following": false, 
+                    "friends_count": 12312, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 8861752, 
+                    "id_str": "8861752", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3796, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "The Baltimore Sun", 
+                    "notifications": false, 
+                    "profile_background_color": "75CBF0", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8861752/1414186163", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_link_color": "15225E", 
+                    "profile_sidebar_border_color": "C6E2EE", 
+                    "profile_sidebar_fill_color": "FFE600", 
+                    "profile_text_color": "663B12", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "baltimoresun", 
+                    "statuses_count": 162621, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": "https://t.co/bndNpB3RmP", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @baltimoresun: EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and something c\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Dec 21 03:05:37 +0000 2011", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "@BaltimoreSun education reporter | Former @thedbk amplifier | Texpat | trichman@baltsun.com", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "baltimoresun.com/bal-talia-rich\u2026", 
+                                "expanded_url": "http://www.baltimoresun.com/bal-talia-richman-20170606-staff.html", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/V4bOzpzu7S"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 4840, 
+                "follow_request_sent": false, 
+                "followers_count": 2062, 
+                "following": false, 
+                "friends_count": 1285, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 442412452, 
+                "id_str": "442412452", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 45, 
+                "location": "Baltimore, MD", 
+                "name": "Talia Richman", 
+                "notifications": false, 
+                "profile_background_color": "ACDED6", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/442412452/1504141130", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/903061486452473856/7wbwscxg_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/903061486452473856/7wbwscxg_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "F6F6F6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "TaliRichman", 
+                "statuses_count": 3453, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/V4bOzpzu7S", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 18:14:38 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 8861752, 
+                        "id_str": "8861752", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "The Baltimore Sun", 
+                        "screen_name": "baltimoresun"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994279491353677832, 
+            "id_str": "994279491353677832", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 09 17:24:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994266857011122181", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/asNWyDdEb0"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 9, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994266857011122181, 
+                "id_str": "994266857011122181", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and somet\u2026 https://t.co/asNWyDdEb0", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Sep 13 20:21:39 +0000 2007", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Light for all. For customer service, customersatisfaction@baltsun.com. For our journalists: http://t.co/NrQDTYSV3V", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "bsun.md/staff", 
+                                    "expanded_url": "http://bsun.md/staff", 
+                                    "indices": [
+                                        92, 
+                                        114
+                                    ], 
+                                    "url": "http://t.co/NrQDTYSV3V"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "checkout.baltimoresun.com/subscriptionPa\u2026", 
+                                    "expanded_url": "https://checkout.baltimoresun.com/subscriptionPanel/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/bndNpB3RmP"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2177, 
+                    "follow_request_sent": false, 
+                    "followers_count": 312698, 
+                    "following": false, 
+                    "friends_count": 12312, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 8861752, 
+                    "id_str": "8861752", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3796, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "The Baltimore Sun", 
+                    "notifications": false, 
+                    "profile_background_color": "75CBF0", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8861752/1414186163", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_link_color": "15225E", 
+                    "profile_sidebar_border_color": "C6E2EE", 
+                    "profile_sidebar_fill_color": "FFE600", 
+                    "profile_text_color": "663B12", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "baltimoresun", 
+                    "statuses_count": 162621, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": "https://t.co/bndNpB3RmP", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @baltimoresun: EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and something c\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Feb 02 19:38:22 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "ambitious record lable Dj fix\nMixing & Mastering/song writer. Photography(PTY) (LTD)\nBookings for Shoot at 0609236274 YouTube  fixmovement@gmail.com", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "djfix.co.za", 
+                                "expanded_url": "http://www.djfix.co.za", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/6S9JLHPIyl"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 2314, 
+                "follow_request_sent": false, 
+                "followers_count": 316, 
+                "following": false, 
+                "friends_count": 42, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 827239755939188736, 
+                "id_str": "827239755939188736", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Mamelodi Gauteng.SA", 
+                "name": "@fixmovement_SA", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/827239755939188736/1525697806", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993474884297723904/jpDY9_pd_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993474884297723904/jpDY9_pd_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "fix_movement", 
+                "statuses_count": 2115, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/6S9JLHPIyl", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 18:05:41 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 8861752, 
+                        "id_str": "8861752", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "The Baltimore Sun", 
+                        "screen_name": "baltimoresun"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994277239956148235, 
+            "id_str": "994277239956148235", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Wed May 09 17:24:25 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994266857011122181", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/asNWyDdEb0"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 9, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994266857011122181, 
+                "id_str": "994266857011122181", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 3, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and somet\u2026 https://t.co/asNWyDdEb0", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Sep 13 20:21:39 +0000 2007", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Light for all. For customer service, customersatisfaction@baltsun.com. For our journalists: http://t.co/NrQDTYSV3V", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "bsun.md/staff", 
+                                    "expanded_url": "http://bsun.md/staff", 
+                                    "indices": [
+                                        92, 
+                                        114
+                                    ], 
+                                    "url": "http://t.co/NrQDTYSV3V"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "checkout.baltimoresun.com/subscriptionPa\u2026", 
+                                    "expanded_url": "https://checkout.baltimoresun.com/subscriptionPanel/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/bndNpB3RmP"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 2177, 
+                    "follow_request_sent": false, 
+                    "followers_count": 312698, 
+                    "following": false, 
+                    "friends_count": 12312, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 8861752, 
+                    "id_str": "8861752", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3796, 
+                    "location": "Baltimore, Maryland", 
+                    "name": "The Baltimore Sun", 
+                    "notifications": false, 
+                    "profile_background_color": "75CBF0", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245679812/bsunlow.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8861752/1414186163", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/520989247491166209/blL63-Iz_normal.jpeg", 
+                    "profile_link_color": "15225E", 
+                    "profile_sidebar_border_color": "C6E2EE", 
+                    "profile_sidebar_fill_color": "FFE600", 
+                    "profile_text_color": "663B12", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "baltimoresun", 
+                    "statuses_count": 162621, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "regular", 
+                    "url": "https://t.co/bndNpB3RmP", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @baltimoresun: EDITORIAL: Baltimore\u2019s killers weren't born with guns in their hands. Something brought them to violence, and something c\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Jun 10 19:11:38 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "you just can't believe everything you hear!\nI'm part of the #resistance #impeachtrump\nOur freedoms are at stake.. GOP/Trump admin=corrupt politicians", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 32737, 
+                "follow_request_sent": false, 
+                "followers_count": 547, 
+                "following": false, 
+                "friends_count": 969, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 46196778, 
+                "id_str": "46196778", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 7, 
+                "location": "Maryland", 
+                "name": "Ivy", 
+                "notifications": false, 
+                "profile_background_color": "642D8B", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46196778/1438311162", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/983785327738306560/n4Y613pR_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/983785327738306560/n4Y613pR_normal.jpg", 
+                "profile_link_color": "FF0000", 
+                "profile_sidebar_border_color": "65B0DA", 
+                "profile_sidebar_fill_color": "7AC3EE", 
+                "profile_text_color": "3D1957", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "tainah07", 
+                "statuses_count": 15600, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }
+]

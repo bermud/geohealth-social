@@ -1,0 +1,1758 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 05:38:11 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [
+                    {
+                        "indices": [
+                            67, 
+                            70
+                        ], 
+                        "text": "MU"
+                    }, 
+                    {
+                        "indices": [
+                            71, 
+                            75
+                        ], 
+                        "text": "XOM"
+                    }, 
+                    {
+                        "indices": [
+                            76, 
+                            80
+                        ], 
+                        "text": "TXN"
+                    }, 
+                    {
+                        "indices": [
+                            81, 
+                            86
+                        ], 
+                        "text": "ATVI"
+                    }, 
+                    {
+                        "indices": [
+                            87, 
+                            90
+                        ], 
+                        "text": "EA"
+                    }, 
+                    {
+                        "indices": [
+                            91, 
+                            96
+                        ], 
+                        "text": "NVDA"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            102
+                        ], 
+                        "text": "INTC"
+                    }, 
+                    {
+                        "indices": [
+                            103, 
+                            107
+                        ], 
+                        "text": "JPM"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            112
+                        ], 
+                        "text": "OXY"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994813901253611521", 
+                        "indices": [
+                            114, 
+                            137
+                        ], 
+                        "url": "https://t.co/smq0bF7ain"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994813901253611521, 
+            "id_str": "994813901253611521", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://stocktwits.com\" rel=\"nofollow\">StockTwits Web</a>", 
+            "text": "Stocks that are popping up on my STRONG BULLS scan for 5/10/2018 - $MU $XOM $TXN $ATVI $EA $NVDA $INTC $JPM $OXY\u2026 https://t.co/smq0bF7ain", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Jan 13 06:26:24 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Equity Options Trader, Market Analyst, Technical Chart Reader, Poker Player, Hardcore Gamer, Sports Fan, Tech Junkie", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 51, 
+                "follow_request_sent": false, 
+                "followers_count": 226, 
+                "following": false, 
+                "friends_count": 289, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1085203015, 
+                "id_str": "1085203015", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 24, 
+                "location": "California", 
+                "name": "Ace Trader", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085203015/1491675099", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/815064549158096897/fTlCMQP9_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/815064549158096897/fTlCMQP9_normal.jpg", 
+                "profile_link_color": "009999", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "tradingstox", 
+                "statuses_count": 1242, 
+                "time_zone": "Arizona", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 21:07:02 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 1797685730, 
+                        "id_str": "1797685730", 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "name": "joel", 
+                        "screen_name": "Basic_Geezus"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994685266907414529, 
+            "id_str": "994685266907414529", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Thu May 10 21:03:59 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994684497823072256, 
+                "id_str": "994684497823072256", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "I was just boolin smoking dope, imma pop this perc just to float \u2601\ufe0f", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Sep 08 02:06:23 +0000 2013", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "I\u2019m just trynna win in this life of sin \ud83c\udfc5 // G$", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 11562, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1287, 
+                    "following": false, 
+                    "friends_count": 1167, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 1797685730, 
+                    "id_str": "1797685730", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 4, 
+                    "location": "California, USA", 
+                    "name": "joel", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797685730/1524550334", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/991156965916082179/KH7lz5XQ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991156965916082179/KH7lz5XQ_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "Basic_Geezus", 
+                    "statuses_count": 11482, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @Basic_Geezus: I was just boolin smoking dope, imma pop this perc just to float \u2601\ufe0f", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon May 12 15:10:08 +0000 2014", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "GAWD $HIT, G$ NO B$", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 74571, 
+                "follow_request_sent": false, 
+                "followers_count": 1649, 
+                "following": false, 
+                "friends_count": 1259, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2491580108, 
+                "id_str": "2491580108", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 5, 
+                "location": "w/ addy bumpin dom ", 
+                "name": "em \ud83c\udfc1", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2491580108/1525935750", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/990032348367339520/GaBYszrS_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/990032348367339520/GaBYszrS_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "600emilia", 
+                "statuses_count": 45787, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 21:03:59 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994684497823072256, 
+            "id_str": "994684497823072256", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "I was just boolin smoking dope, imma pop this perc just to float \u2601\ufe0f", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Sep 08 02:06:23 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "I\u2019m just trynna win in this life of sin \ud83c\udfc5 // G$", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 11562, 
+                "follow_request_sent": false, 
+                "followers_count": 1287, 
+                "following": false, 
+                "friends_count": 1167, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 1797685730, 
+                "id_str": "1797685730", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 4, 
+                "location": "California, USA", 
+                "name": "joel", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797685730/1524550334", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991156965916082179/KH7lz5XQ_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991156965916082179/KH7lz5XQ_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Basic_Geezus", 
+                "statuses_count": 11482, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 01:01:40 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [
+                    {
+                        "indices": [
+                            66, 
+                            71
+                        ], 
+                        "text": "BIDU"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            77
+                        ], 
+                        "text": "AAPL"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            83
+                        ], 
+                        "text": "INTC"
+                    }, 
+                    {
+                        "indices": [
+                            84, 
+                            87
+                        ], 
+                        "text": "MA"
+                    }, 
+                    {
+                        "indices": [
+                            88, 
+                            90
+                        ], 
+                        "text": "V"
+                    }, 
+                    {
+                        "indices": [
+                            91, 
+                            96
+                        ], 
+                        "text": "NFLX"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            101
+                        ], 
+                        "text": "OXY"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            106
+                        ], 
+                        "text": "HES"
+                    }, 
+                    {
+                        "indices": [
+                            107, 
+                            112
+                        ], 
+                        "text": "ADBE"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994019537170427904", 
+                        "indices": [
+                            114, 
+                            137
+                        ], 
+                        "url": "https://t.co/gyp6Yqkbp9"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994019537170427904, 
+            "id_str": "994019537170427904", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://stocktwits.com\" rel=\"nofollow\">StockTwits Web</a>", 
+            "text": "Stocks that are popping up on my STRONG BULLS scan for 5/8/2018 - $BIDU $AAPL $INTC $MA $V $NFLX $OXY $HES $ADBE\u2026 https://t.co/gyp6Yqkbp9", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sun Jan 13 06:26:24 +0000 2013", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Equity Options Trader, Market Analyst, Technical Chart Reader, Poker Player, Hardcore Gamer, Sports Fan, Tech Junkie", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 51, 
+                "follow_request_sent": false, 
+                "followers_count": 226, 
+                "following": false, 
+                "friends_count": 289, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1085203015, 
+                "id_str": "1085203015", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 24, 
+                "location": "California", 
+                "name": "Ace Trader", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085203015/1491675099", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/815064549158096897/fTlCMQP9_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/815064549158096897/fTlCMQP9_normal.jpg", 
+                "profile_link_color": "009999", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "tradingstox", 
+                "statuses_count": 1242, 
+                "time_zone": "Arizona", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 09 00:25:35 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994010459132096512, 
+            "id_str": "994010459132096512", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Pop me a perc roll a wood now im off it", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Apr 24 11:04:45 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "RIP RUBBIE RIP WILL RIP MURDA RIP BOMANI LONG LIVE ZOE \ud83d\udc94 FREE DA REAL", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 860, 
+                "follow_request_sent": false, 
+                "followers_count": 380, 
+                "following": false, 
+                "friends_count": 264, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 856463920147693569, 
+                "id_str": "856463920147693569", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Suitland, MD", 
+                "name": "Popeye \u2693\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/856463920147693569/1524273847", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/990442419043950592/hjtsduIc_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/990442419043950592/hjtsduIc_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Countuppopeye_", 
+                "statuses_count": 9547, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 19:50:37 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/GglFte1vcR", 
+                        "expanded_url": "https://twitter.com/OfficialAbadaba/status/993941260842004480/video/1", 
+                        "id": 993940863666606081, 
+                        "id_str": "993940863666606081", 
+                        "indices": [
+                            35, 
+                            58
+                        ], 
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993940863666606081/pu/img/3ip7qdvptvOFW72r.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993940863666606081/pu/img/3ip7qdvptvOFW72r.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 1280, 
+                                "resize": "fit", 
+                                "w": 720
+                            }, 
+                            "medium": {
+                                "h": 1200, 
+                                "resize": "fit", 
+                                "w": 675
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 383
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/GglFte1vcR"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false
+                        }, 
+                        "display_url": "pic.twitter.com/GglFte1vcR", 
+                        "expanded_url": "https://twitter.com/OfficialAbadaba/status/993941260842004480/video/1", 
+                        "id": 993940863666606081, 
+                        "id_str": "993940863666606081", 
+                        "indices": [
+                            35, 
+                            58
+                        ], 
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993940863666606081/pu/img/3ip7qdvptvOFW72r.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993940863666606081/pu/img/3ip7qdvptvOFW72r.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 1280, 
+                                "resize": "fit", 
+                                "w": 720
+                            }, 
+                            "medium": {
+                                "h": 1200, 
+                                "resize": "fit", 
+                                "w": 675
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 383
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "video", 
+                        "url": "https://t.co/GglFte1vcR", 
+                        "video_info": {
+                            "aspect_ratio": [
+                                9, 
+                                16
+                            ], 
+                            "duration_millis": 30067, 
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL", 
+                                    "url": "https://video.twimg.com/ext_tw_video/993940863666606081/pu/pl/xmvi3P9UAik6sA1j.m3u8?tag=3"
+                                }, 
+                                {
+                                    "bitrate": 256000, 
+                                    "content_type": "video/mp4", 
+                                    "url": "https://video.twimg.com/ext_tw_video/993940863666606081/pu/vid/180x320/BUVI_Z-y1TUvXlvo.mp4?tag=3"
+                                }, 
+                                {
+                                    "bitrate": 832000, 
+                                    "content_type": "video/mp4", 
+                                    "url": "https://video.twimg.com/ext_tw_video/993940863666606081/pu/vid/360x640/nzyy0bJTiOi1re0v.mp4?tag=3"
+                                }, 
+                                {
+                                    "bitrate": 2176000, 
+                                    "content_type": "video/mp4", 
+                                    "url": "https://video.twimg.com/ext_tw_video/993940863666606081/pu/vid/720x1280/bhgjaZOo2w359Jen.mp4?tag=3"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            "favorite_count": 10, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993941260842004480, 
+            "id_str": "993941260842004480", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.958123, 
+                                38.827518
+                            ], 
+                            [
+                                -76.88434, 
+                                38.827518
+                            ], 
+                            [
+                                -76.88434, 
+                                38.868794
+                            ], 
+                            [
+                                -76.958123, 
+                                38.868794
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Suitland, MD", 
+                "id": "00da23b51c3aabc1", 
+                "name": "Suitland", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/00da23b51c3aabc1.json"
+            }, 
+            "possibly_sensitive": false, 
+            "retweet_count": 5, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "When you pop a perc before work \ud83d\ude02\ud83d\udc8a https://t.co/GglFte1vcR", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Dec 12 23:06:58 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Just trying make it \ud83d\udcb8\ud83d\udcc8 with this Comedy shit \ud83c\udccfSuitland born & raised \ud83e\uddd7\ud83c\udffd\u200d\u2642\ufe0f Show videos some love if you fwm \ud83d\udcfd", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 241, 
+                "follow_request_sent": false, 
+                "followers_count": 5578, 
+                "following": false, 
+                "friends_count": 4856, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2918602791, 
+                "id_str": "2918602791", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 17, 
+                "location": "Suitland, MD", 
+                "name": "Abadaba\u2122 \ud83c\udccf", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918602791/1516716220", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991012805091516416/rMHq8NUw_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991012805091516416/rMHq8NUw_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "OfficialAbadaba", 
+                "statuses_count": 18447, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 02:17:27 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 3324865333, 
+                        "id_str": "3324865333", 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "name": "B", 
+                        "screen_name": "Niimohhh"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993676219714486272, 
+            "id_str": "993676219714486272", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Tue May 08 01:43:05 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 4, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993667573680979969, 
+                "id_str": "993667573680979969", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Tell my mom that I\u2019m sorry, I just popped another oxy \ud83d\ude35\u270c\ud83c\udffb", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sat Aug 22 18:57:41 +0000 2015", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "muthafukn uhh... ham uhhh... Snap: muthafuknmiller IG: https://t.co/Jq1zzk6uOl", 
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "instagram.com/niimohhh", 
+                                    "expanded_url": "https://www.instagram.com/niimohhh", 
+                                    "indices": [
+                                        55, 
+                                        78
+                                    ], 
+                                    "url": "https://t.co/Jq1zzk6uOl"
+                                }
+                            ]
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "twitch.tv/whippedcream1", 
+                                    "expanded_url": "https://twitch.tv/whippedcream1", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/k5ZkKTgWBR"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 947, 
+                    "follow_request_sent": false, 
+                    "followers_count": 128, 
+                    "following": false, 
+                    "friends_count": 184, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": true, 
+                    "id": 3324865333, 
+                    "id_str": "3324865333", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 0, 
+                    "location": "California, USA", 
+                    "name": "B", 
+                    "notifications": false, 
+                    "profile_background_color": "1A1B1F", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3324865333/1516860703", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/988045515404267521/GI2jg_Ol_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/988045515404267521/GI2jg_Ol_normal.jpg", 
+                    "profile_link_color": "1B95E0", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "Niimohhh", 
+                    "statuses_count": 739, 
+                    "time_zone": "Pacific Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/k5ZkKTgWBR", 
+                    "utc_offset": -25200, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "RT @Niimohhh: Tell my mom that I\u2019m sorry, I just popped another oxy \ud83d\ude35\u270c\ud83c\udffb", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Feb 07 19:03:29 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "new twitttta \ud83c\udf43", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 2488, 
+                "follow_request_sent": false, 
+                "followers_count": 229, 
+                "following": false, 
+                "friends_count": 290, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 961314491467120640, 
+                "id_str": "961314491467120640", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Cali", 
+                "name": "\ud83d\udda4", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/961314491467120640/1525129286", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/990862903950524416/vAtNGgSU_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/990862903950524416/vAtNGgSU_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "pe4chh__", 
+                "statuses_count": 4205, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 01:43:05 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993667573680979969, 
+            "id_str": "993667573680979969", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Tell my mom that I\u2019m sorry, I just popped another oxy \ud83d\ude35\u270c\ud83c\udffb", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Aug 22 18:57:41 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "muthafukn uhh... ham uhhh... Snap: muthafuknmiller IG: https://t.co/Jq1zzk6uOl", 
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "instagram.com/niimohhh", 
+                                "expanded_url": "https://www.instagram.com/niimohhh", 
+                                "indices": [
+                                    55, 
+                                    78
+                                ], 
+                                "url": "https://t.co/Jq1zzk6uOl"
+                            }
+                        ]
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "twitch.tv/whippedcream1", 
+                                "expanded_url": "https://twitch.tv/whippedcream1", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/k5ZkKTgWBR"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 947, 
+                "follow_request_sent": false, 
+                "followers_count": 128, 
+                "following": false, 
+                "friends_count": 184, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 3324865333, 
+                "id_str": "3324865333", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "B", 
+                "notifications": false, 
+                "profile_background_color": "1A1B1F", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3324865333/1516860703", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/988045515404267521/GI2jg_Ol_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/988045515404267521/GI2jg_Ol_normal.jpg", 
+                "profile_link_color": "1B95E0", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Niimohhh", 
+                "statuses_count": 739, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "https://t.co/k5ZkKTgWBR", 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 12:36:36 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/pretty_mxney/s\u2026", 
+                        "expanded_url": "https://twitter.com/pretty_mxney/status/993182942712254464", 
+                        "indices": [
+                            26, 
+                            49
+                        ], 
+                        "url": "https://t.co/yfcHr75vSo"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993469646178316289, 
+            "id_str": "993469646178316289", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "it", 
+            "metadata": {
+                "iso_language_code": "it", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.958123, 
+                                38.827518
+                            ], 
+                            [
+                                -76.88434, 
+                                38.827518
+                            ], 
+                            [
+                                -76.88434, 
+                                38.868794
+                            ], 
+                            [
+                                -76.958123, 
+                                38.868794
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Suitland, MD", 
+                "id": "00da23b51c3aabc1", 
+                "name": "Suitland", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/00da23b51c3aabc1.json"
+            }, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Sun May 06 17:37:20 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/J2wEl7U8Lo", 
+                            "expanded_url": "https://twitter.com/Pretty_Mxney/status/993182942712254464/video/1", 
+                            "id": 993182867688775681, 
+                            "id_str": "993182867688775681", 
+                            "indices": [
+                                35, 
+                                58
+                            ], 
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993182867688775681/pu/img/AhnpnX7Y3dBZcWyB.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993182867688775681/pu/img/AhnpnX7Y3dBZcWyB.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 1280, 
+                                    "resize": "fit", 
+                                    "w": 720
+                                }, 
+                                "medium": {
+                                    "h": 1200, 
+                                    "resize": "fit", 
+                                    "w": 675
+                                }, 
+                                "small": {
+                                    "h": 680, 
+                                    "resize": "fit", 
+                                    "w": 383
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/J2wEl7U8Lo"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            }, 
+                            "display_url": "pic.twitter.com/J2wEl7U8Lo", 
+                            "expanded_url": "https://twitter.com/Pretty_Mxney/status/993182942712254464/video/1", 
+                            "id": 993182867688775681, 
+                            "id_str": "993182867688775681", 
+                            "indices": [
+                                35, 
+                                58
+                            ], 
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993182867688775681/pu/img/AhnpnX7Y3dBZcWyB.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993182867688775681/pu/img/AhnpnX7Y3dBZcWyB.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 1280, 
+                                    "resize": "fit", 
+                                    "w": 720
+                                }, 
+                                "medium": {
+                                    "h": 1200, 
+                                    "resize": "fit", 
+                                    "w": 675
+                                }, 
+                                "small": {
+                                    "h": 680, 
+                                    "resize": "fit", 
+                                    "w": 383
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "video", 
+                            "url": "https://t.co/J2wEl7U8Lo", 
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9, 
+                                    16
+                                ], 
+                                "duration_millis": 22553, 
+                                "variants": [
+                                    {
+                                        "bitrate": 2176000, 
+                                        "content_type": "video/mp4", 
+                                        "url": "https://video.twimg.com/ext_tw_video/993182867688775681/pu/vid/720x1280/CA6hW_GykfHpwbMj.mp4?tag=3"
+                                    }, 
+                                    {
+                                        "bitrate": 256000, 
+                                        "content_type": "video/mp4", 
+                                        "url": "https://video.twimg.com/ext_tw_video/993182867688775681/pu/vid/180x320/Wj4KLQjE7PJ5twYS.mp4?tag=3"
+                                    }, 
+                                    {
+                                        "content_type": "application/x-mpegURL", 
+                                        "url": "https://video.twimg.com/ext_tw_video/993182867688775681/pu/pl/IGknT0_rWC6BaCSr.m3u8?tag=3"
+                                    }, 
+                                    {
+                                        "bitrate": 832000, 
+                                        "content_type": "video/mp4", 
+                                        "url": "https://video.twimg.com/ext_tw_video/993182867688775681/pu/vid/360x640/XXdpjC-1bBV-GAs4.mp4?tag=3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }, 
+                "favorite_count": 201046, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 993182942712254464, 
+                "id_str": "993182942712254464", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "it", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 90705, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Gucci is fuckin wildn Lmmfaooooooo https://t.co/J2wEl7U8Lo", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sun Jul 12 19:38:30 +0000 2009", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Throwin salt on my name will only season my sauce!\ud83e\udd19\ud83c\udffe", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    }, 
+                    "favourites_count": 2244, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1246, 
+                    "following": false, 
+                    "friends_count": 1040, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 56171542, 
+                    "id_str": "56171542", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 42, 
+                    "location": "", 
+                    "name": "Pretty Money", 
+                    "notifications": false, 
+                    "profile_background_color": "6AF2E7", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/333014832/16430913717_PRWFC.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/333014832/16430913717_PRWFC.jpg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/56171542/1453561270", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/885192236522254351/k9HeswUJ_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885192236522254351/k9HeswUJ_normal.jpg", 
+                    "profile_link_color": "B82C2C", 
+                    "profile_sidebar_border_color": "666565", 
+                    "profile_sidebar_fill_color": "000000", 
+                    "profile_text_color": "FCFCFC", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "Pretty_Mxney", 
+                    "statuses_count": 129024, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": null, 
+                    "utc_offset": -14400, 
+                    "verified": false
+                }
+            }, 
+            "quoted_status_id": 993182942712254464, 
+            "quoted_status_id_str": "993182942712254464", 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Gucci pop 10 percs b4 dis https://t.co/yfcHr75vSo", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Mar 17 16:54:28 +0000 2016", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "#E4GMa\ud83d\udc94 #RPC\ud83e\udd1e\ud83c\udffe\ud83d\udc89", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 2597, 
+                "follow_request_sent": false, 
+                "followers_count": 2589, 
+                "following": false, 
+                "friends_count": 576, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 710509619739828224, 
+                "id_str": "710509619739828224", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 8, 
+                "location": "", 
+                "name": "RPC Marco \ud83d\udc79\ud83d\udea7", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/710509619739828224/1524140159", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/992569993924612096/IKp5onBy_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/992569993924612096/IKp5onBy_normal.jpg", 
+                "profile_link_color": "981CEB", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "TripleCupp", 
+                "statuses_count": 2857, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 00:59:05 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993294113700167680, 
+            "id_str": "993294113700167680", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Had a long day so I pop me a perc \ud83d\ude80", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Nov 16 19:26:40 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\ud83c\udfb0Sc- mark_mapstead\u2728", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "m.soundcloud.com/777mdm/viberid\u2026", 
+                                "expanded_url": "https://m.soundcloud.com/777mdm/viberideordie", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/xDPeeY0OaQ"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 1642, 
+                "follow_request_sent": false, 
+                "followers_count": 462, 
+                "following": false, 
+                "friends_count": 380, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 2198282280, 
+                "id_str": "2198282280", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "MarkDaMan", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2198282280/1520937431", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/961655723447894016/3B3EKk0G_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/961655723447894016/3B3EKk0G_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "MarkEMapstead_", 
+                "statuses_count": 699, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/xDPeeY0OaQ", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sun May 06 18:13:32 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993192051192643584, 
+            "id_str": "993192051192643584", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Pop a perc show you what them blues do", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Apr 24 11:04:45 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "RIP RUBBIE RIP WILL RIP MURDA RIP BOMANI LONG LIVE ZOE \ud83d\udc94 FREE DA REAL", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 860, 
+                "follow_request_sent": false, 
+                "followers_count": 380, 
+                "following": false, 
+                "friends_count": 264, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 856463920147693569, 
+                "id_str": "856463920147693569", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Suitland, MD", 
+                "name": "Popeye \u2693\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/856463920147693569/1524273847", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/990442419043950592/hjtsduIc_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/990442419043950592/hjtsduIc_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Countuppopeye_", 
+                "statuses_count": 9547, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat May 05 02:43:39 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/992595651971112961", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/GDeDYujV8M"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992595651971112961, 
+            "id_str": "992595651971112961", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Couldn\u2019t geek out enough to ask the man for a pic with me but I had the opportunity to spend the day adjudicating s\u2026 https://t.co/GDeDYujV8M", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Mar 22 17:37:38 +0000 2017", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Drummer. Orchestral Percussionist/Timpanist. Educator.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 212, 
+                "follow_request_sent": false, 
+                "followers_count": 29, 
+                "following": false, 
+                "friends_count": 93, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 844603990444654592, 
+                "id_str": "844603990444654592", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Joey", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/844603990444654592/1494373365", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/877708215848280066/JyBFeIMB_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/877708215848280066/JyBFeIMB_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "percJoeyhz", 
+                "statuses_count": 43, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+]

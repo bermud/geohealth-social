@@ -1,0 +1,83 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat May 05 18:06:01 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992827771326906368, 
+            "id_str": "992827771326906368", 
+            "in_reply_to_screen_name": "czrnescrl", 
+            "in_reply_to_status_id": 992827767480700928, 
+            "in_reply_to_status_id_str": "992827767480700928", 
+            "in_reply_to_user_id": 4622951412, 
+            "in_reply_to_user_id_str": "4622951412", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "Always turn pain into power. Those words can't bring you down.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Dec 21 16:00:03 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "more than meets the eye.\n\nhi, i'm a mermaid living in the city", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 12395, 
+                "follow_request_sent": false, 
+                "followers_count": 510, 
+                "following": false, 
+                "friends_count": 264, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 4622951412, 
+                "id_str": "4622951412", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Ocean", 
+                "name": "siren\u00e9", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4622951412/1525810183", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993945294151729152/_XHYWshL_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993945294151729152/_XHYWshL_normal.jpg", 
+                "profile_link_color": "F58EA8", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "czrnescrl", 
+                "statuses_count": 26475, 
+                "time_zone": "Midway Island", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -39600, 
+                "verified": false
+            }
+        }
+]

@@ -1,0 +1,480 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 22:26:39 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993618140906098691", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/3zB5M1QwOX"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993618140906098691, 
+            "id_str": "993618140906098691", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.796517, 
+                                39.283539
+                            ], 
+                            [
+                                -76.711092, 
+                                39.283539
+                            ], 
+                            [
+                                -76.711092, 
+                                39.327477
+                            ], 
+                            [
+                                -76.796517, 
+                                39.327477
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Woodlawn, MD", 
+                "id": "bf64a5dd9b5f1cf2", 
+                "name": "Woodlawn", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/bf64a5dd9b5f1cf2.json"
+            }, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Literally contemplated suicide last night but today I\u2019m an egotist... okay. Fine , fuck it. Take everything if you\u2026 https://t.co/3zB5M1QwOX", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Mar 01 20:37:17 +0000 2014", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "And just like an artist with no art form,... she became dangerous_sula \u2661Melanin Merlot\u2661. my iG : Morgan_Ellana {I am the mother of misfits}", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "MyShitIsTheBomb.com", 
+                                "expanded_url": "http://MyShitIsTheBomb.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/jW7Lw0FJ6I"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 23478, 
+                "follow_request_sent": false, 
+                "followers_count": 873, 
+                "following": false, 
+                "friends_count": 1589, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2373935914, 
+                "id_str": "2373935914", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "With tyreke \ud83d\udc95", 
+                "name": "Honey Glazed\u2728", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2373935914/1522743587", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/953632123029721088/pwMOUU-l_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/953632123029721088/pwMOUU-l_normal.jpg", 
+                "profile_link_color": "F58EA8", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "PearlMagician", 
+                "statuses_count": 18475, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": "https://t.co/jW7Lw0FJ6I", 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 21:20:16 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993601432510222337", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/fgk9s4DNMC"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 45293175, 
+                        "id_str": "45293175", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Despicable G.", 
+                        "screen_name": "Baby_G3nius"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993601432510222337, 
+            "id_str": "993601432510222337", 
+            "in_reply_to_screen_name": "Baby_G3nius", 
+            "in_reply_to_status_id": 993599718923128834, 
+            "in_reply_to_status_id_str": "993599718923128834", 
+            "in_reply_to_user_id": 45293175, 
+            "in_reply_to_user_id_str": "45293175", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@Baby_G3nius Tbh like more than 200k after taxes! I make close to 100k bedore taxes and get raises every other year\u2026 https://t.co/fgk9s4DNMC", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Nov 14 04:13:07 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Always remain the same you and you won't have to worry about a different me! \u264f 27 #ThunderUp #RavensFlock RIP Dad 10-31-15 \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 #WakandaForever\ud83d\ude45\ud83c\udffe\u200d\u2642\ufe0f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4184, 
+                "follow_request_sent": false, 
+                "followers_count": 1615, 
+                "following": false, 
+                "friends_count": 2046, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 411993524, 
+                "id_str": "411993524", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 17, 
+                "location": "BALTIMORE ", 
+                "name": "\ud83d\ude08 #RavensFlock", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/411993524/1525743861", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993528700904886273/qIUDIssz_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993528700904886273/qIUDIssz_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Idris_Harden", 
+                "statuses_count": 37743, 
+                "time_zone": "Central Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat May 05 18:56:34 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 992840493527642115, 
+            "id_str": "992840493527642115", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.862926, 
+                                38.866446
+                            ], 
+                            [
+                                -76.802692, 
+                                38.866446
+                            ], 
+                            [
+                                -76.802692, 
+                                38.898322
+                            ], 
+                            [
+                                -76.862926, 
+                                38.898322
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Largo, MD", 
+                "id": "19f2fcdf0d209467", 
+                "name": "Largo", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/19f2fcdf0d209467.json"
+            }, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "HEART HURT NEED A PERC", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Feb 28 18:06:36 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "GG", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 10119, 
+                "follow_request_sent": false, 
+                "followers_count": 926, 
+                "following": false, 
+                "friends_count": 286, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 3050637458, 
+                "id_str": "3050637458", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Washington, DC", 
+                "name": "BT4L", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3050637458/1525782589", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993871213666725889/zsgVPDbG_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993871213666725889/zsgVPDbG_normal.jpg", 
+                "profile_link_color": "FF691F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "JalenMMM", 
+                "statuses_count": 3722, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 02:20:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2289982823, 
+                        "id_str": "2289982823", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "Lil Ahk", 
+                        "screen_name": "LilTae_RBC"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991502658157596672, 
+            "id_str": "991502658157596672", 
+            "in_reply_to_screen_name": "LilTae_RBC", 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": 2289982823, 
+            "in_reply_to_user_id_str": "2289982823", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": {
+                "attributes": {}, 
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -76.912348, 
+                                38.886827
+                            ], 
+                            [
+                                -76.886724, 
+                                38.886827
+                            ], 
+                            [
+                                -76.886724, 
+                                38.914939
+                            ], 
+                            [
+                                -76.912348, 
+                                38.914939
+                            ]
+                        ]
+                    ], 
+                    "type": "Polygon"
+                }, 
+                "contained_within": [], 
+                "country": "United States", 
+                "country_code": "US", 
+                "full_name": "Seat Pleasant, MD", 
+                "id": "afe336fdd7d1b837", 
+                "name": "Seat Pleasant", 
+                "place_type": "city", 
+                "url": "https://api.twitter.com/1.1/geo/id/afe336fdd7d1b837.json"
+            }, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@LilTae_RBC You Say you need Gass? WaMM. You say you need need Percs? WaMM. Shit Crank bro\ud83d\udd25", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Sep 06 13:12:50 +0000 2014", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "FHHS 2K18. Sc-Broskidarius Bestfriend @_envynijahh \u2764\ufe0f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1991, 
+                "follow_request_sent": false, 
+                "followers_count": 840, 
+                "following": false, 
+                "friends_count": 637, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 2762868455, 
+                "id_str": "2762868455", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "", 
+                "name": "D2\ufe0f\u20e3 \u26a1\ufe0f", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2762868455/1515810652", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/977007217290432512/pagz0j3u_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/977007217290432512/pagz0j3u_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "D2Luciano", 
+                "statuses_count": 10722, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -25200, 
+                "verified": false
+            }
+        }
+]

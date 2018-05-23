@@ -1,0 +1,501 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 10:45:48 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994528926394454017", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/ScS2nejuLD"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 15020865, 
+                        "id_str": "15020865", 
+                        "indices": [
+                            18, 
+                            27
+                        ], 
+                        "name": "Pittsburgh Penguins", 
+                        "screen_name": "penguins"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994528926394454017, 
+            "id_str": "994528926394454017", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "Day 3 s/p no more @penguins hockey: Game 7 should have been last night. Some of the players enjoyed a day of golfin\u2026 https://t.co/ScS2nejuLD", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Mar 02 03:53:01 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 2338, 
+                "follow_request_sent": false, 
+                "followers_count": 241, 
+                "following": false, 
+                "friends_count": 359, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 259555751, 
+                "id_str": "259555751", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "New Paris, PA ", 
+                "name": "Matt Amick", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/259555751/1402624717", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484121230925373440/bXAz1NMa_normal.jpeg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484121230925373440/bXAz1NMa_normal.jpeg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "matmickslipslap", 
+                "statuses_count": 9843, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu May 10 08:23:15 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994493052793176066", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/wysCcTHsVq"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994493052793176066, 
+            "id_str": "994493052793176066", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Thu May 10 08:18:21 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994491821551112192", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/vhO7L32FEx"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 1, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994491821551112192, 
+                "id_str": "994491821551112192", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": true, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "quoted_status_id": 994491346374221824, 
+                "quoted_status_id_str": "994491346374221824", 
+                "retweet_count": 0, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+                "text": "\"Yeah, I know.\" Chris said softly. But it scared him a little to see Sebastian so hurt. \"You need antibiotics at le\u2026 https://t.co/vhO7L32FEx", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Sat May 05 23:52:09 +0000 2018", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "\u1d21\u029c\u1d00\u1d1b \u1d0d\u1d00\u1d05\u1d07 \u1d1b\u029c\u1d07\u1d0d \u1d21\u1d00\u0274\u1d1b \u1d1b\u1d0f \u1d04\u1d0f\u1d0d\u1d07 \u1d00\u0274\u1d05 \u0299\u029f\u1d0f\u1d21 \u028f\u1d0f\u1d1c \u1d00\u1d21\u1d00\u028f? | son of a priest | ex-addict | mafia gun | mature content | #RaccoonWriter", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "twitlonger.com/show/n_1sqhdv4", 
+                                    "expanded_url": "http://www.twitlonger.com/show/n_1sqhdv4", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/hmVbgcGFWK"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 163, 
+                    "follow_request_sent": false, 
+                    "followers_count": 17, 
+                    "following": false, 
+                    "friends_count": 21, 
+                    "geo_enabled": false, 
+                    "has_extended_profile": false, 
+                    "id": 992914877780869120, 
+                    "id_str": "992914877780869120", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 0, 
+                    "location": "Bucharest, Romania", 
+                    "name": "Chris Kelly", 
+                    "notifications": false, 
+                    "profile_background_color": "F5F8FA", 
+                    "profile_background_image_url": null, 
+                    "profile_background_image_url_https": null, 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/992914877780869120/1525568008", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/993733625714638848/8NagZIvP_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/993733625714638848/8NagZIvP_normal.jpg", 
+                    "profile_link_color": "1DA1F2", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "AGunForStChris", 
+                    "statuses_count": 285, 
+                    "time_zone": null, 
+                    "translator_type": "none", 
+                    "url": "https://t.co/hmVbgcGFWK", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "quoted_status_id": 994491821551112192, 
+            "quoted_status_id_str": "994491821551112192", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "\u201cNo, I prefer to avoid hospitals for things I can fix myself.\u201d Ice: back on Stan\u2019s face. Starfish lay now. He\u2019s goo\u2026 https://t.co/wysCcTHsVq", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat Apr 21 19:20:35 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "\u201cI take care of people, baietel. Don\u2019t worry about it.\u201d || mv/ms || bi || #BoundToNeverland", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 364, 
+                "follow_request_sent": false, 
+                "followers_count": 59, 
+                "following": false, 
+                "friends_count": 269, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 987773108663631872, 
+                "id_str": "987773108663631872", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Romania", 
+                "name": "Subik", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/987773108663631872/1524338741", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/987774271446372352/nfR7zfv2_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/987774271446372352/nfR7zfv2_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "RomanianKingpin", 
+                "statuses_count": 333, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 20:11:21 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993584088895324167", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/jVJgQoPYY8"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993584088895324167, 
+            "id_str": "993584088895324167", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "\"Running away from you takes time and pain and I don't even want to\nSo I'm getting high all week without you\nPoppin\u2026 https://t.co/jVJgQoPYY8", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 09 12:51:38 +0000 2009", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "17/07/2016@EC YOUTUBERS:\u2661Shaytards\u2661 MUSIC: \u2661MCR\u2661Bring Me The Horizon\u2661twenty \u00f8ne pil\u00f8ts\u2661Enter Shikari\u2661NEWS\u2661\u30c6\u30b4\u30de\u30b9\u2661\u96c5-MIYAVI-", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "maddy96myv.tumblr.com", 
+                                "expanded_url": "http://maddy96myv.tumblr.com", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "url": "https://t.co/gha58rzUwY"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 63056, 
+                "follow_request_sent": false, 
+                "followers_count": 808, 
+                "following": false, 
+                "friends_count": 1475, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 29976836, 
+                "id_str": "29976836", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 29, 
+                "location": "Romania", 
+                "name": "\ud83d\udc9c maddy\u27b3\u263e\u2727 \ud83d\udda4", 
+                "notifications": false, 
+                "profile_background_color": "EBEBEB", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623584556839489536/H2cUAscG.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623584556839489536/H2cUAscG.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/29976836/1516312017", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/949348127735275520/x9wu_sph_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/949348127735275520/x9wu_sph_normal.jpg", 
+                "profile_link_color": "9266CC", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "FFF7CC", 
+                "profile_text_color": "0C3E53", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "maddy96myv", 
+                "statuses_count": 80416, 
+                "time_zone": "Bucharest", 
+                "translator_type": "regular", 
+                "url": "https://t.co/gha58rzUwY", 
+                "utc_offset": 10800, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed May 02 15:03:20 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/991694634928693249", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/LWqgGTyMjj"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 991694634928693249, 
+            "id_str": "991694634928693249", 
+            "in_reply_to_screen_name": "hwallarrow", 
+            "in_reply_to_status_id": 991693701003948032, 
+            "in_reply_to_status_id_str": "991693701003948032", 
+            "in_reply_to_user_id": 902612465057390592, 
+            "in_reply_to_user_id_str": "902612465057390592", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "I just hope when a year passed i would feel better enough to look back on his picture folders or listen to their so\u2026 https://t.co/LWqgGTyMjj", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Aug 29 19:22:36 +0000 2017", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u210ewall (#\ud65c) \u27b3 #theboyz \u2661 younghoon has a chicky named \ub274 \ud83d\udc25", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 2676, 
+                "follow_request_sent": false, 
+                "followers_count": 23, 
+                "following": false, 
+                "friends_count": 125, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 902612465057390592, 
+                "id_str": "902612465057390592", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Ocean", 
+                "name": "\ud65c\ub791\ud83d\udc98", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/902612465057390592/1523208042", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993546810269417474/DR_srVpL_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993546810269417474/DR_srVpL_normal.jpg", 
+                "profile_link_color": "E81C4F", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "hwallarrow", 
+                "statuses_count": 2530, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }
+]

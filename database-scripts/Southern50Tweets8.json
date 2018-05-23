@@ -1,0 +1,2340 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 17:16:20 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994989597909311489", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/zKzVEToLCX"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 18369812, 
+                        "id_str": "18369812", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "High Times", 
+                        "screen_name": "HIGH_TIMES_Mag"
+                    }, 
+                    {
+                        "id": 31176345, 
+                        "id_str": "31176345", 
+                        "indices": [
+                            16, 
+                            31
+                        ], 
+                        "name": "Blues Traveler", 
+                        "screen_name": "blues_traveler"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994989597909311489, 
+            "id_str": "994989597909311489", 
+            "in_reply_to_screen_name": "HIGH_TIMES_Mag", 
+            "in_reply_to_status_id": 994985626775760898, 
+            "in_reply_to_status_id_str": "994985626775760898", 
+            "in_reply_to_user_id": 18369812, 
+            "in_reply_to_user_id_str": "18369812", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@HIGH_TIMES_Mag @blues_traveler BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax\u2026 https://t.co/zKzVEToLCX", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 17:12:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994988645722607616", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/mFzKYhtFW1"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 18369812, 
+                        "id_str": "18369812", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "High Times", 
+                        "screen_name": "HIGH_TIMES_Mag"
+                    }, 
+                    {
+                        "id": 31176345, 
+                        "id_str": "31176345", 
+                        "indices": [
+                            16, 
+                            31
+                        ], 
+                        "name": "Blues Traveler", 
+                        "screen_name": "blues_traveler"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994988645722607616, 
+            "id_str": "994988645722607616", 
+            "in_reply_to_screen_name": "HIGH_TIMES_Mag", 
+            "in_reply_to_status_id": 994985626775760898, 
+            "in_reply_to_status_id_str": "994985626775760898", 
+            "in_reply_to_user_id": 18369812, 
+            "in_reply_to_user_id_str": "18369812", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@HIGH_TIMES_Mag @blues_traveler BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax\u2026 https://t.co/mFzKYhtFW1", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 17:12:07 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994988534728658946", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/z09jpTKjxB"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994988534728658946, 
+            "id_str": "994988534728658946", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 17:00:34 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                65, 
+                                77
+                            ], 
+                            "text": "CannabisCup"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994985626775760898", 
+                            "indices": [
+                                117, 
+                                140
+                            ], 
+                            "url": "https://t.co/6UZTNSKtWw"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 31176345, 
+                            "id_str": "31176345", 
+                            "indices": [
+                                2, 
+                                17
+                            ], 
+                            "name": "Blues Traveler", 
+                            "screen_name": "blues_traveler"
+                        }
+                    ]
+                }, 
+                "favorite_count": 15, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994985626775760898, 
+                "id_str": "994985626775760898", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 7, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "\ud83c\udfc6 @blues_traveler is joining Phil Lesh And Friends in the NorCal #CannabisCup lineup! \ud83d\udd25\ud83c\udfb6 June 2-3 in Santa Rosa, CA\u2026 https://t.co/6UZTNSKtWw", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Dec 25 03:36:51 +0000 2008", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The Magazine Of High Society", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hightimes.com", 
+                                    "expanded_url": "https://hightimes.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/yhLEBvcOTL"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5021, 
+                    "follow_request_sent": false, 
+                    "followers_count": 705349, 
+                    "following": false, 
+                    "friends_count": 4029, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 18369812, 
+                    "id_str": "18369812", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3595, 
+                    "location": "", 
+                    "name": "High Times", 
+                    "notifications": false, 
+                    "profile_background_color": "1F1F1F", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18369812/1520952410", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_link_color": "EC1C21", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "HIGH_TIMES_Mag", 
+                    "statuses_count": 64809, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/yhLEBvcOTL", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "quoted_status_id": 994985626775760898, 
+            "quoted_status_id_str": "994985626775760898", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydrocodone , Cialis\u2026 https://t.co/z09jpTKjxB", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 16:14:56 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994974146244235264", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/czu1rTv24t"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 176458769, 
+                        "id_str": "176458769", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "ljcaseme", 
+                        "screen_name": "navyswomom"
+                    }, 
+                    {
+                        "id": 803694179079458816, 
+                        "id_str": "803694179079458816", 
+                        "indices": [
+                            12, 
+                            28
+                        ], 
+                        "name": "Kamala Harris", 
+                        "screen_name": "SenKamalaHarris"
+                    }, 
+                    {
+                        "id": 15808765, 
+                        "id_str": "15808765", 
+                        "indices": [
+                            29, 
+                            40
+                        ], 
+                        "name": "Cory Booker", 
+                        "screen_name": "CoryBooker"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994974146244235264, 
+            "id_str": "994974146244235264", 
+            "in_reply_to_screen_name": "navyswomom", 
+            "in_reply_to_status_id": 994913489100648448, 
+            "in_reply_to_status_id_str": "994913489100648448", 
+            "in_reply_to_user_id": 176458769, 
+            "in_reply_to_user_id_str": "176458769", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@navyswomom @SenKamalaHarris @CoryBooker It\u2019s on the 4473 Can\u2019t sell a gun to a pot user.\nYou are right, no differe\u2026 https://t.co/czu1rTv24t", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Wed Jul 06 02:58:49 +0000 2016", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Loves this great country.\ud83c\uddfa\ud83c\uddf8 Strong 2nd Amendment supporter, wife of a veteran. Conservative.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 35709, 
+                "follow_request_sent": false, 
+                "followers_count": 457, 
+                "following": false, 
+                "friends_count": 529, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 750524372096462849, 
+                "id_str": "750524372096462849", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "California, USA", 
+                "name": "Lori Harris", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/750524372096462849/1510289318", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/797027078327521281/0oniFt9m_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/797027078327521281/0oniFt9m_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LoriHar12240616", 
+                "statuses_count": 12533, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 15:57:17 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994969704870699010", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/5lSnToAHEJ"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 18369812, 
+                        "id_str": "18369812", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "High Times", 
+                        "screen_name": "HIGH_TIMES_Mag"
+                    }, 
+                    {
+                        "id": 30354991, 
+                        "id_str": "30354991", 
+                        "indices": [
+                            16, 
+                            29
+                        ], 
+                        "name": "Kamala Harris", 
+                        "screen_name": "KamalaHarris"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994969704870699010, 
+            "id_str": "994969704870699010", 
+            "in_reply_to_screen_name": "HIGH_TIMES_Mag", 
+            "in_reply_to_status_id": 994966554872893441, 
+            "in_reply_to_status_id_str": "994966554872893441", 
+            "in_reply_to_user_id": 18369812, 
+            "in_reply_to_user_id_str": "18369812", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@HIGH_TIMES_Mag @KamalaHarris BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,O\u2026 https://t.co/5lSnToAHEJ", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 15:52:53 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994968593971531777", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/OvlRwu7VYp"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994968593971531777, 
+            "id_str": "994968593971531777", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 15:44:46 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                94, 
+                                114
+                            ], 
+                            "text": "marijuanajusticeact"
+                        }
+                    ], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/DmuxI4aWgD", 
+                            "expanded_url": "https://twitter.com/HIGH_TIMES_Mag/status/994966554872893441/photo/1", 
+                            "id": 994966450967281664, 
+                            "id_str": "994966450967281664", 
+                            "indices": [
+                                115, 
+                                138
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc7UtzFWAAA3WBr.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc7UtzFWAAA3WBr.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "medium": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "small": {
+                                    "h": 408, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/DmuxI4aWgD"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "hightimes.com/news/sen-kamal\u2026", 
+                            "expanded_url": "http://hightimes.com/news/sen-kamala-harris-joins-ranks-marijuana-justice-act-sponsors/", 
+                            "indices": [
+                                70, 
+                                93
+                            ], 
+                            "url": "https://t.co/COX5nkTVoI"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 30354991, 
+                            "id_str": "30354991", 
+                            "indices": [
+                                5, 
+                                18
+                            ], 
+                            "name": "Kamala Harris", 
+                            "screen_name": "KamalaHarris"
+                        }
+                    ]
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/DmuxI4aWgD", 
+                            "expanded_url": "https://twitter.com/HIGH_TIMES_Mag/status/994966554872893441/photo/1", 
+                            "id": 994966450967281664, 
+                            "id_str": "994966450967281664", 
+                            "indices": [
+                                115, 
+                                138
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc7UtzFWAAA3WBr.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc7UtzFWAAA3WBr.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "medium": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "small": {
+                                    "h": 408, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/DmuxI4aWgD"
+                        }
+                    ]
+                }, 
+                "favorite_count": 27, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994966554872893441, 
+                "id_str": "994966554872893441", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 11, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "Sen. @KamalaHarris Joins the Ranks of Marijuana Justice Act Sponsors. https://t.co/COX5nkTVoI #marijuanajusticeact https://t.co/DmuxI4aWgD", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Dec 25 03:36:51 +0000 2008", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The Magazine Of High Society", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hightimes.com", 
+                                    "expanded_url": "https://hightimes.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/yhLEBvcOTL"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5021, 
+                    "follow_request_sent": false, 
+                    "followers_count": 705349, 
+                    "following": false, 
+                    "friends_count": 4029, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 18369812, 
+                    "id_str": "18369812", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3595, 
+                    "location": "", 
+                    "name": "High Times", 
+                    "notifications": false, 
+                    "profile_background_color": "1F1F1F", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18369812/1520952410", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_link_color": "EC1C21", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "HIGH_TIMES_Mag", 
+                    "statuses_count": 64809, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/yhLEBvcOTL", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "quoted_status_id": 994966554872893441, 
+            "quoted_status_id_str": "994966554872893441", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydrocodone , Cialis\u2026 https://t.co/OvlRwu7VYp", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 15:35:20 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994964179059589122", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "url": "https://t.co/g8OQpBABln"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 188843714, 
+                        "id_str": "188843714", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "Alice Sue Drake.", 
+                        "screen_name": "alicesue65"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994964179059589122, 
+            "id_str": "994964179059589122", 
+            "in_reply_to_screen_name": "alicesue65", 
+            "in_reply_to_status_id": 994959344470036485, 
+            "in_reply_to_status_id_str": "994959344470036485", 
+            "in_reply_to_user_id": 188843714, 
+            "in_reply_to_user_id_str": "188843714", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@alicesue65 YES! The mind movies can bring me to a crashing halt! I don't have a way to keep it from happening but\u2026 https://t.co/g8OQpBABln", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Tue Feb 20 03:39:44 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "#Resistance Making the world better for my daughters #dumptrump. Navigating the minefield of healing my marriage after infidelity! #infidelitysucks", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 603, 
+                "follow_request_sent": false, 
+                "followers_count": 103, 
+                "following": false, 
+                "friends_count": 259, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 965793061866430464, 
+                "id_str": "965793061866430464", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "California", 
+                "name": "afa kamala", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/965793061866430464/1519606190", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/967925280718299137/T6YPTeGl_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/967925280718299137/T6YPTeGl_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "afa_kamala", 
+                "statuses_count": 120, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:51:33 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994953162388844545", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/2pvvH5RxZ4"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 18369812, 
+                        "id_str": "18369812", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "High Times", 
+                        "screen_name": "HIGH_TIMES_Mag"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994953162388844545, 
+            "id_str": "994953162388844545", 
+            "in_reply_to_screen_name": "HIGH_TIMES_Mag", 
+            "in_reply_to_status_id": 994947944439787521, 
+            "in_reply_to_status_id_str": "994947944439787521", 
+            "in_reply_to_user_id": 18369812, 
+            "in_reply_to_user_id_str": "18369812", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@HIGH_TIMES_Mag BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydr\u2026 https://t.co/2pvvH5RxZ4", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:50:50 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994952979542413312", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/m6ygPqr3pt"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 18369812, 
+                        "id_str": "18369812", 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "name": "High Times", 
+                        "screen_name": "HIGH_TIMES_Mag"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994952979542413312, 
+            "id_str": "994952979542413312", 
+            "in_reply_to_screen_name": "HIGH_TIMES_Mag", 
+            "in_reply_to_status_id": 994948754712289280, 
+            "in_reply_to_status_id_str": "994948754712289280", 
+            "in_reply_to_user_id": 18369812, 
+            "in_reply_to_user_id_str": "18369812", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@HIGH_TIMES_Mag BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydr\u2026 https://t.co/m6ygPqr3pt", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:42:10 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994950797543780353", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/jvcCVAPTAc"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994950797543780353, 
+            "id_str": "994950797543780353", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydrocodone , Cialis\u2026 https://t.co/jvcCVAPTAc", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:41:02 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994950515711795201", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/pDtWTlbg8f"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994950515711795201, 
+            "id_str": "994950515711795201", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:40:14 +0000 2018", 
+                "entities": {
+                    "hashtags": [], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/M8B72wzOZl", 
+                            "expanded_url": "https://twitter.com/HIGH_TIMES_Mag/status/994950312376053761/photo/1", 
+                            "id": 994950310677368833, 
+                            "id_str": "994950310677368833", 
+                            "indices": [
+                                95, 
+                                118
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc7GCT0W0AEwXQp.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc7GCT0W0AEwXQp.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 625, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "medium": {
+                                    "h": 625, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "small": {
+                                    "h": 425, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/M8B72wzOZl"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "hightimes.com/news/study-fin\u2026", 
+                            "expanded_url": "http://hightimes.com/news/study-finds-colorado-dispensaries-promoting-weed-use-during-pregnancy/", 
+                            "indices": [
+                                71, 
+                                94
+                            ], 
+                            "url": "https://t.co/WasLIPkfy6"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/M8B72wzOZl", 
+                            "expanded_url": "https://twitter.com/HIGH_TIMES_Mag/status/994950312376053761/photo/1", 
+                            "id": 994950310677368833, 
+                            "id_str": "994950310677368833", 
+                            "indices": [
+                                95, 
+                                118
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc7GCT0W0AEwXQp.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc7GCT0W0AEwXQp.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 625, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "medium": {
+                                    "h": 625, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "small": {
+                                    "h": 425, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/M8B72wzOZl"
+                        }
+                    ]
+                }, 
+                "favorite_count": 52, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994950312376053761, 
+                "id_str": "994950312376053761", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 22, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Study Finds Colorado Dispensaries Promoting Weed Use During Pregnancy. https://t.co/WasLIPkfy6 https://t.co/M8B72wzOZl", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Dec 25 03:36:51 +0000 2008", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The Magazine Of High Society", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hightimes.com", 
+                                    "expanded_url": "https://hightimes.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/yhLEBvcOTL"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5021, 
+                    "follow_request_sent": false, 
+                    "followers_count": 705349, 
+                    "following": false, 
+                    "friends_count": 4029, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 18369812, 
+                    "id_str": "18369812", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3595, 
+                    "location": "", 
+                    "name": "High Times", 
+                    "notifications": false, 
+                    "profile_background_color": "1F1F1F", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18369812/1520952410", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_link_color": "EC1C21", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "HIGH_TIMES_Mag", 
+                    "statuses_count": 64809, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/yhLEBvcOTL", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "quoted_status_id": 994950312376053761, 
+            "quoted_status_id_str": "994950312376053761", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydrocodone , Cialis\u2026 https://t.co/pDtWTlbg8f", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:37:29 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994949618910810112", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/Vzjk6vqFiU"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994949618910810112, 
+            "id_str": "994949618910810112", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:30:49 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                20, 
+                                30
+                            ], 
+                            "text": "Wisconsin"
+                        }
+                    ], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/dS0Aq0Bfne", 
+                            "expanded_url": "https://twitter.com/HIGH_TIMES_Mag/status/994947944439787521/photo/1", 
+                            "id": 994947941763833856, 
+                            "id_str": "994947941763833856", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc7D4a7W4AA5BqJ.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc7D4a7W4AA5BqJ.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "medium": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "small": {
+                                    "h": 408, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/dS0Aq0Bfne"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "hightimes.com/news/milwaukee\u2026", 
+                            "expanded_url": "http://hightimes.com/news/milwaukee-unanimously-votes-put-marijuana-november-ballot/", 
+                            "indices": [
+                                86, 
+                                109
+                            ], 
+                            "url": "https://t.co/lJf30zMT2m"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/dS0Aq0Bfne", 
+                            "expanded_url": "https://twitter.com/HIGH_TIMES_Mag/status/994947944439787521/photo/1", 
+                            "id": 994947941763833856, 
+                            "id_str": "994947941763833856", 
+                            "indices": [
+                                110, 
+                                133
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/Dc7D4a7W4AA5BqJ.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Dc7D4a7W4AA5BqJ.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "medium": {
+                                    "h": 600, 
+                                    "resize": "fit", 
+                                    "w": 1000
+                                }, 
+                                "small": {
+                                    "h": 408, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/dS0Aq0Bfne"
+                        }
+                    ]
+                }, 
+                "favorite_count": 49, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994947944439787521, 
+                "id_str": "994947944439787521", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 20, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Milwaukee County in #Wisconsin Unanimously Votes to Put Marijuana on November Ballot. https://t.co/lJf30zMT2m https://t.co/dS0Aq0Bfne", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Dec 25 03:36:51 +0000 2008", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The Magazine Of High Society", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hightimes.com", 
+                                    "expanded_url": "https://hightimes.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/yhLEBvcOTL"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5021, 
+                    "follow_request_sent": false, 
+                    "followers_count": 705349, 
+                    "following": false, 
+                    "friends_count": 4029, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 18369812, 
+                    "id_str": "18369812", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3595, 
+                    "location": "", 
+                    "name": "High Times", 
+                    "notifications": false, 
+                    "profile_background_color": "1F1F1F", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18369812/1520952410", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_link_color": "EC1C21", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "HIGH_TIMES_Mag", 
+                    "statuses_count": 64809, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/yhLEBvcOTL", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "quoted_status_id": 994947944439787521, 
+            "quoted_status_id_str": "994947944439787521", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydrocodone , Cialis\u2026 https://t.co/Vzjk6vqFiU", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:35:58 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994949238537809920", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/trM07xwYOd"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994949238537809920, 
+            "id_str": "994949238537809920", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": true, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "quoted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Fri May 11 14:34:03 +0000 2018", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                26, 
+                                39
+                            ], 
+                            "text": "Philadelphia"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026", 
+                            "expanded_url": "https://twitter.com/i/web/status/994948754712289280", 
+                            "indices": [
+                                98, 
+                                121
+                            ], 
+                            "url": "https://t.co/nIqfjyMb0D"
+                        }
+                    ], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 28, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 994948754712289280, 
+                "id_str": "994948754712289280", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 12, 
+                "retweeted": false, 
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+                "text": "Not To Be Left Out Again, #Philadelphia Vying For License to Grow and Process Medical Marijuana.\u2026 https://t.co/nIqfjyMb0D", 
+                "truncated": true, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Thu Dec 25 03:36:51 +0000 2008", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "The Magazine Of High Society", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hightimes.com", 
+                                    "expanded_url": "https://hightimes.com", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/yhLEBvcOTL"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 5021, 
+                    "follow_request_sent": false, 
+                    "followers_count": 705349, 
+                    "following": false, 
+                    "friends_count": 4029, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 18369812, 
+                    "id_str": "18369812", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3595, 
+                    "location": "", 
+                    "name": "High Times", 
+                    "notifications": false, 
+                    "profile_background_color": "1F1F1F", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/510171409281077249/ZD4qxrRD.jpeg", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18369812/1520952410", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973571146649079810/Fl3R7_7F_normal.jpg", 
+                    "profile_link_color": "EC1C21", 
+                    "profile_sidebar_border_color": "000000", 
+                    "profile_sidebar_fill_color": "DDFFCC", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": false, 
+                    "protected": false, 
+                    "screen_name": "HIGH_TIMES_Mag", 
+                    "statuses_count": 64809, 
+                    "time_zone": "Eastern Time (US & Canada)", 
+                    "translator_type": "none", 
+                    "url": "https://t.co/yhLEBvcOTL", 
+                    "utc_offset": -14400, 
+                    "verified": true
+                }
+            }, 
+            "quoted_status_id": 994948754712289280, 
+            "quoted_status_id_str": "994948754712289280", 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "BUY Medical Marijuana, Clone, Cannabis Oils,high pills Seeds Pills Percocet, Xanax ,Oxycodone ,Hydrocodone , Cialis\u2026 https://t.co/trM07xwYOd", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Mar 19 09:07:35 +0000 2018", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "WE GOT MMJ/ ADHD / DIAZEPAM FOR PAIN, CANCER, INSOMNIA, ANXIETY, DEPRESSION, @  kattymoore12@gmail.com / TEXT @ +1(832)749-0485 / OR WHATSAPP @ +1(832) 779-5194", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1672, 
+                "follow_request_sent": false, 
+                "followers_count": 1299, 
+                "following": false, 
+                "friends_count": 2825, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 975660042396557312, 
+                "id_str": "975660042396557312", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "California, USA", 
+                "name": "Kattymoore", 
+                "notifications": false, 
+                "profile_background_color": "000000", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/975660042396557312/1525705699", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993509533053083648/PMthAuYV_normal.jpg", 
+                "profile_link_color": "ABB8C2", 
+                "profile_sidebar_border_color": "000000", 
+                "profile_sidebar_fill_color": "000000", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": false, 
+                "protected": false, 
+                "screen_name": "Kattymoore3", 
+                "statuses_count": 1834, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 13:47:16 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994936984887013377", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/hlwK1DIX2j"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1129386732, 
+                        "id_str": "1129386732", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Life As A Stoner", 
+                        "screen_name": "LifeAsStoner"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994936984887013377, 
+            "id_str": "994936984887013377", 
+            "in_reply_to_screen_name": "LifeAsStoner", 
+            "in_reply_to_status_id": 940304181830782977, 
+            "in_reply_to_status_id_str": "940304181830782977", 
+            "in_reply_to_user_id": 1129386732, 
+            "in_reply_to_user_id_str": "1129386732", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@LifeAsStoner We grow and sell top quality medical grade hybrid, sativa and indica strains,I Supply To Both Patient\u2026 https://t.co/hlwK1DIX2j", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Sat May 05 22:46:52 +0000 2018", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "We grow and sell top quality medical grade hybrid, sativa and indica strains, indoor and 100% \u00a0organic. I Supply To Both Patients And Stoners...+1(530)636-0886", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 140, 
+                "follow_request_sent": false, 
+                "followers_count": 327, 
+                "following": false, 
+                "friends_count": 1305, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 992898450126790657, 
+                "id_str": "992898450126790657", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "California, USA", 
+                "name": "#high_day_legit_plug#", 
+                "notifications": false, 
+                "profile_background_color": "F5F8FA", 
+                "profile_background_image_url": null, 
+                "profile_background_image_url_https": null, 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/992898450126790657/1525561206", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/994664151678144512/ggm056ol_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/994664151678144512/ggm056ol_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "LegitDay", 
+                "statuses_count": 207, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 13:45:30 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994936539204505601", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/o8JOGMKnyN"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994936539204505601, 
+            "id_str": "994936539204505601", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Spend years at the crib so I don't feel the pain no more\nI don't feel the pain no more, \n\nI gotta get it how I live\u2026 https://t.co/o8JOGMKnyN", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Jun 13 05:03:19 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "nomadorwhat", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1015, 
+                "follow_request_sent": false, 
+                "followers_count": 193, 
+                "following": false, 
+                "friends_count": 198, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 316251592, 
+                "id_str": "316251592", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "Easton, MD", 
+                "name": "Tyler Scott", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/316251592/1490968082", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/739793255114637312/hPDj0BRA_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/739793255114637312/hPDj0BRA_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "hate_tyler", 
+                "statuses_count": 3489, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -14400, 
+                "verified": false
+            }
+        }
+]

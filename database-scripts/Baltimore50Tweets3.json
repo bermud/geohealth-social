@@ -1,0 +1,511 @@
+[
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri May 11 14:00:35 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/994940334961446912", 
+                        "indices": [
+                            112, 
+                            135
+                        ], 
+                        "url": "https://t.co/enzGvrCZAZ"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 774058706132725760, 
+                        "id_str": "774058706132725760", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "Aunt Tritsy", 
+                        "screen_name": "AuntTritsy"
+                    }, 
+                    {
+                        "id": 841445554097917952, 
+                        "id_str": "841445554097917952", 
+                        "indices": [
+                            12, 
+                            28
+                        ], 
+                        "name": "Veterans United March", 
+                        "screen_name": "VetsUnitedMarch"
+                    }, 
+                    {
+                        "id": 2721815892, 
+                        "id_str": "2721815892", 
+                        "indices": [
+                            29, 
+                            37
+                        ], 
+                        "name": "Mystery Sleuths Club", 
+                        "screen_name": "ClubDie"
+                    }, 
+                    {
+                        "id": 35376068, 
+                        "id_str": "35376068", 
+                        "indices": [
+                            38, 
+                            52
+                        ], 
+                        "name": "\ud83c\udf43\ud83c\udf37Mrs. C. \ud83c\udf37\ud83c\udf43", 
+                        "screen_name": "CarolynColson"
+                    }, 
+                    {
+                        "id": 344233703, 
+                        "id_str": "344233703", 
+                        "indices": [
+                            53, 
+                            67
+                        ], 
+                        "name": "BlogLiberally\u2122\u00ae", 
+                        "screen_name": "BlogLiberally"
+                    }, 
+                    {
+                        "id": 1276123177, 
+                        "id_str": "1276123177", 
+                        "indices": [
+                            68, 
+                            84
+                        ], 
+                        "name": "FirstWillisCrew", 
+                        "screen_name": "FirstWillisCrew"
+                    }, 
+                    {
+                        "id": 382513323, 
+                        "id_str": "382513323", 
+                        "indices": [
+                            85, 
+                            97
+                        ], 
+                        "name": "Shasta Rayne \u2b50\ufe0f", 
+                        "screen_name": "Shasta77777"
+                    }, 
+                    {
+                        "id": 904894817955717120, 
+                        "id_str": "904894817955717120", 
+                        "indices": [
+                            98, 
+                            110
+                        ], 
+                        "name": "JMK \u2b50\ufe0f", 
+                        "screen_name": "Jmkilingnyc"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 994940334961446912, 
+            "id_str": "994940334961446912", 
+            "in_reply_to_screen_name": "AuntTritsy", 
+            "in_reply_to_status_id": 975128134952542208, 
+            "in_reply_to_status_id_str": "975128134952542208", 
+            "in_reply_to_user_id": 774058706132725760, 
+            "in_reply_to_user_id_str": "774058706132725760", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+            "text": "@AuntTritsy @VetsUnitedMarch @ClubDie @CarolynColson @BlogLiberally @FirstWillisCrew @Shasta77777 @Jmkilingnyc\u2026 https://t.co/enzGvrCZAZ", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Nov 16 21:53:59 +0000 2015", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "retired military USAF, Equality 4 all,Believes in the protection of Truth, Justice & the American way of Life. #VetResistSquadron #NativeAmerican #TheResistance", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 9415, 
+                "follow_request_sent": false, 
+                "followers_count": 963, 
+                "following": false, 
+                "friends_count": 900, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 4260915134, 
+                "id_str": "4260915134", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 0, 
+                "location": "New Mexico, USA", 
+                "name": "Sue", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4260915134/1519749440", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/924392727831183361/2BUeA-AW_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/924392727831183361/2BUeA-AW_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "suejard", 
+                "statuses_count": 8064, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 11:57:44 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993822256143962112", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/0PNgvmvEIE"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 1570934492, 
+                        "id_str": "1570934492", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "Wrow", 
+                        "screen_name": "thatguytj1"
+                    }, 
+                    {
+                        "id": 2733694897, 
+                        "id_str": "2733694897", 
+                        "indices": [
+                            12, 
+                            23
+                        ], 
+                        "name": "Ferrero_64", 
+                        "screen_name": "Ferrero_64"
+                    }, 
+                    {
+                        "id": 51651042, 
+                        "id_str": "51651042", 
+                        "indices": [
+                            24, 
+                            36
+                        ], 
+                        "name": "The Crimson Blur", 
+                        "screen_name": "OXY_Crimson"
+                    }, 
+                    {
+                        "id": 930336817, 
+                        "id_str": "930336817", 
+                        "indices": [
+                            37, 
+                            45
+                        ], 
+                        "name": "Zack M8land", 
+                        "screen_name": "ZM8Land"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993822256143962112, 
+            "id_str": "993822256143962112", 
+            "in_reply_to_screen_name": "thatguytj1", 
+            "in_reply_to_status_id": 993811285224673282, 
+            "in_reply_to_status_id_str": "993811285224673282", 
+            "in_reply_to_user_id": 1570934492, 
+            "in_reply_to_user_id_str": "1570934492", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@thatguytj1 @Ferrero_64 @OXY_Crimson @ZM8Land I think M2K has stated at some point that he thinks that Falco is the\u2026 https://t.co/0PNgvmvEIE", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Dec 16 02:19:25 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 9382, 
+                "follow_request_sent": false, 
+                "followers_count": 42, 
+                "following": false, 
+                "friends_count": 263, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 437989868, 
+                "id_str": "437989868", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 1, 
+                "location": "Rockville, MD", 
+                "name": "David Finder", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/764299139668701185/dgYIGtf1_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/764299139668701185/dgYIGtf1_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "PKhaxorz", 
+                "statuses_count": 585, 
+                "time_zone": null, 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue May 08 01:15:31 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 14089871, 
+                        "id_str": "14089871", 
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "name": "Emily Drabinski", 
+                        "screen_name": "edrabinski"
+                    }
+                ]
+            }, 
+            "favorite_count": 3, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993660634628874240, 
+            "id_str": "993660634628874240", 
+            "in_reply_to_screen_name": "edrabinski", 
+            "in_reply_to_status_id": 993592461028134912, 
+            "in_reply_to_status_id_str": "993592461028134912", 
+            "in_reply_to_user_id": 14089871, 
+            "in_reply_to_user_id_str": "14089871", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "@edrabinski Six tabs of oxy after surgery and I knew it wouldn't take much to get #3 down too.", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Fri Feb 19 05:34:01 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Bicyclist, Teacher Bee, Word Counter", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "\u2026ridingmybikearoundtoday.wordpress.com", 
+                                "expanded_url": "http://whatisawridingmybikearoundtoday.wordpress.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/gPso5ieWg2"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 13116, 
+                "follow_request_sent": false, 
+                "followers_count": 1233, 
+                "following": false, 
+                "friends_count": 1487, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 115588310, 
+                "id_str": "115588310", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 47, 
+                "location": "Baltimore, MD", 
+                "name": "Kate Drabinski", 
+                "notifications": false, 
+                "profile_background_color": "ACDED6", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/950634636/Apr012009_0007_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/950634636/Apr012009_0007_normal.jpg", 
+                "profile_link_color": "038543", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "F6F6F6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "kdrabinski", 
+                "statuses_count": 14121, 
+                "time_zone": "Central Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": "http://t.co/gPso5ieWg2", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon May 07 21:20:16 +0000 2018", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026", 
+                        "expanded_url": "https://twitter.com/i/web/status/993601432510222337", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "url": "https://t.co/fgk9s4DNMC"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 45293175, 
+                        "id_str": "45293175", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Despicable G.", 
+                        "screen_name": "Baby_G3nius"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 993601432510222337, 
+            "id_str": "993601432510222337", 
+            "in_reply_to_screen_name": "Baby_G3nius", 
+            "in_reply_to_status_id": 993599718923128834, 
+            "in_reply_to_status_id_str": "993599718923128834", 
+            "in_reply_to_user_id": 45293175, 
+            "in_reply_to_user_id_str": "45293175", 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "@Baby_G3nius Tbh like more than 200k after taxes! I make close to 100k bedore taxes and get raises every other year\u2026 https://t.co/fgk9s4DNMC", 
+            "truncated": true, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Nov 14 04:13:07 +0000 2011", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "Always remain the same you and you won't have to worry about a different me! \u264f 27 #ThunderUp #RavensFlock RIP Dad 10-31-15 \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 #WakandaForever\ud83d\ude45\ud83c\udffe\u200d\u2642\ufe0f", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 4184, 
+                "follow_request_sent": false, 
+                "followers_count": 1615, 
+                "following": false, 
+                "friends_count": 2046, 
+                "geo_enabled": true, 
+                "has_extended_profile": true, 
+                "id": 411993524, 
+                "id_str": "411993524", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 17, 
+                "location": "BALTIMORE ", 
+                "name": "\ud83d\ude08 #RavensFlock", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/411993524/1525743861", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/993528700904886273/qIUDIssz_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/993528700904886273/qIUDIssz_normal.jpg", 
+                "profile_link_color": "1DA1F2", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "Idris_Harden", 
+                "statuses_count": 37743, 
+                "time_zone": "Central Time (US & Canada)", 
+                "translator_type": "none", 
+                "url": null, 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }
+]
