@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# mongoexport --jsonArray -d tweets -c Southeast -q '{ $text: { $search: "oxy perc" } }' | json_pp | sed -z 's/^/\{ \"statuses\": /' - | sed -z 's/$/\}/' - > tweets.json
+mongoexport --jsonArray -d tweets -c alltweets -q '{ $text: { $search: "oxy perc" } }' | json_pp | sed -z 's/^/\{ \"statuses\": /' - | sed -z 's/$/\}/' - > tweets.json
+# mongoexport --jsonArray -d tweets -c alltweets | json_pp | sed -z 's/^/\{ \"statuses\": /' - | sed -z 's/$/\}/' - > tweets.json
+
+python3 togeo_ProjectFinal.py tweets.json output.json
+
+cat json_header output.json > outputtmp.json
+
+cp outputtmp.json /var/www/html/Web_Data/output.json
+
