@@ -1,1 +1,13 @@
-place in this folder the javascript code for the visualization
+
+This project uses the Leaflet javascipt library to produce a web-viewable map. The geo_health_demo.html file for the web page references the necessary Leaflet scripts, incorporating a unique Leaflet access key.
+Please consult the Leaflet tutorial documenation for information on setting up a basic map with one's own key. https://leafletjs.com/examples/quick-start/
+A Leaflet tutorial for incorporating GeoJSON data can be found here   https://leafletjs.com/examples/geojson/
+The HTML also references JSON files which serve as the source of geographic data for the map. Each JSON file contains a javascipt variable wrapped around the JSON data.
+
+The Javascript code for implementation of the map itself is found in the geo_health_demo.js file. Individual components are commented in the code.
+
+Layers for political boundaries or other static geographies are JSON files containing polygons and imported into Leaflet using the L.geojson() method.
+
+The map marker clustering was created using Leaflet JavaScript Library. Markers usually overlap on maps and visualizing them in cluster from makes the map neater in appearance and visually appealing.
+Documentation for creating a cluster marker is done using a L.markerClusterGroup and  can be found here: https://leafletjs.com/2012/08/20/guest-post-markerclusterer-0-1-released.html
+
