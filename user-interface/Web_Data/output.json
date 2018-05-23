@@ -1,0 +1,269 @@
+var tweets =
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '992064114460712966'},
+"date": "Thu May 03 15:31:31 +0000 2018",
+"text":"@GiveEmTwoo Nigga probably popping damn percs, shit lame but he aint on no heroin🤷🏾‍♂️ I just feel like niggas taking him to serious"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.63101226106426,39.503527404113974]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '992933081609732097'},
+"date": "Sun May 06 01:04:29 +0000 2018",
+"text":"I made this beat off two percs and two kpins last night. 🔥 or 💩❓❓ https://t.co/8vzzBo2rAV"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.29036547472457,39.579452675852515]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994648108897366020'},
+"date": "Thu May 10 18:39:23 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.27154653609529,39.505679025572285]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994543588322267136'},
+"date": "Thu May 10 11:44:03 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.62633745941643,39.5133424695186]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994106564167503872'},
+"date": "Wed May 09 06:47:29 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.25945719219588,39.59988074987889]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994029801596997639'},
+"date": "Wed May 09 01:42:27 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.42020742125469,39.616931852908024]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994029277422141441'},
+"date": "Wed May 09 01:40:22 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.50297763326913,39.39322306038989]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994009693952540672'},
+"date": "Wed May 09 00:22:33 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.38846375022416,39.50795548668305]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993923579019317248'},
+"date": "Tue May 08 18:40:22 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.53716941289167,39.61358354033882]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993901194111315968'},
+"date": "Tue May 08 17:11:25 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.35115374647498,39.65220340374184]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994685266907414529'},
+"date": "Thu May 10 21:07:02 +0000 2018",
+"text":"RT @Basic_Geezus: I was just boolin smoking dope, imma pop this perc just to float ☁️"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.37637817005631,39.66112448206315]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994761128252096512'},
+"date": "Fri May 11 02:08:29 +0000 2018",
+"text":"in need of perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.42877097032978,39.45855760101807]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993676527505199104'},
+"date": "Tue May 08 02:18:40 +0000 2018",
+"text":"Pop me a perc and take off..."
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.5850257326204,39.35837713711312]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994019537170427904'},
+"date": "Wed May 09 01:01:40 +0000 2018",
+"text":"Stocks that are popping up on my STRONG BULLS scan for 5/8/2018 - $BIDU $AAPL $INTC $MA $V $NFLX $OXY $HES $ADBE… https://t.co/gyp6Yqkbp9"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.27327647561079,39.5162506512537]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993676219714486272'},
+"date": "Tue May 08 02:17:27 +0000 2018",
+"text":"RT @Niimohhh: Tell my mom that I’m sorry, I just popped another oxy 😵✌🏻"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.56036754961497,39.42366129073635]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '992503547722780673'},
+"date": "Fri May 04 20:37:40 +0000 2018",
+"text":"$OXYS still a strong close https://t.co/QKhUEtgOE7"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.31790606653779,39.5762871453498]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993901315720925185'},
+"date": "Tue May 08 17:11:54 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.46740161594482,39.24155041042924]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994019537170427904'},
+"date": "Wed May 09 01:01:40 +0000 2018",
+"text":"Stocks that are popping up on my STRONG BULLS scan for 5/8/2018 - $BIDU $AAPL $INTC $MA $V $NFLX $OXY $HES $ADBE… https://t.co/gyp6Yqkbp9"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.60254947227105,39.339629805576756]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '991502658157596672'},
+"date": "Wed May 02 02:20:29 +0000 2018",
+"text":"@LilTae_RBC You Say you need Gass? WaMM. You say you need need Percs? WaMM. Shit Crank bro🔥"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.901536,38.902882999999996]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993601300272054272'},
+"date": "Mon May 07 21:19:44 +0000 2018",
+"text":"$OXYS still strong https://t.co/WHylTO4EHH"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.32761697441899,39.5164058172928]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994010459132096512'},
+"date": "Wed May 09 00:25:35 +0000 2018",
+"text":"Pop me a perc roll a wood now im off it"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.9618625,38.810724]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994813901253611521'},
+"date": "Fri May 11 05:38:11 +0000 2018",
+"text":"Stocks that are popping up on my STRONG BULLS scan for 5/10/2018 - $MU $XOM $TXN $ATVI $EA $NVDA $INTC $JPM $OXY… https://t.co/smq0bF7ain"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.65693942062887,39.47623200979149]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993926525429927937'},
+"date": "Tue May 08 18:52:04 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.49930544344691,39.29444544618722]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993660634628874240'},
+"date": "Tue May 08 01:15:31 +0000 2018",
+"text":"@edrabinski Six tabs of oxy after surgery and I knew it wouldn't take much to get #3 down too."
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.515759,39.1958816]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993667573680979969'},
+"date": "Tue May 08 01:43:05 +0000 2018",
+"text":"Tell my mom that I’m sorry, I just popped another oxy 😵✌🏻"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.49322932958381,39.39008833540481]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '991818392733659136'},
+"date": "Wed May 02 23:15:06 +0000 2018",
+"text":"Keep poppin these percs i got way too high"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.53495228209246,39.34037296457615]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993905622172295169'},
+"date": "Tue May 08 17:29:00 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.53702183049097,39.355086791605444]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994813901253611521'},
+"date": "Fri May 11 05:38:11 +0000 2018",
+"text":"Stocks that are popping up on my STRONG BULLS scan for 5/10/2018 - $MU $XOM $TXN $ATVI $EA $NVDA $INTC $JPM $OXY… https://t.co/smq0bF7ain"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.3920175122442,39.43256795394634]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '992840493527642115'},
+"date": "Sat May 05 18:56:34 +0000 2018",
+"text":"HEART HURT NEED A PERC"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.764809,38.814384000000004]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993192051192643584'},
+"date": "Sun May 06 18:13:32 +0000 2018",
+"text":"Pop a perc show you what them blues do"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.8848625,38.809723999999996]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993909030136565761'},
+"date": "Tue May 08 17:42:33 +0000 2018",
+"text":"pop perc get chills"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.58562662312428,39.456653952307335]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993294113700167680'},
+"date": "Mon May 07 00:59:05 +0000 2018",
+"text":"Had a long day so I pop me a perc 🚀"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.45605279192056,39.53127184626093]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994069654883663872'},
+"date": "Wed May 09 04:20:49 +0000 2018",
+"text":"Keep poppin these percs I done got way too high"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.9148625,38.839724]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993125256926724096'},
+"date": "Sun May 06 13:48:07 +0000 2018",
+"text":"I just took a perc and now I’m on another level"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.556759,39.2368816]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993941260842004480'},
+"date": "Tue May 08 19:50:37 +0000 2018",
+"text":"When you pop a perc before work 😂💊 https://t.co/GglFte1vcR"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.9382315,38.865156000000006]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993469646178316289'},
+"date": "Mon May 07 12:36:36 +0000 2018",
+"text":"Gucci pop 10 percs b4 dis https://t.co/yfcHr75vSo"
+}, "geometry" : {
+"type": "Point", "coordinates": [-76.8502315,38.777156000000005]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '993892864030662656'},
+"date": "Tue May 08 16:38:19 +0000 2018",
+"text":"RT @fuckallofyall1: I just want a girl that’s gone answer the phone at midnight wen I’m off that perc"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.56652534741731,39.498874980876806]
+}},
+{"type": "Feature", "properties" : {
+"id": {'$numberLong': '994684497823072256'},
+"date": "Thu May 10 21:03:59 +0000 2018",
+"text":"I was just boolin smoking dope, imma pop this perc just to float ☁️"
+}, "geometry" : {
+"type": "Point", "coordinates": [-77.35332394577617,39.64399099277674]
+}},
+]}
