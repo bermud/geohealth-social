@@ -1,32 +1,4 @@
 # geohealth-social
-A geospatial application that uses social media data for health analytics.
+A geospatial application that uses social media data for health analytics. The immediate goal was to advance the understanding of opioid epidemics in an area of interest. This project started as a class project taught by Dr. Luis Bermudez at UMBC [GES 771: Advanced Spatial Data Management](http://shadygrove.umbc.edu/gis/courses.php). It was sonsored by [HSR](http://healthsolutionsresearch.org/).
 
-This project is for UMBC GES 771 - 2018
-
-Sonsored by HSR http://healthsolutionsresearch.org/
-
-The goal: is to advance understanding of opioid epidemics in an area of interest.
-
-We will:
-
-- Map social media data related to Opiods
-- Do a cross-analysis of social media with demographic and economic dada 
-
-**Roles:**
-- Sponsor - Ajay (HSR)
-- Coordination - Luis
-- Server Admin - Mark
-- Database/server support - Jack and Mark 
-- Visualization - Hunt and Akin
-- Data - Xiu xiu
-- Analytics - Nephtali and Sara
-
-**Schedule:**
-
-- May 1 - Kickoff Project
-- May 8 - Data sources, API keys, setup server, base map, logic code for the analysis
-- May 15 - Interim presentation
-- May 22 - Presentation
-
-**Beta Website**
-http://54.159.0.89/Interface_mockup_with_poly.html
+![Screenshot](https://user-images.githubusercontent.com/3738898/40396700-fa15dd16-5e1d-11e8-9589-39991ae0eade.PNG)
